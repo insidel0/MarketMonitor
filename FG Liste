@@ -1,0 +1,22 @@
+Actively scraped (10 courts):
+
+Court	Website
+FG Baden-Württemberg	landesrecht-bw.de
+FG München / Nürnberg (Bayern)	gesetze-bayern.de
+FG Berlin-Brandenburg	gesetze.berlin.de
+FG Hamburg	landesrecht-hamburg.de
+FG Hessen	hessenrecht.hessen.de
+FG Mecklenburg-Vorpommern	landesrecht-mv.de
+FG Niedersachsen	voris.wolterskluwer-online.de
+FG NRW (Köln/Düsseldorf/Münster)	nrwesuche.justiz.nrw.de
+FG Rheinland-Pfalz	landesrecht.rlp.de
+FG Sachsen-Anhalt	landesrecht.sachsen-anhalt.de
+
+Not scraped — and why:
+
+Court	Reason
+FG Bremen	Publications only via Juris (paywall)
+FG Saarland	Website blocked by Cloudflare security
+FG Sachsen	No public decision database found
+FG Schleswig-Holstein	URL unknown
+FG Thüringen	URL unknown
