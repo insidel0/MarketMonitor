@@ -136,7 +136,10 @@ def main() -> int:
     if needs_playwright:
         logger.info("Starting Playwright browser for %d courts...", len(needs_playwright))
         with sync_playwright() as pw:
-            browser = pw.chromium.launch(headless=True)
+            browser = pw.chromium.launch(
+                headless=True,
+                args=["--no-sandbox", "--disable-setuid-sandbox"],
+            )
             context = browser.new_context(
                 locale="de-DE",
                 user_agent=(
