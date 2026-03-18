@@ -28,7 +28,7 @@ from tools.scrapers.voris_scraper import VorisScraper
 from tools.scrapers.juris_scraper import JurisScraper
 from tools.scrapers.bayern_scraper import BayernScraper
 from tools.scrapers.nrw_scraper import NRWScraper
-from tools.send_email import send_digest
+from tools.write_report import write_report
 
 logging.basicConfig(
     level=logging.INFO,
@@ -179,17 +179,14 @@ def main() -> int:
     if new_publications:
         total = sum(len(v) for v in new_publications.values())
         logger.info(
-            "Sending digest: %d new publications from %d courts",
+            "Writing report: %d new publications from %d courts",
             total,
             len(new_publications),
         )
-        try:
-            send_digest(new_publications)
-        except Exception as e:
-            logger.error("Failed to send email: %s", e)
-            return 1
+        write_report(new_publications)
+        logger.info("Report written to LATEST_REPORT.md")
     else:
-        logger.info("No new publications found — no email sent.")
+        logger.info("No new publications found — report not updated.")
 
     logger.info("=== FG Monitor done ===")
     return 0
