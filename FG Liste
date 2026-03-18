@@ -1,6 +1,4 @@
-Actively scraped (10 courts):
-
-Court	Website
+Gescrapte Seiten: 
 FG Baden-Württemberg	landesrecht-bw.de
 FG München / Nürnberg (Bayern)	gesetze-bayern.de
 FG Berlin-Brandenburg	gesetze.berlin.de
@@ -11,12 +9,11 @@ FG Niedersachsen	voris.wolterskluwer-online.de
 FG NRW (Köln/Düsseldorf/Münster)	nrwesuche.justiz.nrw.de
 FG Rheinland-Pfalz	landesrecht.rlp.de
 FG Sachsen-Anhalt	landesrecht.sachsen-anhalt.de
+FG Schleswig-Holstein	gesetze-rechtsprechung.sh.juris.de
+FG Thüringen	landesrecht.thueringen.de
 
-Not scraped — and why:
+Seiten die nicht gescraped werden:
 
-Court	Reason
-FG Bremen	Publications only via Juris (paywall)
-FG Saarland	Website blocked by Cloudflare security
-FG Sachsen	No public decision database found
-FG Schleswig-Holstein	URL unknown
-FG Thüringen	URL unknown
+FG Bremen	Paywall Juris?
+FG Saarland	Webseite blockiert von Cloudflare security
+FG Sachsen	keine Seite gefunden
