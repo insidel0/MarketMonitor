@@ -13,5 +13,5 @@
 - **FG Saarland:** [Entscheidungen - Finanzgericht des Saarlandes](https://www.saarland.de/fgds/DE/pressemitteilungen/pm_Entscheidungen)
 - **FG Sachsen:** [Justiz Sachsen - Recherche](https://www.justiz.sachsen.de/esamosplus/pages/suchen.aspx) *(keine Finanzgerichte auswählbar; keine offizielle FG-Urteilsseite gefunden)*
 - **FG Sachsen-Anhalt:** [Landesrecht Sachsen-Anhalt](https://www.landesrecht.sachsen-anhalt.de/bsst/search)
-- **FG Schleswig-Holstein:** [Gesetze-Rechtsprechung Schleswig-Holstein](#) *(URL fehlt)*
-- **FG Thüringen:** [Bürgerservice Thüringen - Suche nach: AUTOR:"FG Gotha"](#) *(URL fehlt)*
+- **FG Schleswig-Holstein:** [Gesetze-Rechtsprechung Schleswig-Holstein](https://www.gesetze-rechtsprechung.sh.juris.de/bssh/search)
+- **FG Thüringen:** [Landesrecht Thüringen](https://www.landesrecht.thueringen.de/bsth/search)

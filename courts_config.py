@@ -150,21 +150,21 @@ COURTS: list[CourtConfig] = [
     CourtConfig(
         key="fg_schleswig_holstein",
         name="FG Schleswig-Holstein",
-        enabled=False,
-        scraper_type="stub",
+        enabled=True,
+        scraper_type="juris",
         config={
             "court_key": "fg_schleswig_holstein",
-            "reason": "URL noch nicht bekannt. Bitte URL ergänzen und scraper_type auf 'juris' setzen.",
+            "base_url": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/search",
         },
     ),
     CourtConfig(
         key="fg_thueringen",
         name="FG Thüringen",
-        enabled=False,
-        scraper_type="stub",
+        enabled=True,
+        scraper_type="juris",
         config={
             "court_key": "fg_thueringen",
-            "reason": "URL noch nicht bekannt. Bitte URL ergänzen und scraper_type auf 'juris' setzen.",
+            "base_url": "https://www.landesrecht.thueringen.de/bsth/search",
         },
     ),
 ]
