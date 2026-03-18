@@ -41,8 +41,8 @@ jobs:
 
       - name: Run monitoring agent
         env:
-          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          OUTLOOK_ADDRESS: ${{ secrets.OUTLOOK_ADDRESS }}
+          OUTLOOK_APP_PASSWORD: ${{ secrets.OUTLOOK_APP_PASSWORD }}
           NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
         run: python main.py
 

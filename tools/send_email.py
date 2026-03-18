@@ -1,8 +1,8 @@
-"""Send the daily Finanzgericht digest email via Gmail SMTP + App Password.
+"""Send the daily Finanzgericht digest email via Outlook SMTP + App Password.
 
 Requires environment variables:
-  GMAIL_ADDRESS       — the sender Gmail address (e.g. fg-monitor@gmail.com)
-  GMAIL_APP_PASSWORD  — 16-character Gmail App Password
+  OUTLOOK_ADDRESS     — the sender Outlook address (e.g. fg-monitor@outlook.com)
+  OUTLOOK_APP_PASSWORD — App Password from Microsoft account security settings
   NOTIFICATION_EMAIL  — recipient address(es), comma-separated
 """
 import logging
@@ -15,7 +15,7 @@ from tools.scrapers.base import Publication
 
 logger = logging.getLogger(__name__)
 
-SMTP_HOST = "smtp.gmail.com"
+SMTP_HOST = "smtp-mail.outlook.com"
 SMTP_PORT = 587
 
 
@@ -51,8 +51,8 @@ def format_email_body(
 
 def send_digest(new_publications: dict[str, list[Publication]]) -> None:
     """Send the digest email. Raises on failure."""
-    sender = os.environ["GMAIL_ADDRESS"]
-    password = os.environ["GMAIL_APP_PASSWORD"]
+    sender = os.environ["OUTLOOK_ADDRESS"]
+    password = os.environ["OUTLOOK_APP_PASSWORD"]
     recipients_raw = os.environ["NOTIFICATION_EMAIL"]
     recipients = [r.strip() for r in recipients_raw.split(",") if r.strip()]
 
