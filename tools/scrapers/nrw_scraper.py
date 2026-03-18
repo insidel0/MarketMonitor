@@ -7,14 +7,17 @@ from tools.scrapers.base import BaseScraper, Publication
 
 logger = logging.getLogger(__name__)
 
-TIMEOUT = 30_000
+TIMEOUT = 60_000
 BASE_URL = "https://nrwesuche.justiz.nrw.de/index.php"
 
 
 class NRWScraper(BaseScraper):
     """Scrapes FG NRW (Köln, Düsseldorf, Münster) from nrwesuche.justiz.nrw.de.
-    The page uses a Drupal/SOLR frontend that renders results client-side.
-    Playwright submits the form with the Finanzgericht filter and extracts results.
+
+    The page is server-rendered HTML with confirmed form/result IDs:
+      - Form:       #myNrweForm
+      - Court type: #gerichtstyp  (select dropdown)
+      - Results:    .alleErgebnisse
     """
 
     def __init__(self, context: BrowserContext, config: dict):
@@ -27,34 +30,68 @@ class NRWScraper(BaseScraper):
         page = self.context.new_page()
 
         try:
-            page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
+            page.goto(BASE_URL, wait_until="load", timeout=TIMEOUT)
 
-            # Try to set the court type filter to "Finanzgericht"
-            # The NRW site has a search form; attempt to select Finanzgericht
-            self._apply_court_filter(page)
+            # Select "FG" (Finanzgericht) in the #gerichtstyp dropdown
+            try:
+                page.wait_for_selector("#gerichtstyp", timeout=15_000)
+                # Try known option values for Finanzgericht
+                for value in ["FG", "Finanzgericht", "finanzgericht"]:
+                    try:
+                        page.select_option("#gerichtstyp", value=value)
+                        break
+                    except Exception:
+                        continue
+            except PlaywrightTimeout:
+                logger.warning("NRWScraper: #gerichtstyp not found, submitting without filter")
 
-            # Wait for results to render
-            result_selector = None
-            for sel in [
-                ".alleErgebnisse .ergebnis",
-                ".alleErgebnisse li",
-                ".result-list li",
-                ".solr-results li",
-                "#solrNrwe li",
-                ".views-row",
-            ]:
-                try:
-                    page.wait_for_selector(sel, timeout=12_000)
-                    result_selector = sel
-                    break
-                except PlaywrightTimeout:
-                    continue
+            # Submit the search form
+            try:
+                submit = page.locator(
+                    "#span_absenden, #button_suche_span, "
+                    "button[type='submit'], input[type='submit']"
+                ).first
+                if submit.is_visible(timeout=5000):
+                    submit.click()
+                else:
+                    # Fallback: submit the form directly
+                    page.evaluate("document.getElementById('myNrweForm').submit()")
+            except Exception as e:
+                logger.warning("NRWScraper: could not click submit: %s", e)
 
-            if result_selector is None:
-                logger.warning("NRWScraper: could not find result list after filter")
+            # Wait for results to appear
+            try:
+                page.wait_for_selector(".alleErgebnisse", timeout=20_000)
+            except PlaywrightTimeout:
+                logger.warning("NRWScraper: .alleErgebnisse not found after submit")
                 return []
 
-            items = page.query_selector_all(result_selector)
+            # Extract result items — try common child selectors
+            items = []
+            for sel in [".alleErgebnisse li", ".alleErgebnisse .ergebnis",
+                        ".alleErgebnisse tr", ".alleErgebnisse div"]:
+                items = page.query_selector_all(sel)
+                if items:
+                    break
+
+            # Fallback: use all links inside .alleErgebnisse
+            if not items:
+                links = page.query_selector_all(".alleErgebnisse a[href]")
+                for link in links[:20]:
+                    try:
+                        href = link.get_attribute("href") or ""
+                        title = link.inner_text().strip()
+                        if not href or not title:
+                            continue
+                        url = href if href.startswith("http") else f"https://nrwesuche.justiz.nrw.de{href}"
+                        doc_id = href.rstrip("/").split("/")[-1] or href
+                        publications.append(Publication(
+                            id=doc_id, title=title, date="", url=url, court_key=court_key
+                        ))
+                    except Exception:
+                        continue
+                return publications
+
             for item in items[:20]:
                 try:
                     link = item.query_selector("a[href]")
@@ -62,28 +99,19 @@ class NRWScraper(BaseScraper):
                         continue
                     href = link.get_attribute("href") or ""
                     title = link.inner_text().strip()
-                    if not title or not href:
+                    if not href or not title:
                         continue
 
-                    url = (
-                        href if href.startswith("http")
-                        else f"https://nrwesuche.justiz.nrw.de{href}"
-                    )
+                    url = href if href.startswith("http") else f"https://nrwesuche.justiz.nrw.de{href}"
                     doc_id = href.rstrip("/").split("/")[-1] or href
 
                     text = item.inner_text()
                     m = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
                     date = m.group(0) if m else ""
 
-                    publications.append(
-                        Publication(
-                            id=doc_id,
-                            title=title,
-                            date=date,
-                            url=url,
-                            court_key=court_key,
-                        )
-                    )
+                    publications.append(Publication(
+                        id=doc_id, title=title, date=date, url=url, court_key=court_key
+                    ))
                 except Exception as e:
                     logger.debug("NRWScraper: could not parse item: %s", e)
 
@@ -96,25 +124,3 @@ class NRWScraper(BaseScraper):
 
         logger.info("NRWScraper: found %d publications", len(publications))
         return publications
-
-    def _apply_court_filter(self, page) -> None:
-        """Try to select 'Finanzgericht' in the court type dropdown/filter."""
-        try:
-            # Try a <select> dropdown first
-            selects = page.query_selector_all("select")
-            for sel_el in selects:
-                options = sel_el.query_selector_all("option")
-                for opt in options:
-                    if "Finanzgericht" in (opt.inner_text() or ""):
-                        sel_el.select_option(value=opt.get_attribute("value"))
-                        break
-
-            # Try clicking a submit/search button
-            submit = page.locator(
-                "button[type='submit'], input[type='submit'], button:has-text('Suchen')"
-            ).first
-            if submit.is_visible(timeout=3000):
-                submit.click()
-                page.wait_for_timeout(2000)
-        except Exception:
-            pass  # Filter not available; results will be all courts

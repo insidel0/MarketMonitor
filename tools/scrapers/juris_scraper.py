@@ -1,5 +1,6 @@
 import logging
 import re
+from urllib.parse import urlparse
 
 from playwright.sync_api import Page, BrowserContext, TimeoutError as PlaywrightTimeout
 
@@ -7,8 +8,8 @@ from tools.scrapers.base import BaseScraper, Publication
 
 logger = logging.getLogger(__name__)
 
-# Timeout for page load and element waits (ms)
-TIMEOUT = 30_000
+TIMEOUT = 60_000   # 60s for full page load
+BOOT_TIMEOUT = 45_000  # wait for SPA boot to finish
 
 
 class JurisScraper(BaseScraper):
@@ -17,7 +18,11 @@ class JurisScraper(BaseScraper):
     Handles: FG Baden-Württemberg, Berlin-Brandenburg, Hamburg, Hessen,
     Mecklenburg-Vorpommern, Rheinland-Pfalz, Sachsen-Anhalt.
 
-    All share the same underlying React frontend; the portal ID differs per state.
+    Strategy:
+      1. Navigate to the search URL (wait for 'load' event)
+      2. Wait for the SPA loading screen (.loading_msg) to disappear
+      3. Collect all document links via a[href*="/document/"]
+      4. Filter + deduplicate, return up to 20 newest
     """
 
     def __init__(self, context: BrowserContext, config: dict):
@@ -31,29 +36,29 @@ class JurisScraper(BaseScraper):
 
         page = self.context.new_page()
         try:
-            # Navigate to the search page and wait for the app shell
-            page.goto(base_url, wait_until="domcontentloaded", timeout=TIMEOUT)
+            # Use 'load' so the JS bundle has time to start executing
+            page.goto(base_url, wait_until="load", timeout=TIMEOUT)
 
-            # The juris Bürgerservice SPA renders results after JS initialises.
-            # We wait for a known selector that appears once the page is ready.
-            # Primary selectors observed across all portals:
-            #   - [data-testid="search-result-item"]
-            #   - .result-list-item
-            #   - article (generic fallback)
-            result_selector = self._wait_for_results(page)
-            if result_selector is None:
-                logger.warning(
-                    "JurisScraper [%s]: could not find result list", court_key
+            # The SPA shows .loading_msg while it boots.
+            # Wait until that element is hidden/gone — then React has rendered.
+            try:
+                page.wait_for_selector(
+                    ".loading_msg", state="hidden", timeout=BOOT_TIMEOUT
                 )
-                return []
+            except PlaywrightTimeout:
+                # If loading_msg never appeared or never disappeared, proceed anyway
+                pass
 
-            # Filter to Rechtsprechung (case law) if the URL doesn't already do so
-            self._apply_filters(page, court_key)
+            # Give React one extra second to finish rendering the result list
+            page.wait_for_timeout(3000)
 
-            # Re-wait after filter application
+            # Try to click a "Rechtsprechung" filter to narrow to case law
+            self._apply_filters(page)
+
+            # Wait a moment for any filter-triggered re-render
             page.wait_for_timeout(2000)
 
-            publications = self._extract_results(page, result_selector, court_key)
+            publications = self._extract_document_links(page, court_key)
 
         except PlaywrightTimeout:
             logger.error(
@@ -64,72 +69,57 @@ class JurisScraper(BaseScraper):
         finally:
             page.close()
 
-        logger.info("JurisScraper [%s]: found %d publications", court_key, len(publications))
+        logger.info(
+            "JurisScraper [%s]: found %d publications", court_key, len(publications)
+        )
         return publications
 
-    def _wait_for_results(self, page: Page) -> str | None:
-        """Try known result selectors in order and return the one that works."""
-        candidates = [
-            "[data-testid='search-result-item']",
-            ".result-list-item",
-            ".bs-search-result-item",
-            ".hitlist-item",
-            "article.result",
-            "li.result",
-        ]
-        for selector in candidates:
-            try:
-                page.wait_for_selector(selector, timeout=10_000)
-                return selector
-            except PlaywrightTimeout:
-                continue
-        return None
-
-    def _apply_filters(self, page: Page, court_key: str) -> None:
-        """Attempt to filter to Rechtsprechung documents if not already filtered.
-        Silently skips if the filter UI is not found — results will still include
-        all document types but deduplication handles noise over time.
-        """
+    def _apply_filters(self, page: Page) -> None:
+        """Try to click a Rechtsprechung filter. Silently skip if not found."""
         try:
-            # Look for a document-type filter button/chip labelled "Rechtsprechung"
             rspr_btn = page.locator(
                 "button:has-text('Rechtsprechung'), "
                 "label:has-text('Rechtsprechung'), "
                 "a:has-text('Rechtsprechung')"
             ).first
-            if rspr_btn.is_visible(timeout=3000):
+            if rspr_btn.is_visible(timeout=4000):
                 rspr_btn.click()
-                page.wait_for_timeout(1500)
+                page.wait_for_timeout(2000)
         except Exception:
-            pass  # Filter not found or not needed
+            pass
 
-    def _extract_results(
-        self, page: Page, result_selector: str, court_key: str
+    def _extract_document_links(
+        self, page: Page, court_key: str
     ) -> list[Publication]:
-        """Extract Publication objects from rendered result items."""
-        items = page.query_selector_all(result_selector)
-        publications = []
+        """Collect all a[href*='/document/'] links from the rendered page."""
+        base_url: str = self.config["base_url"]
+        parsed = urlparse(base_url)
+        origin = f"{parsed.scheme}://{parsed.netloc}"
 
-        for item in items[:20]:
+        # All document links on juris portals follow the pattern:
+        #   /{portalId}/document/{docId}
+        links = page.query_selector_all("a[href*='/document/']")
+        seen_ids: set[str] = set()
+        publications: list[Publication] = []
+
+        for link in links:
             try:
-                # Title + link: find the first anchor with meaningful text
-                link = item.query_selector("a[href]")
-                if not link:
-                    continue
-
                 href = link.get_attribute("href") or ""
                 title = link.inner_text().strip()
-                if not title or not href:
+                if not href or not title or len(title) < 5:
                     continue
 
                 # Build absolute URL
-                url = href if href.startswith("http") else self._absolute_url(href)
+                url = href if href.startswith("http") else origin + href
+                doc_id = href.rstrip("/").split("/")[-1]
 
-                # Derive a stable ID from the URL path
-                doc_id = self._extract_id(href)
+                # Skip duplicates (same document linked multiple times)
+                if doc_id in seen_ids:
+                    continue
+                seen_ids.add(doc_id)
 
-                # Date: look for a time element or text matching DD.MM.YYYY
-                date = self._extract_date(item)
+                # Extract date from surrounding context
+                date = self._extract_date_near_link(page, link)
 
                 publications.append(
                     Publication(
@@ -140,38 +130,31 @@ class JurisScraper(BaseScraper):
                         court_key=court_key,
                     )
                 )
+                if len(publications) >= 20:
+                    break
             except Exception as e:
-                logger.debug("JurisScraper: could not parse item: %s", e)
-                continue
+                logger.debug("JurisScraper: could not parse link: %s", e)
 
         return publications
 
-    def _absolute_url(self, href: str) -> str:
-        base = self.config["base_url"].rstrip("/")
-        # Remove path portion, keep scheme+host
-        from urllib.parse import urlparse
-        parsed = urlparse(base)
-        origin = f"{parsed.scheme}://{parsed.netloc}"
-        return origin + ("" if href.startswith("/") else "/") + href
-
-    def _extract_id(self, href: str) -> str:
-        # Try to pull the last meaningful path segment as the document ID
-        parts = [p for p in href.rstrip("/").split("/") if p]
-        return parts[-1] if parts else href
-
-    def _extract_date(self, item) -> str:
-        # 1) <time datetime="..."> element
-        time_el = item.query_selector("time[datetime]")
-        if time_el:
-            dt = time_el.get_attribute("datetime") or ""
-            m = re.search(r"\d{2}\.\d{2}\.\d{4}|\d{4}-\d{2}-\d{2}", dt)
-            if m:
-                return m.group(0)
-
-        # 2) DD.MM.YYYY anywhere in the item text
-        text = item.inner_text()
-        m = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
-        if m:
-            return m.group(0)
-
-        return ""
+    def _extract_date_near_link(self, page: Page, link) -> str:
+        """Look for a DD.MM.YYYY date in the link's parent container."""
+        try:
+            # Walk up to find a container with date text
+            # Use JS to get the parent element's text
+            text = page.evaluate(
+                """(el) => {
+                    let p = el.parentElement;
+                    for (let i = 0; i < 5; i++) {
+                        if (!p) break;
+                        const m = p.innerText.match(/\\d{2}\\.\\d{2}\\.\\d{4}/);
+                        if (m) return m[0];
+                        p = p.parentElement;
+                    }
+                    return '';
+                }""",
+                link,
+            )
+            return text or ""
+        except Exception:
+            return ""
