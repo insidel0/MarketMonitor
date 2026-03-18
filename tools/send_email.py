@@ -67,6 +67,7 @@ def send_digest(new_publications: dict[str, list[Publication]]) -> None:
     msg["From"] = sender
     msg["To"] = ", ".join(recipients)
 
+    logger.info("Connecting to SMTP host: %s:%s as user: %s", SMTP_HOST, SMTP_PORT, sender)
     with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as smtp:
         smtp.ehlo()
         smtp.starttls()
