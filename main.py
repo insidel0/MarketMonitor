@@ -16,7 +16,7 @@ Run in GitHub Actions:
 import json
 import logging
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright
@@ -58,11 +58,29 @@ def save_state(state: dict) -> None:
         f.write("\n")
 
 
+def is_recent(pub: Publication, max_days: int = 7) -> bool:
+    """Return True if the publication date is within the last max_days days.
+    Publications with no parseable date are included to avoid missing real ones."""
+    if not pub.date:
+        return True
+    for fmt in ("%d.%m.%Y", "%Y-%m-%d"):
+        try:
+            pub_date = datetime.strptime(pub.date, fmt).date()
+            cutoff = (datetime.now(timezone.utc) - timedelta(days=max_days)).date()
+            return pub_date >= cutoff
+        except ValueError:
+            continue
+    return True  # Unparseable date — include to be safe
+
+
 def get_new_publications(
     publications: list[Publication], seen_ids: list[str]
 ) -> list[Publication]:
     seen_set = set(seen_ids)
-    return [p for p in publications if p.id not in seen_set]
+    return [
+        p for p in publications
+        if p.id not in seen_set and is_recent(p)
+    ]
 
 
 def update_seen(seen_ids: list[str], new_ids: list[str]) -> list[str]:
