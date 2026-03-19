@@ -5,10 +5,6 @@ Täglich neue Urteile und Entscheidungen der deutschen Finanzgerichte automatisc
 
 ## Eingaben (Inputs)
 - `state.json` — Zustand des letzten Laufs (bereits gesehene Entscheidungs-IDs pro Gericht)
-- Umgebungsvariablen (GitHub Secrets):
-  - `GMAIL_ADDRESS` — Absender-E-Mail
-  - `GMAIL_APP_PASSWORD` — Gmail App-Passwort
-  - `NOTIFICATION_EMAIL` — Empfänger (kommagetrennt)
 
 ## Ablauf
 1. `main.py` lädt `state.json`
