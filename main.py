@@ -58,7 +58,7 @@ def save_state(state: dict) -> None:
         f.write("\n")
 
 
-def is_recent(pub: Publication, max_days: int = 7) -> bool:
+def is_recent(pub: Publication, max_days: int = 8) -> bool:
     """Return True if the publication date is within the last max_days days.
     Publications with no parseable date are included to avoid missing real ones."""
     if not pub.date:
