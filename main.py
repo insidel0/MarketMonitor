@@ -19,15 +19,11 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from playwright.sync_api import sync_playwright
-
 from courts_config import COURTS, CourtConfig
 from tools.scrapers.base import Publication
 from tools.scrapers.stub_scraper import StubScraper
 from tools.scrapers.voris_scraper import VorisScraper
-from tools.scrapers.juris_scraper import JurisScraper
-from tools.scrapers.bayern_scraper import BayernScraper
-from tools.scrapers.nrw_scraper import NRWScraper
+from tools.scrapers.dejure_scraper import DejureScraper
 from tools.write_report import write_report
 
 logging.basicConfig(
@@ -58,7 +54,7 @@ def save_state(state: dict) -> None:
         f.write("\n")
 
 
-def is_recent(pub: Publication, max_days: int = 8) -> bool:
+def is_recent(pub: Publication, max_days: int = 28) -> bool:
     """Return True if the publication date is within the last max_days days.
     Publications with no parseable date are included to avoid missing real ones."""
     if not pub.date:
@@ -97,20 +93,10 @@ def update_seen(seen_ids: list[str], new_ids: list[str]) -> list[str]:
 
 def build_scraper(court: CourtConfig, playwright_context=None):
     """Return an instantiated scraper for the given court."""
-    if court.scraper_type == "voris":
+    if court.scraper_type == "dejure":
+        return DejureScraper(court.config)
+    elif court.scraper_type == "voris":
         return VorisScraper(court.config)
-    elif court.scraper_type == "juris":
-        if playwright_context is None:
-            raise RuntimeError("JurisScraper requires a Playwright context")
-        return JurisScraper(playwright_context, court.config)
-    elif court.scraper_type == "bayern":
-        if playwright_context is None:
-            raise RuntimeError("BayernScraper requires a Playwright context")
-        return BayernScraper(playwright_context, court.config)
-    elif court.scraper_type == "nrw":
-        if playwright_context is None:
-            raise RuntimeError("NRWScraper requires a Playwright context")
-        return NRWScraper(playwright_context, court.config)
     elif court.scraper_type == "stub":
         return StubScraper(court.config)
     else:
@@ -126,12 +112,8 @@ def main() -> int:
     state = load_state()
     new_publications: dict[str, list[Publication]] = {}
 
-    # Separate courts by whether they need Playwright
-    needs_playwright = [c for c in COURTS if c.enabled and c.scraper_type in ("juris", "bayern", "nrw")]
-    no_playwright = [c for c in COURTS if c.enabled and c.scraper_type not in ("juris", "bayern", "nrw")]
-
-    # --- Run non-Playwright scrapers first (fast) ---
-    for court in no_playwright:
+    # --- Alle Gerichte scrapen (kein Playwright mehr erforderlich) ---
+    for court in [c for c in COURTS if c.enabled]:
         logger.info("Scraping: %s", court.name)
         try:
             scraper = build_scraper(court)
@@ -144,49 +126,11 @@ def main() -> int:
 
             if new_pubs:
                 new_publications[court.name] = new_pubs
-                logger.info("  → %d new publications", len(new_pubs))
+                logger.info("  → %d neue Entscheidungen", len(new_pubs))
             else:
-                logger.info("  → no new publications")
+                logger.info("  → keine neuen Entscheidungen")
         except Exception as e:
-            logger.error("Failed to scrape %s: %s", court.name, e)
-
-    # --- Run Playwright scrapers (shared browser instance) ---
-    if needs_playwright:
-        logger.info("Starting Playwright browser for %d courts...", len(needs_playwright))
-        with sync_playwright() as pw:
-            browser = pw.chromium.launch(
-                headless=True,
-                args=["--no-sandbox", "--disable-setuid-sandbox"],
-            )
-            context = browser.new_context(
-                locale="de-DE",
-                user_agent=(
-                    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                ),
-            )
-
-            for court in needs_playwright:
-                logger.info("Scraping: %s", court.name)
-                try:
-                    scraper = build_scraper(court, playwright_context=context)
-                    publications = scraper.fetch_latest()
-                    seen_ids = state["seen"].get(court.key, [])
-                    new_pubs = get_new_publications(publications, seen_ids)
-
-                    all_ids = [p.id for p in publications]
-                    state["seen"][court.key] = update_seen(seen_ids, all_ids)
-
-                    if new_pubs:
-                        new_publications[court.name] = new_pubs
-                        logger.info("  → %d new publications", len(new_pubs))
-                    else:
-                        logger.info("  → no new publications")
-                except Exception as e:
-                    logger.error("Failed to scrape %s: %s", court.name, e)
-
-            context.close()
-            browser.close()
+            logger.error("Fehler beim Scrapen von %s: %s", court.name, e)
 
     # --- Update state timestamp and save ---
     state["last_run"] = datetime.now(timezone.utc).isoformat()

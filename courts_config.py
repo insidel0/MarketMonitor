@@ -1,9 +1,13 @@
-"""Central registry of all German Finanzgerichte and their scraper configuration.
+"""Zentrales Register aller deutschen Finanzgerichte mit Scraper-Konfiguration.
 
-To add a new court:
-  1. Import or define the appropriate scraper class.
-  2. Add a CourtConfig entry to COURTS with enabled=True.
-  3. For Playwright-based scrapers, pass the BrowserContext at runtime via main.py.
+Primärquelle: dejure.org (kostenlos, servergerendert, bereits nach Gericht gefiltert).
+Sekundärquelle: Direkte Landesrechtsdatenbanken (Voris für Niedersachsen).
+
+Scraper-Typen:
+  "dejure"  – DejureScraper  (kein Playwright, schnell, empfohlen)
+  "voris"   – VorisScraper   (kein Playwright, Niedersachsen spezifisch)
+  "nrw"     – NRWScraper     (Playwright, NRW-Justizportal als Ergänzung)
+  "stub"    – StubScraper    (deaktiviert, Paywall oder kein Zugriff)
 """
 from dataclasses import dataclass, field
 from typing import Any
@@ -11,84 +15,161 @@ from typing import Any
 
 @dataclass
 class CourtConfig:
-    key: str                # Unique key used in state.json
-    name: str               # Display name used in email digest
-    enabled: bool           # Set False for paywalled, blocked, or URL-unknown courts
-    scraper_type: str       # "voris" | "juris" | "bayern" | "nrw" | "stub"
+    key: str                # Eindeutiger Schlüssel in state.json
+    name: str               # Anzeigename im Bericht
+    enabled: bool
+    scraper_type: str       # "dejure" | "voris" | "nrw" | "stub"
     config: dict[str, Any] = field(default_factory=dict)
 
 
 COURTS: list[CourtConfig] = [
+
+    # ── Baden-Württemberg ─────────────────────────────────────────────────────
     CourtConfig(
         key="fg_bw",
         name="FG Baden-Württemberg",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_bw",
-            "base_url": "https://www.landesrecht-bw.de/bsbw/search",
+            "gericht": "FG Baden-Württemberg",
         },
     ),
+
+    # ── Bayern: München ───────────────────────────────────────────────────────
     CourtConfig(
         key="fg_muenchen",
-        name="FG München / FG Nürnberg (Bayern)",
+        name="FG München",
         enabled=True,
-        scraper_type="bayern",
+        scraper_type="dejure",
         config={
             "court_key": "fg_muenchen",
+            "gericht": "FG München",
         },
     ),
+
+    # ── Bayern: Nürnberg ──────────────────────────────────────────────────────
     CourtConfig(
-        key="fg_berlin",
+        key="fg_nuernberg",
+        name="FG Nürnberg",
+        enabled=True,
+        scraper_type="dejure",
+        config={
+            "court_key": "fg_nuernberg",
+            "gericht": "FG Nürnberg",
+        },
+    ),
+
+    # ── Berlin-Brandenburg ────────────────────────────────────────────────────
+    CourtConfig(
+        key="fg_berlin_bb",
         name="FG Berlin-Brandenburg",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
-            "court_key": "fg_berlin",
-            "base_url": "https://gesetze.berlin.de/bsbe/search",
+            "court_key": "fg_berlin_bb",
+            "gericht": "FG Berlin-Brandenburg",
         },
     ),
-    # FG Bremen: publications only via juris (kostenpflichtig) — skipped
+
+    # ── Brandenburg (historische Einträge auf dejure) ─────────────────────────
+    CourtConfig(
+        key="fg_brandenburg",
+        name="FG Brandenburg",
+        enabled=True,
+        scraper_type="dejure",
+        config={
+            "court_key": "fg_brandenburg",
+            "gericht": "FG Brandenburg",
+        },
+    ),
+
+    # ── Bremen ────────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_bremen",
         name="FG Bremen",
-        enabled=False,
-        scraper_type="stub",
+        enabled=True,
+        scraper_type="dejure",
         config={
             "court_key": "fg_bremen",
-            "reason": "Veröffentlichung nur über juris (kostenpflichtig). Manuelle Prüfung erforderlich.",
+            "gericht": "FG Bremen",
         },
     ),
+
+    # ── Düsseldorf ────────────────────────────────────────────────────────────
+    CourtConfig(
+        key="fg_duesseldorf",
+        name="FG Düsseldorf",
+        enabled=True,
+        scraper_type="dejure",
+        config={
+            "court_key": "fg_duesseldorf",
+            "gericht": "FG Düsseldorf",
+        },
+    ),
+
+    # ── Hamburg ───────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_hamburg",
         name="FG Hamburg",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_hamburg",
-            "base_url": "https://www.landesrecht-hamburg.de/bsha/search",
+            "gericht": "FG Hamburg",
         },
     ),
+
+    # ── Hessen ────────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_hessen",
         name="FG Hessen",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_hessen",
-            "base_url": "https://www.rv.hessenrecht.hessen.de/bshe/search",
+            "gericht": "FG Hessen",
         },
     ),
+
+    # ── Köln ──────────────────────────────────────────────────────────────────
+    CourtConfig(
+        key="fg_koeln",
+        name="FG Köln",
+        enabled=True,
+        scraper_type="dejure",
+        config={
+            "court_key": "fg_koeln",
+            "gericht": "FG Köln",
+        },
+    ),
+
+    # ── Mecklenburg-Vorpommern ────────────────────────────────────────────────
     CourtConfig(
         key="fg_mv",
         name="FG Mecklenburg-Vorpommern",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_mv",
-            "base_url": "https://www.landesrecht-mv.de/bsmv/search",
+            "gericht": "FG Mecklenburg-Vorpommern",
         },
     ),
+
+    # ── Münster ───────────────────────────────────────────────────────────────
+    CourtConfig(
+        key="fg_muenster",
+        name="FG Münster",
+        enabled=True,
+        scraper_type="dejure",
+        config={
+            "court_key": "fg_muenster",
+            "gericht": "FG Münster",
+        },
+    ),
+
+    # ── Niedersachsen ─────────────────────────────────────────────────────────
+    # Voris: direkt FG-gefiltert, gut funktionierend
     CourtConfig(
         key="fg_niedersachsen",
         name="FG Niedersachsen",
@@ -98,73 +179,87 @@ COURTS: list[CourtConfig] = [
             "court_key": "fg_niedersachsen",
         },
     ),
+    # dejure als zweite Quelle (anderer key → separater Eintrag im Bericht)
     CourtConfig(
-        key="fg_nrw",
-        name="FG NRW (Köln / Düsseldorf / Münster)",
+        key="fg_niedersachsen_dejure",
+        name="FG Niedersachsen (dejure)",
         enabled=True,
-        scraper_type="nrw",
+        scraper_type="dejure",
         config={
-            "court_key": "fg_nrw",
+            "court_key": "fg_niedersachsen_dejure",
+            "gericht": "FG Niedersachsen",
         },
     ),
+
+    # ── Rheinland-Pfalz ───────────────────────────────────────────────────────
     CourtConfig(
         key="fg_rlp",
         name="FG Rheinland-Pfalz",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_rlp",
-            "base_url": "https://www.landesrecht.rlp.de/bsrp/search",
+            "gericht": "FG Rheinland-Pfalz",
         },
     ),
+
+    # ── Saarland ──────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_saarland",
         name="FG Saarland",
-        enabled=False,
-        scraper_type="stub",
+        enabled=True,
+        scraper_type="dejure",
         config={
             "court_key": "fg_saarland",
-            "reason": "Seite durch Cloudflare WAF geschützt — automatischer Zugriff nicht möglich. Manuelle Prüfung erforderlich.",
+            "gericht": "FG Saarland",
         },
     ),
+
+    # ── Sachsen ───────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_sachsen",
         name="FG Sachsen",
-        enabled=False,
-        scraper_type="stub",
+        enabled=True,
+        scraper_type="dejure",
         config={
             "court_key": "fg_sachsen",
-            "reason": "Kein Finanzgericht im esamosplus-Portal auswählbar. Keine öffentliche Urteilsdatenbank gefunden.",
+            "gericht": "FG Sachsen",
         },
     ),
+
+    # ── Sachsen-Anhalt ────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_sachsen_anhalt",
         name="FG Sachsen-Anhalt",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_sachsen_anhalt",
-            "base_url": "https://www.landesrecht.sachsen-anhalt.de/bsst/search",
+            "gericht": "FG Sachsen-Anhalt",
         },
     ),
+
+    # ── Schleswig-Holstein ────────────────────────────────────────────────────
     CourtConfig(
         key="fg_schleswig_holstein",
         name="FG Schleswig-Holstein",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_schleswig_holstein",
-            "base_url": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/search",
+            "gericht": "FG Schleswig-Holstein",
         },
     ),
+
+    # ── Thüringen ─────────────────────────────────────────────────────────────
     CourtConfig(
         key="fg_thueringen",
         name="FG Thüringen",
         enabled=True,
-        scraper_type="juris",
+        scraper_type="dejure",
         config={
             "court_key": "fg_thueringen",
-            "base_url": "https://www.landesrecht.thueringen.de/bsth/search",
+            "gericht": "FG Thüringen",
         },
     ),
 ]
