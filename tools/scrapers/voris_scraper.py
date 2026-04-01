@@ -55,19 +55,15 @@ class VorisScraper(BaseScraper):
             url = f"https://voris.wolterskluwer-online.de{href}"
             title = link_tag.get_text(strip=True)
 
-            # Date is in the sibling extra div
-            parent = item.parent
+            # Extract DD.MM.YYYY from the full item container text.
+            # This is robust against class-name changes on the Voris portal.
             date = ""
+            parent = item.parent
             if parent:
-                extra = parent.find(
-                    "div", class_=re.compile(r"egal-search-result-item-extra")
-                )
-                if extra:
-                    text = extra.get_text(" ", strip=True)
-                    # Extract DD.MM.YYYY
-                    m = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
-                    if m:
-                        date = m.group(0)
+                item_text = parent.get_text(" ", strip=True)
+                m = re.search(r"\d{2}\.\d{2}\.\d{4}", item_text)
+                if m:
+                    date = m.group(0)
 
             publications.append(
                 Publication(

@@ -15,7 +15,7 @@ stop early when all entries on a page are outside the 28-day window.
 import logging
 import re
 import time
-from urllib.parse import urlencode, urlparse, parse_qs
+from urllib.parse import quote, urlparse, parse_qs
 
 import requests
 from bs4 import BeautifulSoup
@@ -49,15 +49,18 @@ class DejureScraper(BaseScraper):
         gericht: str = self.config["gericht"]
         publications: list[Publication] = []
 
+        # dejure.org uses Latin-1 (ISO-8859-1) percent-encoding for umlauts,
+        # e.g. ü → %FC, ö → %F6. Python's requests encodes as UTF-8 (%C3%BC),
+        # which dejure.org does not recognise. Build the URL manually.
+        gericht_enc = quote(gericht, encoding="latin-1")
+
         for page_num in range(1, MAX_PAGES + 1):
-            params: dict = {"gericht": gericht}
+            url = f"{BASE_URL}?gericht={gericht_enc}"
             if page_num > 1:
-                params["seite"] = str(page_num)
+                url += f"&seite={page_num}"
 
             try:
-                resp = requests.get(
-                    BASE_URL, params=params, headers=HEADERS, timeout=30
-                )
+                resp = requests.get(url, headers=HEADERS, timeout=30)
                 resp.raise_for_status()
             except requests.RequestException as e:
                 logger.warning(
