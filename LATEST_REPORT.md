@@ -1,11 +1,11 @@
-# Neue Finanzgericht-Entscheidungen — 13.04.2026
+# Neue Finanzgericht-Entscheidungen — 20.04.2026
 
 **1 neue Entscheidung aus 1 Gericht**
 
-## FG München (1)
+## FG Berlin-Brandenburg (1)
 
-- **24.03.2026 — FG München, 24.03.2026 - 4 K 927/24**  
-  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20M%FCnchen&Datum=24.03.2026&Aktenzeichen=4%20K%20927%2F24
+- **25.03.2026 — FG Berlin-Brandenburg, 25.03.2026 - 3 K 3167/24**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20Berlin-Brandenburg&Datum=25.03.2026&Aktenzeichen=3%20K%203167%2F24
 
 ---
-*Abruf: 13.04.2026 09:03 UTC*
+*Abruf: 20.04.2026 09:09 UTC*
