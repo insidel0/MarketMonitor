@@ -1,11 +1,13 @@
-# Neue Finanzgericht-Entscheidungen — 20.04.2026
+# Neue Finanzgericht-Entscheidungen — 27.04.2026
 
-**1 neue Entscheidung aus 1 Gericht**
+**2 neue Entscheidungen aus 1 Gericht**
 
-## FG Berlin-Brandenburg (1)
+## FG Düsseldorf (2)
 
-- **25.03.2026 — FG Berlin-Brandenburg, 25.03.2026 - 3 K 3167/24**  
-  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20Berlin-Brandenburg&Datum=25.03.2026&Aktenzeichen=3%20K%203167%2F24
+- **31.03.2026 — FG Düsseldorf, 31.03.2026 - 10 K 817/24**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20D%FCsseldorf&Datum=31.03.2026&Aktenzeichen=10%20K%20817%2F24
+- **31.03.2026 — FG Düsseldorf, 31.03.2026 - 10 K 71/26**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20D%FCsseldorf&Datum=31.03.2026&Aktenzeichen=10%20K%2071%2F26
 
 ---
-*Abruf: 20.04.2026 09:09 UTC*
+*Abruf: 27.04.2026 09:18 UTC*

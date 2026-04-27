@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-04-20T09:09:27.584181+00:00",
+  "last_run": "2026-04-27T09:18:24.996539+00:00",
   "seen": {
     "fg_bw": [
       "fg_bw_16.10.2025_8_K_626-24",
@@ -311,7 +311,8 @@
       "fg_muenchen_15.01.2025_4_KJ_158-22",
       "fg_muenchen_24.03.2026_4_K_927-24",
       "fg_muenchen_20.02.2026_4_K_515-19",
-      "fg_muenchen_01.12.2023_15_K_2484-22"
+      "fg_muenchen_01.12.2023_15_K_2484-22",
+      "fg_muenchen_24.06.2025_5_K_786-247"
     ],
     "fg_nuernberg": [
       "fg_nuernberg_15.01.2026_7_K_794-24",
@@ -1086,7 +1087,9 @@
       "fg_duesseldorf_29.11.2023_4_K_619-23",
       "fg_duesseldorf_28.11.2023_10_K_2714-20",
       "fg_duesseldorf_18.12.2025_13_K_1481-25",
-      "fg_duesseldorf_27.01.2026_4_K_773-25"
+      "fg_duesseldorf_27.01.2026_4_K_773-25",
+      "fg_duesseldorf_31.03.2026_10_K_817-24",
+      "fg_duesseldorf_31.03.2026_10_K_71-26"
     ],
     "fg_hamburg": [
       "fg_hamburg_19.03.2026_6_V_30-26",
@@ -1243,7 +1246,8 @@
       "fg_hamburg_16.02.2026_3_K_13-26",
       "fg_hamburg_17.11.2025_2_K_50-25",
       "fg_hamburg_06.11.2025_4_K_44-23",
-      "fg_hamburg_12.02.2025_4_V_57-24"
+      "fg_hamburg_12.02.2025_4_V_57-24",
+      "fg_hamburg_16.12.2024_2_K_97-24"
     ],
     "fg_hessen": [
       "fg_hessen_10.12.2025_5_K_1312-23",
@@ -1395,7 +1399,11 @@
       "fg_hessen_19.12.2022_8_K_1775-19",
       "fg_hessen_13.12.2022_6_K_1062-20",
       "fg_hessen_08.12.2022_4_K_1006-20",
-      "fg_hessen_01.12.2022_5_K_852-21"
+      "fg_hessen_01.12.2022_5_K_852-21",
+      "fg_hessen_19.03.2026_11_K_1597-25",
+      "fg_hessen_08.12.2025_3_K_1541-20",
+      "fg_hessen_26.11.2025_11_K_930-23",
+      "fg_hessen_24.01.2025_5_K_976-24"
     ],
     "fg_koeln": [
       "fg_koeln_15.01.2026_11_K_2249-25",
@@ -2034,7 +2042,8 @@
       "fg_niedersachsen_dejure_03.03.2026_13_K_59-25",
       "fg_niedersachsen_dejure_27.02.2026_1_V_35-26",
       "fg_niedersachsen_dejure_12.02.2026_3_V_251-24",
-      "fg_niedersachsen_dejure_18.11.2025_7_K_165-24"
+      "fg_niedersachsen_dejure_18.11.2025_7_K_165-24",
+      "fg_niedersachsen_dejure_03.04.2025_5_K_58-25"
     ],
     "fg_rlp": [
       "fg_rlp_04.12.2025_4_K_1564-24",
@@ -2186,7 +2195,8 @@
       "fg_rlp_18.03.2021_4_K_1017-20",
       "fg_rlp_17.03.2021_6_V_1857-20",
       "fg_rlp_17.03.2021_1_K_1297-17",
-      "fg_rlp_23.02.2021_3_K_1953-19"
+      "fg_rlp_23.02.2021_3_K_1953-19",
+      "fg_rlp_17.12.2025_1_K_1482-23"
     ],
     "fg_saarland": [
       "fg_saarland_26.11.2025_1_K_1272-22",
@@ -2491,7 +2501,8 @@
       "fg_sachsen_06.05.2021_8_K_31-21_zur�ck_zur_�bersicht_Seite_drucken",
       "fg_sachsen_06.05.2021_8_K_31-21",
       "fg_sachsen_06.05.2021_8_K_1102-20",
-      "fg_sachsen_10.09.2020_3_K_1498-18"
+      "fg_sachsen_10.09.2020_3_K_1498-18",
+      "fg_sachsen_25.02.2026_2_K_602-25"
     ],
     "fg_sachsen_anhalt": [
       "fg_sachsen_anhalt_18.11.2025_5_Ko_577-25",
@@ -2643,7 +2654,9 @@
       "fg_sachsen_anhalt_28.06.2016_2_K_620-13",
       "fg_sachsen_anhalt_21.06.2016_1_K_427-13",
       "fg_sachsen_anhalt_21.06.2016_1_K_1368-15",
-      "fg_sachsen_anhalt_17.06.2016_6_K_277-10"
+      "fg_sachsen_anhalt_17.06.2016_6_K_277-10",
+      "fg_sachsen_anhalt_16.10.2025_2_K_432-25",
+      "fg_sachsen_anhalt_20.11.2023_3_V_288-23"
     ],
     "fg_schleswig_holstein": [
       "fg_schleswig_holstein_07.10.2025_4_K_151-24",
@@ -2947,7 +2960,8 @@
       "fg_thueringen_21.09.2016_4_K_434-13",
       "fg_thueringen_14.09.2016_3_K_257-16",
       "fg_thueringen_08.09.2016_1_K_699-15",
-      "fg_thueringen_17.08.2016_3_K_228-14"
+      "fg_thueringen_17.08.2016_3_K_228-14",
+      "fg_thueringen_14.05.2025_4_K_525-24"
     ]
   }
 }
