@@ -1,13 +1,18 @@
-# Neue Finanzgericht-Entscheidungen — 27.04.2026
+# Neue Finanzgericht-Entscheidungen — 04.05.2026
 
-**2 neue Entscheidungen aus 1 Gericht**
+**3 neue Entscheidungen aus 2 Gerichten**
 
-## FG Düsseldorf (2)
+## FG München (2)
 
-- **31.03.2026 — FG Düsseldorf, 31.03.2026 - 10 K 817/24**  
-  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20D%FCsseldorf&Datum=31.03.2026&Aktenzeichen=10%20K%20817%2F24
-- **31.03.2026 — FG Düsseldorf, 31.03.2026 - 10 K 71/26**  
-  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20D%FCsseldorf&Datum=31.03.2026&Aktenzeichen=10%20K%2071%2F26
+- **25.04.2026 — FG München, 25.04.2026 - 4 K 2179/25:**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20M%FCnchen&Datum=25.04.2026&Aktenzeichen=4%20K%202179%2F25%3A
+- **25.04.2026 — FG München, 25.04.2026 - 4 K 2179/25**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20M%FCnchen&Datum=25.04.2026&Aktenzeichen=4%20K%202179%2F25
+
+## FG Düsseldorf (1)
+
+- **21.04.2026 — FG Düsseldorf, 21.04.2026 - 4 K 705/25**  
+  https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=FG%20D%FCsseldorf&Datum=21.04.2026&Aktenzeichen=4%20K%20705%2F25
 
 ---
-*Abruf: 27.04.2026 09:18 UTC*
+*Abruf: 04.05.2026 09:17 UTC*
