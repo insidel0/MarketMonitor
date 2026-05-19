@@ -1,10 +1,10 @@
-name: Monitor German Tax Courts
+name: Monitor Tax News
 
 on:
   schedule:
-    # Run every Monday at 07:00 UTC = 08:00 CET (09:00 CEST in summer)
+    # Mondays at 07:00 UTC (08:00 CET / 09:00 CEST).
     - cron: '0 7 * * 1'
-  workflow_dispatch:  # Allow manual trigger from GitHub UI for testing
+  workflow_dispatch:
 
 jobs:
   monitor:
@@ -12,7 +12,7 @@ jobs:
     timeout-minutes: 30
 
     permissions:
-      contents: write  # Required to commit state.json back to the repo
+      contents: write  # required to commit state.json / LATEST_REPORT.md back
 
     steps:
       - name: Checkout repository
@@ -43,11 +43,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json LATEST_REPORT.md
-          # Use a descriptive commit message if the report changed (new publications),
-          # otherwise commit silently so watchers are not notified unnecessarily.
+          git add state.json LATEST_REPORT.md 2>/dev/null || true
           if git diff --cached --name-only | grep -q "LATEST_REPORT.md"; then
-            git commit -m "Neue Finanzgericht-Entscheidungen $(date +'%d.%m.%Y')"
+            git commit -m "Neue Steuer-News $(date +'%d.%m.%Y')"
           else
             git diff --cached --quiet || git commit -m "chore: update state [skip ci]"
           fi

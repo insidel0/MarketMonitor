@@ -1,0 +1,338 @@
+"""Zentrale Liste der überwachten Steuerberatungs-/Kanzlei-Websites.
+
+Quelle: ``Steuernews_Links_02042026.xlsx`` → Sheet ``JUVE Top30 2025``.
+
+Jede Zeile beschreibt ein Unternehmen plus die CSS-Selektoren, mit denen
+der Agent auf der angegebenen URL die Artikelkarten extrahiert. Wer noch
+keine Selektoren hat (``selectors=None``), wird vom Agenten übersprungen
+und im Log gemeldet — als Hinweis, dass die Selektoren noch zu hinterlegen
+sind.
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+from tools.scrape_articles import SiteSelectors
+
+
+@dataclass
+class CompanyConfig:
+    rank: int           # JUVE-Rang 2025
+    key: str            # Eindeutiger Schlüssel in state.json (slug)
+    name: str           # Anzeigename im Bericht
+    url: str            # Startpunkt für den Scraper
+    page_type: str      # Hinweis auf Seitentyp (Newsroom, Blog, …)
+    note: str           # Freitextkommentar aus der Quelltabelle
+    selectors: SiteSelectors | None = None  # None ⇒ "TODO, noch nicht tunen"
+    enabled: bool = True
+
+
+COMPANIES: list[CompanyConfig] = [
+    # ── 1. EY ─────────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=1, key="ey", name="EY",
+        url="https://www.ey.com/de_de/technical/steuernachrichten",
+        page_type="dedizierte Steuernews-Seite",
+        note="offizielle EY-Steuernachrichten",
+        selectors=SiteSelectors(
+            item="li.up-trending-section--item",
+            title="p.up-trending-section--item__link-text",
+            url="a.up-trending-section--item__link-name",
+            date="span.date",
+            summary="p.up-trending-section--item__link-description",
+        ),
+    ),
+
+    # ── 2. KPMG ───────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=2, key="kpmg", name="KPMG",
+        url="https://kpmg.com/de/de/themen/corporate-governance-und-compliance/kpmg-tax-news.html",
+        page_type="dedizierte Steuernews-Seite",
+        note="offizielle KPMG Tax News",
+        selectors=SiteSelectors(
+            item="div.cmp-teaser",
+            title="h3.cmp-teaser__title",
+            url="h3.cmp-teaser__title a",
+            summary="div.cmp-teaser__description",
+        ),
+    ),
+
+    # ── 3. PwC ────────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=3, key="pwc", name="PricewaterhouseCoopers (PwC)",
+        url="https://blogs.pwc.de/de/steuern-und-recht",
+        page_type="dedizierter Steuerblog",
+        note="PwC Blog zu Steuern & Recht",
+        selectors=SiteSelectors(
+            item="article.article-teaser",
+            title="h3.article-teaser--title",
+            summary="p.article-teaser--excerpt",
+            date="time",
+            date_attr="datetime",
+        ),
+    ),
+
+    # ── 4. Deloitte ───────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=4, key="deloitte", name="Deloitte",
+        url="https://www.deloitte-tax-news.de/home/index.html",
+        page_type="dedizierte Steuernews-Seite",
+        note="offizielle Deloitte Tax-News",
+        selectors=SiteSelectors(
+            item="div.moduleContentTeaser",
+            title="h3",
+        ),
+    ),
+
+    # ── 5. WTS ────────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=5, key="wts", name="WTS",
+        url="https://wts.com/de-de/news-knowledge/tax-weekly",
+        page_type="dedizierte Steuernews-Seite",
+        note="JS-gerendert — bisher keine server-seitig sichtbaren Artikel; selectors noch zu tunen",
+        selectors=None,
+    ),
+
+    # ── 6. FGS — Flick Gocke Schaumburg ───────────────────────────────────────
+    CompanyConfig(
+        rank=6, key="fgs", name="Flick Gocke Schaumburg",
+        url="https://www.fgs.de/news-and-insights",
+        page_type="News-/Insights-Seite",
+        note="News, Blogbeiträge, Podcasts und Fachpublikationen",
+        selectors=SiteSelectors(
+            item="div.blog-teaser-item",
+            title="div.blog-title",
+            url="div.image-container-16-9 a",
+        ),
+    ),
+
+    # ── 7. Rödl & Partner ─────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=7, key="roedl", name="Rödl & Partner",
+        url="https://www.roedl.com/newsletter/early-tax-birds/",
+        page_type="dedizierter Steuer-Newsletter",
+        note="wöchentliche Entwicklungen im Steuerrecht",
+        selectors=SiteSelectors(
+            item="a.blog_archive_item--list",  # das Item ist selbst der Link
+            title="h3.headline",
+            date="div.blog_archive_item__date",
+        ),
+    ),
+
+    # ── 8. RSM Ebner Stolz ────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=8, key="ebner_stolz", name="RSM Ebner Stolz",
+        url="https://www.ebnerstolz.de/de/",
+        page_type="News-Einstieg auf Website",
+        note="Selektoren noch nicht hinterlegt — Startseite, gemischter Inhalt",
+        selectors=None,
+    ),
+
+    # ── 9. BDO ────────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=9, key="bdo", name="BDO",
+        url="https://www.bdo.de/de-de/insights/news-bdo",
+        page_type="dedizierte Tax-/Legal-Update-Seite",
+        note="JS-gerendert — nur Skeleton-Platzhalter im HTML; selectors noch zu tunen",
+        selectors=None,
+    ),
+
+    # ── 10. Forvis Mazars ─────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=10, key="forvis_mazars", name="Forvis Mazars",
+        url="https://www.forvismazars.com/de/de/ueber-uns/aktuelles/nachrichten",
+        page_type="News-Seite", note="offizielle Nachrichten-Seite",
+        selectors=None,
+    ),
+
+    # ── 11. Grant Thornton ────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=11, key="grant_thornton", name="Grant Thornton",
+        url="https://www.grantthornton.de/presse/",
+        page_type="Newsroom", note="Pressemitteilungen und Deal News",
+        selectors=None,
+    ),
+
+    # ── 12. Baker Tilly ───────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=12, key="baker_tilly", name="Baker Tilly",
+        url="https://www.bakertilly.de/",
+        page_type="News-Einstieg auf Website",
+        note="Startseite — Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 13. dhpg ──────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=13, key="dhpg", name="dhpg",
+        url="https://www.dhpg.de/de/newsroom",
+        page_type="Newsroom",
+        note="JS-gerendert — Newsroom-Inhalt lädt clientseitig; selectors noch zu tunen",
+        selectors=None,
+    ),
+
+    # ── 14. DORNBACH ──────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=14, key="dornbach", name="DORNBACH",
+        url="https://www.dornbach.de/de/downloads-dornbach-update.html",
+        page_type="dedizierte Update-/Newsletter-Seite",
+        note="PDF-Newsletter-Archiv — strukturell anders; selectors noch zu definieren",
+        selectors=None,
+    ),
+
+    # ── 15. Freshfields ───────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=15, key="freshfields", name="Freshfields",
+        url="https://www.freshfields.com/de",
+        page_type="News-/Insights-Einstieg",
+        note='Homepage mit „Unser Denken" und aktuellen Kanzlei-Nachrichten',
+        selectors=None,
+    ),
+
+    # ── 16. PKF Fasselt ───────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=16, key="pkf_fasselt", name="PKF Fasselt",
+        url="https://www.pkf-fasselt.de/themen-news/news-blogbeitraege",
+        page_type="News-/Blog-Seite", note="offizielle News- & Blogbeiträge-Seite",
+        selectors=None,
+    ),
+
+    # ── 17. PKF Wulf & Partner ────────────────────────────────────────────────
+    CompanyConfig(
+        rank=17, key="pkf_wulf", name="PKF Wulf & Partner",
+        url="https://www.pkf-wulf-gruppe.de/",
+        page_type="News-Einstieg auf Website",
+        note="Startseite — Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 18. Clifford Chance ───────────────────────────────────────────────────
+    CompanyConfig(
+        rank=18, key="clifford_chance", name="Clifford Chance",
+        url="https://jobs.cliffordchance.com/praxisgruppen-frankfurt",
+        page_type="Tax-Praxis-Seite",
+        note="URL zeigt auf Karriere-/Praxisseite, nicht auf Artikelliste — URL ändern",
+        selectors=None,
+    ),
+
+    # ── 19. BANSBACH ──────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=19, key="bansbach", name="BANSBACH",
+        url="https://www.bansbach-gruppe.de/",
+        page_type="News-Einstieg auf Website",
+        note="Startseite mit Blog — Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 20. ECOVIS KSO ────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=20, key="ecovis_kso", name="ECOVIS KSO",
+        url="https://ecovis-kso.com/blog/",
+        page_type="Blog / News-Seite",
+        note="Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 21. POELLATH ──────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=21, key="poellath", name="POELLATH",
+        url="https://www.pplaw.com/",
+        page_type="News-/Newsletter-Einstieg",
+        note="Homepage — Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 22. Nexia ─────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=22, key="nexia", name="Nexia",
+        url="https://www.nexia.de/",
+        page_type="News-/Insights-Einstieg",
+        note="Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 23. Noerr ─────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=23, key="noerr", name="Noerr",
+        url="https://www.noerr.com/de/insights",
+        page_type="Insights-/News-Seite",
+        note="Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 24. Linklaters ────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=24, key="linklaters", name="Linklaters",
+        url="https://www.linklaters.com/de-de/locations/germany",
+        page_type="Deutschland-Seite mit Tax-Bereich",
+        note="Praxisgruppen-Seite ohne Artikelliste — URL ändern",
+        selectors=None,
+    ),
+
+    # ── 25. LKC ───────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=25, key="lkc", name="LKC Kemper Czarske v. Gronau Berz",
+        url="https://lkc.de/news/",
+        page_type="News-Seite", note="aktuelle News der gesamten LKC-Gruppe",
+        selectors=None,
+    ),
+
+    # ── 26. KMLZ ──────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=26, key="kmlz", name="KMLZ",
+        url="https://www.kmlz.de/de/news",
+        page_type="dedizierte News-/Newsletter-Seite",
+        note="fokussiert auf Umsatzsteuer, Zollrecht und indirekte Steuern",
+        selectors=SiteSelectors(
+            item="div.news-wrapper",
+            title="div.news-vat-title",
+            url="div.news-vat-title a",
+            date="time",
+            date_attr="datetime",
+            summary="div.news-vat-body-inner",
+        ),
+    ),
+
+    # ── 27. Dr. Kleeberg & Partner ────────────────────────────────────────────
+    CompanyConfig(
+        rank=27, key="kleeberg", name="Dr. Kleeberg & Partner",
+        url="https://www.kleeberg.de/aktuell/news/",
+        page_type="News-Seite", note="aktuelle Themen aus Tax, Audit, Advisory, Legal u.a.",
+        selectors=SiteSelectors(
+            item="div.swe-post-item",
+            title="div.swe-post-title h3",
+            url="a.custom-button.default",
+            date="span.swe-post-date",
+            summary="div.swe-post-text",
+        ),
+    ),
+
+    # ── 28. SONNTAG & Partner ─────────────────────────────────────────────────
+    CompanyConfig(
+        rank=28, key="sonntag", name="SONNTAG & Partner",
+        url="https://www.sonntag-partner.de/aktuelles/news/",
+        page_type="News-Seite", note="enthält u.a. TAX TUESDAY und Sonderinformationen",
+        selectors=None,
+    ),
+
+    # ── 29. MÖHRLE HAPP LUTHER ────────────────────────────────────────────────
+    CompanyConfig(
+        rank=29, key="mhl", name="MÖHRLE HAPP LUTHER",
+        url="https://mhl.de/de/",
+        page_type="News-Einstieg auf Website",
+        note="Startseite — Selektoren noch nicht hinterlegt",
+        selectors=None,
+    ),
+
+    # ── 30. RWT ───────────────────────────────────────────────────────────────
+    CompanyConfig(
+        rank=30, key="rwt", name="RWT",
+        url="https://www.rwt-gruppe.de/news.html",
+        page_type="News-Seite", note="News, Fachartikel und RWTkompakt-Ausgaben",
+        selectors=SiteSelectors(
+            item="div.news__link",
+            title="span[itemprop='headline']",
+            url="a[itemprop='url']",
+        ),
+    ),
+]
