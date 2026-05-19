@@ -13,18 +13,25 @@ from tools.scrape_articles import Article
 REPORT_FILE = Path(__file__).parent.parent / "LATEST_REPORT.md"
 
 
-def write_report(new_articles: dict[str, list[Article]]) -> None:
-    """Schreibe neue Artikel nach LATEST_REPORT.md, gruppiert nach Unternehmen."""
+def write_report(new_articles: dict[str, list[Article]], *, snapshot: bool = False) -> None:
+    """Schreibe Artikel nach LATEST_REPORT.md, gruppiert nach Unternehmen.
+
+    ``snapshot=True`` markiert den Bericht als Momentaufnahme aller derzeit
+    sichtbaren Beiträge (nicht nur der seit letztem Lauf neu erkannten).
+    """
     today = datetime.now().strftime("%d.%m.%Y")
     total = sum(len(v) for v in new_articles.values())
 
-    lines = [
-        f"# Neue Steuer-News — {today}",
-        "",
-        f"**{total} neue{'r' if total == 1 else ''} Beitrag{'' if total == 1 else 'e'} "
-        f"von {len(new_articles)} Unternehmen**",
-        "",
-    ]
+    posts = "Beitrag" if total == 1 else "Beiträge"
+    if snapshot:
+        heading = f"# Steuer-News Snapshot — {today}"
+        intro = f"**Momentaufnahme: {total} sichtbare {posts} von {len(new_articles)} Unternehmen**"
+    else:
+        adj = "neuer" if total == 1 else "neue"
+        heading = f"# Neue Steuer-News — {today}"
+        intro = f"**{total} {adj} {posts} von {len(new_articles)} Unternehmen**"
+
+    lines = [heading, "", intro, ""]
 
     for company, articles in new_articles.items():
         lines.append(f"## {company} ({len(articles)})")

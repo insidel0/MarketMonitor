@@ -114,6 +114,14 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         action="store_true",
         help="state.json vor dem Lauf löschen (alle Unternehmen werden frisch geseedet).",
     )
+    p.add_argument(
+        "--snapshot",
+        action="store_true",
+        help=(
+            "Einmal-Modus: schreibe LATEST_REPORT.md mit ALLEN aktuell gefundenen Artikeln, "
+            "ohne state.json zu verändern. Nützlich, um nach dem Seed-Lauf einen Statusbericht zu erzeugen."
+        ),
+    )
     return p.parse_args(argv)
 
 
@@ -128,7 +136,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.only:
         only_keys = {k.strip() for k in args.only.split(",") if k.strip()}
 
-    logger.info("=== Tax-News Monitor startet ===")
+    logger.info("=== Tax-News Monitor startet%s ===", " (SNAPSHOT)" if args.snapshot else "")
     state = load_state()
 
     scope = [c for c in COMPANIES if c.enabled and (only_keys is None or c.key in only_keys)]
@@ -141,23 +149,35 @@ def main(argv: list[str] | None = None) -> int:
     new_articles: dict[str, list[Article]] = {}
     for company in runnable:
         try:
-            found = process_company(company, state)
-            if found:
-                new_articles[company.name] = found
+            if args.snapshot:
+                # Im Snapshot-Modus: alle aktuell sichtbaren Artikel sammeln,
+                # state.json bleibt unangetastet.
+                result = fetch(company.url)
+                articles = scrape_articles(html=result.html, base_url=result.final_url, selectors=company.selectors)
+                if articles:
+                    new_articles[company.name] = articles
+                logger.info("→ %s: %d Artikel im Snapshot", company.name, len(articles))
+            else:
+                found = process_company(company, state)
+                if found:
+                    new_articles[company.name] = found
         except Exception as e:
             logger.error("Fehler bei %s: %s", company.name, e)
             continue
 
-    state["last_run"] = datetime.now(timezone.utc).isoformat()
-    save_state(state)
-    logger.info("state.json gespeichert (%d aktiv, %d ohne Selektoren).", len(runnable), len(skipped))
+    if not args.snapshot:
+        state["last_run"] = datetime.now(timezone.utc).isoformat()
+        save_state(state)
+        logger.info("state.json gespeichert (%d aktiv, %d ohne Selektoren).", len(runnable), len(skipped))
+    else:
+        logger.info("state.json bleibt im Snapshot-Modus unverändert.")
 
     if new_articles:
         total = sum(len(v) for v in new_articles.values())
-        logger.info("Schreibe Report: %d neue Beiträge von %d Unternehmen", total, len(new_articles))
-        write_report(new_articles)
+        logger.info("Schreibe Report: %d Beiträge von %d Unternehmen", total, len(new_articles))
+        write_report(new_articles, snapshot=args.snapshot)
     else:
-        logger.info("Keine neuen Beiträge — LATEST_REPORT.md bleibt unverändert.")
+        logger.info("Keine Beiträge gefunden — LATEST_REPORT.md bleibt unverändert.")
 
     logger.info("=== Tax-News Monitor fertig ===")
     return 0
