@@ -11,6 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
+    env:
+      # Existing actions/* versions still ship a Node 20 runtime; opt them
+      # into Node 24 now (default from 2026-06-02). Drop this env once each
+      # action releases a version that ships Node 24 natively.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
     permissions:
       contents: write  # required to commit state.json / LATEST_REPORT.md back
 
