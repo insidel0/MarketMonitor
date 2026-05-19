@@ -49,7 +49,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json LATEST_REPORT.md 2>/dev/null || true
+          # Stage each file individually — LATEST_REPORT.md may not exist on
+          # seed runs, and `git add a b` with a missing path aborts the whole
+          # call on some git versions.
+          git add state.json
+          [ -f LATEST_REPORT.md ] && git add LATEST_REPORT.md || true
           if git diff --cached --name-only | grep -q "LATEST_REPORT.md"; then
             git commit -m "Neue Steuer-News $(date +'%d.%m.%Y')"
           else
