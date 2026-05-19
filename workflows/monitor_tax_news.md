@@ -35,35 +35,48 @@ Beim ersten Lauf eines Unternehmens wird *kein* Bericht erstellt — alle gefund
 Artikel werden nur als „gesehen" markiert. So vermeiden wir einen riesigen
 Initial-Report bei neu hinzugefügten Unternehmen.
 
-## Aktueller Stand (Pilot)
-Folgende 9 Unternehmen haben Selektoren und liefern beim Smoke-Test echte Artikel:
+## Aktueller Stand
+**22 von 30 Unternehmen** haben Selektoren und liefern beim Smoke-Test echte
+Artikel:
 
-| # | Unternehmen | Treffer im Smoke-Test | Datum / Summary |
+| # | Unternehmen | Treffer | Notiz |
 |---|---|---:|---|
-| 1 | EY | 3 | beides ✓ |
-| 2 | KPMG | 27 | Summary ✓, Datum nur in JSON-Attributen (übersprungen) |
-| 3 | PwC | 20 | beides ✓ |
-| 4 | Deloitte | 6 | keine Datumsangaben im HTML |
-| 6 | Flick Gocke Schaumburg | 4 | keine Datumsangaben im HTML |
+| 1 | EY | 3 | Datum + Summary |
+| 2 | KPMG | 27 | Summary ✓ |
+| 3 | PwC | 20 | Datum + Summary |
+| 4 | Deloitte | 6 | nur Titel/URL |
+| 6 | Flick Gocke Schaumburg | 4 | nur Titel/URL |
 | 7 | Rödl & Partner | 30 | Datum ✓ |
-| 26 | KMLZ | 3 | beides ✓ |
-| 27 | Dr. Kleeberg & Partner | 24 | beides ✓ |
+| 8 | RSM Ebner Stolz | 3 | Titel via `data-event-label`-Attribut |
+| 10 | Forvis Mazars | 13 | Summary ✓ |
+| 11 | Grant Thornton | 8 | Datum (deutsch) wird normalisiert |
+| 12 | Baker Tilly | 18 | nur Titel/URL |
+| 15 | Freshfields | 6 | Titel = Anker-Text (enthält Datum + Lead) |
+| 16 | PKF Fasselt | 80 | Datum ✓ |
+| 19 | BANSBACH | 4 | Blog-Karten |
+| 20 | ECOVIS KSO | 12 | nur Titel/URL |
+| 21 | POELLATH | 20 | Datum ✓ |
+| 22 | Nexia | 11 | Datum + Summary |
+| 23 | Noerr | 15 | Anker-basierter Filter via `/de/insights/` |
+| 25 | LKC | 10 | Summary ✓ |
+| 26 | KMLZ | 3 | Datum + Summary |
+| 27 | Dr. Kleeberg & Partner | 24 | Datum + Summary |
+| 28 | SONNTAG & Partner | 10 | nur Titel/URL |
 | 30 | RWT | 12 | nur Titel/URL |
 
-Die übrigen 21 Unternehmen haben `selectors=None` (siehe Kommentare in
-`companies_config.py`). Sie werden im Lauf übersprungen, bis die Selektoren
-hinterlegt sind.
+### Noch ohne Selektoren (8 Unternehmen)
+Sie werden im Lauf mit Log-Hinweis übersprungen.
 
-### Typische Gründe, warum ein Unternehmen noch ohne Selektoren ist
-- **JS-gerendert** (WTS, BDO, dhpg): die Übersichtsseite lädt die Artikelkarten
-  clientseitig nach. `requests` sieht nur ein Skeleton-HTML. Lösung: später eine
-  Playwright-Variante einbauen oder eine alternative server-gerenderte URL finden.
-- **PDF-Newsletter-Archiv** (Dornbach): keine Artikel, sondern monatliche PDF-Editionen.
-  Strukturell anders — bräuchte eigenes Mapping.
-- **Falsche URL** (Clifford Chance, Linklaters): die Quelltabelle zeigt auf eine
-  Praxisgruppen-/Karriereseite. URL in `companies_config.py` auf eine echte News-/
-  Insights-Seite ändern.
-- **Noch nicht inspiziert** (alle anderen): nach gleichem Muster wie die Piloten ausbauen.
+| # | Unternehmen | Grund | Was zu tun ist |
+|---|---|---|---|
+| 5 | WTS | JS-gerendert (Tax Weekly lädt clientseitig) | Playwright-Variante oder andere URL |
+| 9 | BDO | JS-gerendert (nur Skeleton-Platzhalter im HTML) | Playwright-Variante oder andere URL |
+| 13 | dhpg | JS-gerenderter Newsroom | Playwright-Variante oder andere URL |
+| 14 | DORNBACH | PDF-Newsletter-Archiv, keine Artikel-Karten | Andere Strategie nötig (Auflistung der jüngsten Editionen) |
+| 17 | PKF Wulf & Partner | Quell-URL ist Homepage ohne News-Sektion | URL auf eine dedizierte News-Seite ändern |
+| 18 | Clifford Chance | Quell-URL zeigt auf Karriere-/Praxisseite | URL auf eine echte News-/Insights-Seite ändern |
+| 24 | Linklaters | Quell-URL ist Deutschland-Standortseite | URL auf eine echte News-/Insights-Seite ändern |
+| 29 | MÖHRLE HAPP LUTHER | Homepage; News-Sektion ist serverseitig nur als Teaser sichtbar | URL z. B. auf eine dedizierte Presseseite ändern |
 
 ## Output
 **`LATEST_REPORT.md`** — Beispiel:

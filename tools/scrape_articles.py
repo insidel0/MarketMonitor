@@ -25,11 +25,12 @@ logger = logging.getLogger(__name__)
 @dataclass
 class SiteSelectors:
     item: str                              # CSS-Selektor für jede Artikel-Karte
-    title: str                             # relativ zum Item
+    title: str | None = None               # relativ; None ⇒ Titel ist das Item selbst
     url: str | None = None                 # relativ; None ⇒ url = href des title-Elements
     date: str | None = None                # relativ, optional
     summary: str | None = None             # relativ, optional
     date_attr: str | None = None           # falls Datum in einem Attribut steckt (z. B. ``datetime``)
+    title_attr: str | None = None          # falls Titel in einem Attribut steckt (z. B. ``data-event-label``)
     date_formats: list[str] = field(default_factory=lambda: [
         "%Y-%m-%d", "%d.%m.%Y", "%d %B %Y", "%d %b %Y",
         "%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M:%SZ",
@@ -51,6 +52,21 @@ def _text(el: Tag | None) -> str:
     return " ".join(el.get_text(" ", strip=True).split())
 
 
+def _title_node(item: Tag, selectors: SiteSelectors) -> Tag | None:
+    if selectors.title is None or selectors.title == "":
+        return item
+    return item.select_one(selectors.title)
+
+
+def _extract_title(item: Tag, selectors: SiteSelectors) -> str:
+    node = _title_node(item, selectors)
+    if node is None:
+        return ""
+    if selectors.title_attr:
+        return (node.get(selectors.title_attr, "") or "").strip()
+    return _text(node)
+
+
 def _resolve_url(item: Tag, base_url: str, selectors: SiteSelectors) -> str | None:
     if selectors.url:
         node = item.select_one(selectors.url)
@@ -62,7 +78,7 @@ def _resolve_url(item: Tag, base_url: str, selectors: SiteSelectors) -> str | No
         #   4. erstes <a> im Item (Fallback)
         node = item if item.name == "a" else None
         if node is None:
-            title_node = item.select_one(selectors.title)
+            title_node = _title_node(item, selectors)
             if title_node is not None:
                 node = title_node if title_node.name == "a" else title_node.find("a")
         if node is None:
@@ -143,7 +159,7 @@ def scrape_articles(
     seen_urls: set[str] = set()
 
     for item in items[: selectors.max_items]:
-        title = _text(item.select_one(selectors.title))
+        title = _extract_title(item, selectors)
         url = _resolve_url(item, base_url, selectors)
         if not title or not url or url in seen_urls:
             continue

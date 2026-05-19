@@ -124,8 +124,12 @@ COMPANIES: list[CompanyConfig] = [
         rank=8, key="ebner_stolz", name="RSM Ebner Stolz",
         url="https://www.ebnerstolz.de/de/",
         page_type="News-Einstieg auf Website",
-        note="Selektoren noch nicht hinterlegt — Startseite, gemischter Inhalt",
-        selectors=None,
+        note="Startseite: nur die Karten mit data-event-category=Aktuelle News",
+        selectors=SiteSelectors(
+            item='a[data-event-category="Aktuelle News"]',
+            title=None,                  # Item selbst ist der Anker
+            title_attr="data-event-label",
+        ),
     ),
 
     # ── 9. BDO ────────────────────────────────────────────────────────────────
@@ -142,7 +146,12 @@ COMPANIES: list[CompanyConfig] = [
         rank=10, key="forvis_mazars", name="Forvis Mazars",
         url="https://www.forvismazars.com/de/de/ueber-uns/aktuelles/nachrichten",
         page_type="News-Seite", note="offizielle Nachrichten-Seite",
-        selectors=None,
+        selectors=SiteSelectors(
+            item="div.Folder",
+            title="h3.Folders-title",
+            url="p.Folders-cta a.Button",
+            summary="div.Folders-text",
+        ),
     ),
 
     # ── 11. Grant Thornton ────────────────────────────────────────────────────
@@ -150,7 +159,12 @@ COMPANIES: list[CompanyConfig] = [
         rank=11, key="grant_thornton", name="Grant Thornton",
         url="https://www.grantthornton.de/presse/",
         page_type="Newsroom", note="Pressemitteilungen und Deal News",
-        selectors=None,
+        selectors=SiteSelectors(
+            item="div.content-item",
+            title="div.gt-body-text.item-content__descriptions",
+            url="a.item-content__img",
+            date="div.gt-body-text.overline.grey",
+        ),
     ),
 
     # ── 12. Baker Tilly ───────────────────────────────────────────────────────
@@ -158,8 +172,12 @@ COMPANIES: list[CompanyConfig] = [
         rank=12, key="baker_tilly", name="Baker Tilly",
         url="https://www.bakertilly.de/",
         page_type="News-Einstieg auf Website",
-        note="Startseite — Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="Startseite mit Card-Liste der aktuellen Beiträge",
+        selectors=SiteSelectors(
+            item="div.card.card-news-teaser",
+            title="div.card-text p",
+            url="a.card-link",
+        ),
     ),
 
     # ── 13. dhpg ──────────────────────────────────────────────────────────────
@@ -185,8 +203,14 @@ COMPANIES: list[CompanyConfig] = [
         rank=15, key="freshfields", name="Freshfields",
         url="https://www.freshfields.com/de",
         page_type="News-/Insights-Einstieg",
-        note='Homepage mit „Unser Denken" und aktuellen Kanzlei-Nachrichten',
-        selectors=None,
+        note=(
+            "Anker zu /our-thinking/ enthalten Datum + Titel + Lead als Flow-Text — "
+            "wir extrahieren das verschmolzen als Titel und filtern Doubletten per URL"
+        ),
+        selectors=SiteSelectors(
+            item='a[href*="/our-thinking/"]',
+            title=None,                  # Anker selbst, Titel = sichtbarer Text
+        ),
     ),
 
     # ── 16. PKF Fasselt ───────────────────────────────────────────────────────
@@ -194,7 +218,13 @@ COMPANIES: list[CompanyConfig] = [
         rank=16, key="pkf_fasselt", name="PKF Fasselt",
         url="https://www.pkf-fasselt.de/themen-news/news-blogbeitraege",
         page_type="News-/Blog-Seite", note="offizielle News- & Blogbeiträge-Seite",
-        selectors=None,
+        selectors=SiteSelectors(
+            item="div.news-list-item",
+            title="h3",
+            url="a.btn",
+            date="time",
+            max_items=80,                # Übersichtsseite zeigt sehr viele Karten
+        ),
     ),
 
     # ── 17. PKF Wulf & Partner ────────────────────────────────────────────────
@@ -220,8 +250,11 @@ COMPANIES: list[CompanyConfig] = [
         rank=19, key="bansbach", name="BANSBACH",
         url="https://www.bansbach-gruppe.de/",
         page_type="News-Einstieg auf Website",
-        note="Startseite mit Blog — Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="Startseite mit BANSBACH-Blog — wir greifen die Blog-Artikel auf der Startseite ab",
+        selectors=SiteSelectors(
+            item="div.blog-article__body",
+            title="h2",
+        ),
     ),
 
     # ── 20. ECOVIS KSO ────────────────────────────────────────────────────────
@@ -229,8 +262,12 @@ COMPANIES: list[CompanyConfig] = [
         rank=20, key="ecovis_kso", name="ECOVIS KSO",
         url="https://ecovis-kso.com/blog/",
         page_type="Blog / News-Seite",
-        note="Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="Blog-Rollover-Karten mit Titel + Link",
+        selectors=SiteSelectors(
+            item="div.fusion-rollover-content",
+            title="h4.fusion-rollover-title",
+            url="h4.fusion-rollover-title a",
+        ),
     ),
 
     # ── 21. POELLATH ──────────────────────────────────────────────────────────
@@ -238,8 +275,14 @@ COMPANIES: list[CompanyConfig] = [
         rank=21, key="poellath", name="POELLATH",
         url="https://www.pplaw.com/",
         page_type="News-/Newsletter-Einstieg",
-        note="Homepage — Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="Newstimeline auf der Homepage — gut strukturiert mit Datum + Titel",
+        selectors=SiteSelectors(
+            item="div.m-newstimeline-teaser",
+            title="h4.m-newstimeline-teaser__title",
+            url="div.m-newstimeline-teaser__link a",
+            date="time",
+            date_attr="datetime",
+        ),
     ),
 
     # ── 22. Nexia ─────────────────────────────────────────────────────────────
@@ -247,8 +290,13 @@ COMPANIES: list[CompanyConfig] = [
         rank=22, key="nexia", name="Nexia",
         url="https://www.nexia.de/",
         page_type="News-/Insights-Einstieg",
-        note="Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="News-/Veranstaltungs-Karten auf der Startseite",
+        selectors=SiteSelectors(
+            item="div.background",
+            title="div.header h3",
+            summary='div[itemprop="description"]',
+            date="p.calendar",
+        ),
     ),
 
     # ── 23. Noerr ─────────────────────────────────────────────────────────────
@@ -256,8 +304,11 @@ COMPANIES: list[CompanyConfig] = [
         rank=23, key="noerr", name="Noerr",
         url="https://www.noerr.com/de/insights",
         page_type="Insights-/News-Seite",
-        note="Selektoren noch nicht hinterlegt",
-        selectors=None,
+        note="Wir greifen explizit Anker mit /de/insights/ im href — filtert Themen-Kacheln aus",
+        selectors=SiteSelectors(
+            item='a[href*="/de/insights/"]',
+            title=None,                  # Anker-Text ist der Artikeltitel
+        ),
     ),
 
     # ── 24. Linklaters ────────────────────────────────────────────────────────
@@ -274,7 +325,13 @@ COMPANIES: list[CompanyConfig] = [
         rank=25, key="lkc", name="LKC Kemper Czarske v. Gronau Berz",
         url="https://lkc.de/news/",
         page_type="News-Seite", note="aktuelle News der gesamten LKC-Gruppe",
-        selectors=None,
+        selectors=SiteSelectors(
+            item="div.news-flash-item",
+            title="h5",
+            # Das gesamte Item ist von einem Anker umschlossen — der Default-Fallback
+            # ``erstes <a> im Item`` greift hier korrekt.
+            summary="p",
+        ),
     ),
 
     # ── 26. KMLZ ──────────────────────────────────────────────────────────────
@@ -312,7 +369,10 @@ COMPANIES: list[CompanyConfig] = [
         rank=28, key="sonntag", name="SONNTAG & Partner",
         url="https://www.sonntag-partner.de/aktuelles/news/",
         page_type="News-Seite", note="enthält u.a. TAX TUESDAY und Sonderinformationen",
-        selectors=None,
+        selectors=SiteSelectors(
+            item="h3.itemTitle",         # Titel-Heading dient hier direkt als Item
+            title=None,
+        ),
     ),
 
     # ── 29. MÖHRLE HAPP LUTHER ────────────────────────────────────────────────
