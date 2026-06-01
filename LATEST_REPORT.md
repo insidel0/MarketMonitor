@@ -1,127 +1,207 @@
-# Neue Steuer-News — 25.05.2026
+# Neue Steuer-News — 01.06.2026
 
-**34 neue Beiträge von 12 Unternehmen**
+**65 neue Beiträge von 15 Unternehmen**
 
-## KPMG (1)
+## KPMG (5)
 
-- **Neufassung des DBA Niederlande**
-  https://kpmg.com/de/de/themen/2026/05/neufassung-dba-nl.html
-  > BGBl. II 2026, Nr. 102 v. 18.05.2026
+- **Jahressteuergesetz 2026: BMF-Referentenentwurf**
+  https://kpmg.com/de/de/themen/2026/05/jstg2026.html
+  > BMF-Referentenentwurf v. 19.05.2026
+- **BZSt: Übermittlung von Mindeststeuer-Berichten (GIR); internationaler Austausch von GiR für Meldezeitraum 2024; „Übergangsregelung“**
+  https://kpmg.com/de/de/themen/2026/05/gir-oecd-uebergangsregelung2.html
+  > BZSt Pillar 2 Newsletter 01/2026
+- **BFH: Gewerbesteuerliche Hinzurechnung von Unterkünften und Hotelzimmer**
+  https://kpmg.com/de/de/themen/2026/05/bfh-gewst-hinzurechnung-unterkuenfte.html
+  > BFH-Urteile III R 28/24, III R 39/22 und III R 3/23
+- **BFH: Steuerfreiheit von Corona-Sonderzahlungen**
+  https://kpmg.com/de/de/themen/2026/05/bfh-corona-sonderzahlung.html
+  > BFH-Urteil VI R 25/24
+- **BMF: Sanierungsklausel nach § 8c Abs. 1a KStG**
+  https://kpmg.com/de/de/themen/2026/05/BMF-Schreiben-v--29-04-2026.html
+  > BMF-Schreiben v. 29.04.2026
 
-## PricewaterhouseCoopers (PwC) (8)
+## PricewaterhouseCoopers (PwC) (11)
 
-- **2026-05-22 — EuGH: Früheres Verhalten des Schuldners kann für einen Besch ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254768/eugh-frueheres-verhalten-des-schuldners-kann-fuer-einen-beschluss-zur-vorlaeufigen-kontenpfaendung-beruecksichtigt-werden/
-  > In einem aktuellen Urteil hat der Europäische Gerichtshof entschieden, dass Handlungen des Schuldners, die mehrere Jahre zurückliegen und der Umstand, dass in dem Mitgliedstaat, in dem der Schuldner ansässig ist, ein Gesetz besteht, das die Vollstreckung der betreffenden Forderung behindern kann, für die Feststellung der Dringlichkeit berücksichtigt werden können.
-- **2026-05-22 — EuGH zur Auslegung des Missbrauchsverbots der EU-Mutter-Toch ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254767/eugh-zur-auslegung-des-missbrauchsverbots-der-eu-mutter-tochter-richtlinie/
-  > In einem Vorabentscheidungsersuchen aus Litauen ist der Europäische Gerichtshof mit der Frage des Missbrauchs der Quellensteuerbefreiung auf Dividendenausschüttung an eine in Zypern ansässige Muttergesellschaft befasst. Die Generalanwältin vertritt in ihren Schlussanträgen unter anderem die Auffassung, dass eine missbräuchliche Gestaltung auch dann vorliegen kann, wenn die Muttergesellschaft im EU-Ausland tatsächlich wirtschaftlich tätig ist und nicht "rein künstlich" operiert aber im Wege einer unangemessenen Gestaltung agiert.
-- **2026-05-21 — EuGH: Einfrieren von Vermögenswerten eines Trusts mit dem Un ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254743/eugh-einfrieren-von-vermoegenswerten-eines-trusts-mit-dem-unionsrecht-vereinbar/
-  > Das Einfrieren von Geldern und wirtschaftliche Ressourcen, die über Trust-Strukturen indirekt mit Personen verbunden sind, die restriktiven Maßnahmen der Europäischen Union angesichts der militärischen Aggression Russlands gegen die Ukraine unterliegen, ist nach den heutigen drei Urteilen des Europäischen Gerichtshofes mit dem Unionsrecht vereinbar.
-- **2026-05-21 — steuern + recht aktuell, Ausgabe 20 vom 21. Mai 2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254742/steuern-recht-aktuell-ausgabe-20-vom-21-mai-2026/
+- **2026-06-01 — Workforce Newsletter, Ausgabe 3, Mai 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254903/workforce-newsletter-ausgabe-3-mai-2026/
+  > Aktuelle Entwicklungen im Personalwesen
+- **2026-05-28 — Zur Anwendung von § 50d Abs. 1 Satz 11 EStG i.d.F. des Amtsh ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254874/zur-anwendung-von-50d-abs-1-satz-11-estg-idf-des-amtshilferichtlinie-umsetzungsgesetzes-auf-ausschuettungen-an-eine-us-amerikanische-sogenannte-s-corporation/
+  > Einer US-amerikanischen sogenannten S-Corporation, die in den Vereinigten Staaten von Amerika (USA) infolge der Ausübung des steuerlichen Wahlrechts wie eine Personengesellschaft behandelt wird, aus deutscher Sicht aber eine Kapitalgesellschaft ist, steht als nutzungsberechtigter Gesellschaft für die Ausschüttungen einer deutschen Kapitalgesellschaft das sogenannte Schachtelprivileg nach Art. 10 Abs. 3 DBA-USA 1989/2008 zu, soweit die von der Gesellschaft bezogenen Einkünfte in den USA bei ihren in den USA ansässigen Gesellschaftern wie Einkünfte dort Ansässiger besteuert werden. Dies hat der Bundesfinanzhof (BFH) in einem aktuellen Urteil entschieden.
+- **2026-05-28 — BFH: Keine Entschädigung für Verfahrensdauer während des Ruh ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254867/bfh-keine-entschaedigung-fuer-verfahrensdauer-waehrend-des-ruhens-des-verfahrens/
+  > Verfahrensbeteiligte haben grundsätzlich keinen Anspruch auf Entschädigung wegen überlanger Verfahrensdauer eines finanzgerichtlichen Verfahrens, soweit dieses im Einverständnis der Beteiligten bis zum Abschluss eines Musterverfahrens zum Ruhen gebracht wurde. Dies hat der BFH mit Urteil vom 25.02.2026 (X K 2/25) entschieden.
+- **2026-05-28 — steuern + recht aktuell, Ausgabe 21 vom 28. Mai 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254844/steuern-recht-aktuell-ausgabe-21-vom-28-mai-2026/
   > Neues aus den Bereichen Gesetzgebung, Finanzverwaltung und Rechtsprechung
-- **2026-05-21 — Neuer Anlauf für Steuerberatergesetz**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254738/neuer-anlauf-fuer-steuerberatergesetz/
-  > Die Koalitionsfraktionen haben einen neuen Anlauf für den Entwurf eines Neunten Gesetzes zur Änderung von Vorschriften im Steuerberatungsrecht sowie im Steuerrecht unternommen.
-- **2026-05-21 — EU‑Kommission genehmigt Beihilfe für Vetter‑Investition zur ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254736/eu-kommission-genehmigt-beihilfe-fuer-vetter-investition-zur-staerkung-der-pharmazeutischen-resilienz-in-europa/
-  > Die Europäische Kommission hat am 9. Dezember 2025 keine Einwände gegen einen direkten Zuschuss Deutschlands und des Saarlands an die Vetter Pharma‑Fertigung GmbH & Co. KG (nachfolgend „Vetter“) erhoben. Die Beihilfe beträgt 46,95 Mio. Euro und unterstützt die Errichtung eines neuen Standorts zur aseptischen Abfüllung von injizierbaren Arzneimitteln in Vials und Spritzen in Saarlouis. Die beihilfefähigen Investitionskosten liegen bei 800 Mio. Euro. Der Standort soll bis 2038 rund 1.200 direkte Arbeitsplätze schaffen.
-- **2026-05-20 — EuG zur Tabaksteuer: Kein steuerbefreiter Eigenverbrauch bei ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254732/eug-zur-tabaksteuer-kein-steuerbefreiter-eigenverbrauch-bei-erwerb-und-befoerderung-von-waren-und-unentgeltlicher-weitergabe/
-  > In zwei verbundenen Vorabentscheidungsersuchen des Finanzgerichts Berlin-Brandenburg hat das Gericht der EU entschieden, dass es sich bei einem Erwerb von Tabakwaren durch eine Privatperson in einem Mitgliedstaat zur unentgeltlichen Weitergabe an einen Dritten in einem anderen Mitgliedstaat nicht um einen von der Tabaksteuer befreiten „Eigenbedarf“ handelt. Der Begriff „Eigenbedarf“ könne im Licht des Ziels der Bekämpfung von Steuermissbrauch den Erwerb von Tabakwaren durch eine Privatperson zur unentgeltlichen Weitergabe an einen Dritten nicht einschließen.
-- **2026-05-20 — Landesgrundsteuergesetz Baden-Württemberg ist nicht verfassu ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254723/landesgrundsteuergesetz-baden-wuerttemberg-ist-nicht-verfassungswidrig/
-  > Der Bundesfinanzhof (BFH) hat in zwei Verfahren aufgrund mündlicher Verhandlung am 22.04.2026 heute entschieden, dass er die Vorschriften des Landesgrundsteuergesetzes Baden-Württemberg (LGrStG BW) zur Bewertung von Grundstücken, die im Rahmen der Berechnung der Grundsteuer ab dem 01.01.2025 herangezogen werden, nicht für verfassungswidrig hält.
+- **2026-05-28 — Zur Einkunftserzielungsabsicht bei Vermietung eines Flugzeug ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254842/zur-einkunftserzielungsabsicht-bei-vermietung-eines-flugzeugs-mittels-eines-vercharterers-trotz-siebenjaehriger-verlustperiode-bei-anschliessendem-verkauf/
+  > Das Finanzgericht Düsseldorf hatte sich mit der Frage zu befassen, ob in den Streitjahren 2012 bis 2014 ein Flugzeug mit Einkunftserzielungsabsicht vermietet wurde und dementsprechend die entstandenen Verluste steuerlich zu berücksichtigen waren.
+- **2026-05-27 — Vergütung für die Fortführung des Geschäftsführeramts beim V ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254828/verguetung-fuer-die-fortfuehrung-des-geschaeftsfuehreramts-beim-verkauf-von-geschaeftsanteilen-an-einer-kapitalgesellschaft-abgrenzung-zwischen-veraeusserungspreis-und-arbeitslohn/
+  > Ob ein anlässlich der Veräußerung eines Anteils an einer Kapitalgesellschaft gezahlter (Teil-)Betrag für die Fortführung der Geschäftsführertätigkeit durch den veräußernden Gesellschafter den Einkünften aus § 17 des Einkommensteuergesetzes (EStG) oder denjenigen aus § 19 EStG zuzuordnen ist, bestimmt sich danach, zu welcher Einkunftsart der engere wirtschaftliche Veranlassungszusammenhang besteht. Dies hat der Bundesfinanzhof (BFH) in einem aktuellen Urteil entschieden.
+- **2026-05-27 — Aktivistische Aktionäre: Kritisches Korrektiv oder neue Mand ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254827/aktivistische-aktionaere-kritisches-korrektiv-oder-neue-mandanten/
+  > Aktivistische Aktionäre fordern Unternehmen in Deutschland zunehmend heraus – von Hedgefonds mit kurzfristigen Renditezielen bis zu ESG-orientierten Investoren. Das deutsche Aktienrecht gibt Minderheitsaktionären wirksame Instrumente an die Hand: Einberufung von Hauptversammlungen, Ergänzung der Tagesordnung, Sonderprüfungen. Für Vorstände und Aufsichtsräte bedeutet das: Wer vorbereitet ist, behält die Kontrolle über die eigene Agenda. Dieser Beitrag zeigt die rechtlichen Rahmenbedingungen, typische Strategien und konkrete Handlungsoptionen.
+- **2026-05-27 — Bundestag beschließt Senkung der Luftverkehrsteuer**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254819/bundestag-beschliesst-senkung-der-luftverkehrsteuer/
+  > Der Bundestag hat am Donnerstag, 21. Mai 2026, die Rücknahme der zum 1. Mai 2024 auf Betreiben der Ampelkoalition vorgenommene Erhöhung der Luftverkehrsteuer beschlossen.
+- **2026-05-27 — Bafin konsultiert 9. MaRisk-Novelle**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254816/bafin-konsultiert-9-marisk-novelle/
+  > EU RegCORE Client Alert | Deutsche regulatorische Entwicklungen
+- **2026-05-27 — BMF veröffentlicht Referentenentwurf für ein Jahressteuerges ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254815/bmf-veroeffentlicht-referentenentwurf-fuer-ein-jahressteuergesetz-2026/
+  > Das Bundesministerium der Finanzen (BMF) hat am 26. Mai 2026 einen Referentenentwurf für ein Jahressteuergesetz 2026 an die Verbände mit der Bitte um Stellungnahme bis zum 12. Juni 2026 versendet. Die wesentlichen für Unternehmen bedeutsamen Rechtsänderungen sind nachfolgend für Sie zusammengefasst.
+- **2026-05-26 — steuern + recht newsflash - 26. Mai 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/254800/steuern-recht-newsflash-26-mai-2026/
+  > BMF veröffentlicht Referentenentwurf für ein Jahressteuergesetz 2026
 
-## Deloitte (2)
+## Deloitte (4)
 
-- **BFH: Kein Werbungskostenabzug bei Dienstreisen im Fall der Nutzung eines Privatwagens anstelle des Firmenwagens**
-  https://www.deloitte-tax-news.de/steuern/private-einkommensteuer/bfh-kein-werbungskostenabzug-bei-dienstreisen-im-fall-der-nutzung-eines-privatwagens-anstelle-des-firmenwagens.html
-- **BFH: Betriebsstätte für Zwecke des Betriebsausgabenabzugs für Fahrten zwischen Wohnung und Betriebsstätte**
-  https://www.deloitte-tax-news.de/steuern/arbeitnehmerbesteuerung-sozialversicherung/bfh-betriebsstaette-fuer-zwecke-des-betriebsausgabenabzugs-fuer-fahrten-zwischen-wohnung-und-betriebsstaette.html
+- **Jahressteuergesetz 2026: Bundesfinanzministerium legt Referentenentwurf vor**
+  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/jahressteuergesetz-2026-bundesfinanzministerium-legt-referentenentwurf-vor.html
+- **FG Berlin-Brandenburg: Anrechnung ausländischer Quellensteuer auf die Gewerbesteuer**
+  https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/fg-berlin-brandenburg-anrechnung-auslaendischer-quellensteuer-auf-die-gewerbesteuer.html
+- **BFH: Fortführung der Geschäftsführung beim Verkauf von Anteilen an einer Kapitalgesellschaft**
+  https://www.deloitte-tax-news.de/steuern/private-einkommensteuer/bfh-fortfuehrung-der-geschaeftsfuehrung-beim-verkauf-von-anteilen-an-einer-kapitalgesellschaft.html
+- **BFH: Ausschüttung von Gewinnen aus Zeit vor Auflösung der Gesellschaft nach Liquidationsbeginn**
+  https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/bfh-ausschuettung-von-gewinnen-aus-zeit-vor-aufloesung-der-gesellschaft-nach-liquidationsbeginn.html
 
 ## Flick Gocke Schaumburg (3)
 
-- **E-Rechnungspflicht für Ausgangsrechnungen ab 2027 – ein erster Praxisbericht**
-  https://www.fgs.de/news-and-insights/blog/detail/e-rechnungspflicht-fuer-ausgangsrechnungen-ab-2027-ein-erster-praxisbericht
-- **EuGH zu Stellantis (C-603/24): Verrechnungspreisanpassungen unterliegen nicht zwingend der Umsatzsteuer - Einzelfallprüfung bleibt notwendig**
-  https://www.fgs.de/news-and-insights/blog/detail/eugh-zu-stellantis-c-60324-verrechnungspreisanpassungen-unterliegen-nicht-zwingend-der-umsatzsteuer-einzelfallpruefung-bleibt-notwendig
-- **Update Frankreich und Italien: Anerkennung von Eigenkorrekturen als „staatliche Maßnahme“ für ein Verständigungsverfahren nach Art. 25 DBA und Art 6 EU-Schiedskonvention**
-  https://www.fgs.de/news-and-insights/blog/detail/update-frankreich-und-italien-anerkennung-von-eigenkorrekturen-als-staatli-che-massnahme-fuer-ein-verstaendigungsverfahren-nach-art-25-dba-und-art-6-eu-schiedskonvention
+- **Streit um das abkommensrechtliche Schachtelprivileg hybrider US-Gesellschaften beendet**
+  https://www.fgs.de/news-and-insights/blog/detail/streit-um-das-abkommensrechtliche-schachtelprivileg-hybrider-us-gesellschaften-beendet
+- **Neuregelung der umsatzsteuerlichen Organschaft – Gesetzesentwurf für das JStG 2026**
+  https://www.fgs.de/news-and-insights/blog/detail/neuregelung-der-umsatzsteuerlichen-organschaft-gesetzesentwurf-fuer-das-jstg-2026
+- **FG Münster zur Escape-Klausel des § 8b KStG durch Fremdvergleich**
+  https://www.fgs.de/news-and-insights/blog/detail/fg-muenster-zur-escape-klausel-des-8b-kstg-durch-fremdvergleich
 
-## Baker Tilly (5)
+## Rödl & Partner (1)
 
-- **Baker Tilly berät Maxburg beim Erwerb einer Mehrheitsbeteiligung an Scora Liquidity**
-  https://www.bakertilly.de/beitrag/baker-tilly-beraet-maxburg-beim-erwerb-einer-mehrheitsbeteiligung-an-scora-liquidity
-- **Neuer C5-Standard: Anforderungen und Änderungen für Cloud-Anbieter**
-  https://www.bakertilly.de/beitrag/neuer-c5-standard-anforderungen-und-aenderungen-fuer-cloud-anbieter
-- **Cyber Resilience Act: Neue Anforderungen für Hersteller, Importeure und Händler**
-  https://www.bakertilly.de/beitrag/der-cyber-resilience-act-cra-neue-anforderungen-fuer-hersteller-importeure-und-haendler
-- **BAG-Urteil: Das Aus des Einwurf-Einschreibens?**
-  https://www.bakertilly.de/beitrag/bag-urteil-das-aus-des-einwurf-einschreibens
-- **Restrukturierungen und arbeitsrechtliche Entwicklungen im internationalen Vergleich**
-  https://www.bakertilly.de/beitrag/employment-and-labour-laws-newsletter-restrukturierungen-und-arbeitsrechtliche-entwicklungen-im-internationalen-vergleich
+- **2026-05-31 — Ausgabe 20/2026: Referentenentwurf für das Jahressteuergesetz 2026**
+  https://www.roedl.com/insights/ausgabe-20-2026-jahressteuergesetz-2026/
 
-## ECOVIS KSO (3)
+## RSM Ebner Stolz (1)
 
-- **LSG Bayern bestätigt: Betriebsprüfung in Privathaushalten aufgrund von Schwarzarbeit durch Rentenversicherung unzulässig**
-  https://ecovis-kso.com/blog/betriebspruefung-in-privathaushalten-aufgrund-von-schwarzarbeit-durch-rentenversicherung-unzulaessig/
-- **BMF-Entwurf zum Betriebsstättenbegriff: Was Unternehmen jetzt wissen müssen**
-  https://ecovis-kso.com/blog/bmf-entwurf-zum-betriebsstaettenbegriff/
-- **Bekanntgabe nach § 122 AO: Drei Urteile, drei Fehler – und jedes Mal verliert das Finanzamt**
-  https://ecovis-kso.com/blog/bekanntgabe-nach-%c2%a7-122-ao-drei-urteile/
+- **Wachstum im Mittelstand**
+  https://www.ebnerstolz.de/de/unser-angebot/branchen/agrar-und-ernaehrungsindustrie/wachstum-mittelstand-agrar-ernaehrung-10-unternehmerdialog-107417.html
+
+## Baker Tilly (2)
+
+- **Neues Beschaffungsrecht: Verteidigungssektor im Wandel**
+  https://www.bakertilly.de/beitrag/neues-beschaffungsrecht-verteidigungssektor-im-wandel
+- **Pillar 2 im Praxisbeispiel: Erklärungspflichten bei abweichendem Wirtschaftsjahr**
+  https://www.bakertilly.de/beitrag/pillar-2-im-praxisbeispiel-erklaerungspflichten-bei-abweichendem-wirtschaftsjahr
+
+## PKF Fasselt (6)
+
+- **2026-06-01 — Zahlung für Fortführung der Geschäftsführung beim Anteilsverkauf: Arbeitslohn oder Veräußerungspreis?**
+  https://www.pkf-fasselt.de/artikel/zahlung-fuer-fortfuehrung-der-geschaeftsfuehrung-beim-anteilsverkauf-arbeitslohn-oder-veraeusserungspreis
+- **2026-05-29 — Anforderung an eine Betriebsstätte gem. § 4 Abs. 5 Satz 1 Nr. 6 EStG**
+  https://www.pkf-fasselt.de/artikel/anforderung-an-eine-betriebsstaette-gem-4-abs-5-satz-1-nr-6-estg
+- **2026-05-28 — Fremdwährungsfestgeldanlagen: Zweifel an der Besteuerung von Währungsgewinnen nach § 20 EStG**
+  https://www.pkf-fasselt.de/artikel/fremdwaehrungsfestgeldanlagen-zweifel-an-der-besteuerung-von-waehrungsgewinnen-nach-20-estg
+- **2026-05-28 — Verkürzte Restnutzungsdauer bei Gebäuden**
+  https://www.pkf-fasselt.de/artikel/verkuerzte-restnutzungsdauer-bei-gebaeuden
+- **2026-05-27 — EU Inc. – Neue Chancen für Start-ups im europäischen Binnenmarkt**
+  https://www.pkf-fasselt.de/artikel/eu-inc-neue-chancen-fuer-start-ups-im-europaeischen-binnenmarkt
+- **2026-05-26 — EmpCo-Richtlinie 2026: Was Unternehmen jetzt für eine rechtssichere Nachhaltigkeitskommunikation beachten müssen**
+  https://www.pkf-fasselt.de/artikel/empco-richtlinie-2026-was-unternehmen-jetzt-fuer-eine-rechtssichere-nachhaltigkeitskommunikation-beachten-muessen
+
+## BANSBACH (1)
+
+- **Durchbruch fürs E-Auto? Warum der Ölpreis-Schock jetzt alles ändern könnte**
+  https://www.bansbach-gruppe.de/bansbach-blog/durchbruch-fuers-e-auto-warum-der-oelpreis-schock-jetzt-alles-aendern-koennte/
+
+## ECOVIS KSO (5)
+
+- **Vorsteuerabzug aus Anzahlungen – BFH schafft Klarheit**
+  https://ecovis-kso.com/blog/vorsteuerabzug-aus-anzahlungen-bfh-schafft-klarheit/
+- **Wo im Veränderungsprozess Konflikte entstehen – und wie Konfliktmanagement & Mediation helfen**
+  https://ecovis-kso.com/blog/konfliktmanagement-und-mediation-in-veraenderungsprozessen/
+- **Praxisorganisation in Arztpraxen verbessern: Führung und Mitarbeiterbindung stärken**
+  https://ecovis-kso.com/blog/praxisorganisation-in-arztpraxen-verbessern/
+- **Grunderwerbsteuer: Nießbrauch und Wohnungsrecht können teuer werden**
+  https://ecovis-kso.com/blog/grunderwerbsteuer-niessbrauch-und-wohnungsrecht/
+- **Wirtschafts-Identifikationsnummer (W-IdNr.): Impressumspflicht einfach erklärt**
+  https://ecovis-kso.com/blog/wirtschafts-identifikationsnummer-w-idnr-impressumspflicht/
 
 ## POELLATH (1)
 
-- **2026-05-22 — POELLATH berät Maxburg beim Erwerb der Scora Liquidity Gruppe**
-  https://www.pplaw.com/mandate/poellath-beraet-maxburg-beim-erwerb-der-scora-liquidity-gruppe
+- **2026-05-29 — POELLATH berät die Gründer von MAP bei Investment von Inflexion**
+  https://www.pplaw.com/news/poellath-beraet-die-gruender-von-map-bei-investment-von-inflexion
 
-## Nexia (5)
+## Nexia (4)
 
-- **2026-06-18 — Tax on the Beach**
-  https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/tax-on-the-beach
-  > Präsenz-Veranstaltung 18.06.2026 | 16 Uhr bis ca. 21 Uhr in Dresden
-- **2026-06-18 — Die VAE als strategischer Partner für den Mittelstand**
-  https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/die-vae-als-strategischer-partner-fuer-den-mittelstand
-  > Präsenz-Veranstaltung 18.06.2026 | 16:30 – 18:30 Uhr ab 18:30 Uhr Networking in Frankfurt
-- **§ 6b-Rücklage – Zusammenrechnung von Vorbesitzzeiten bei Schwesterpersonengesellschaften**
-  https://www.nexia.de/informationen/news/news-ansicht/6b-ruecklage-zusammenrechnung-von-vorbesitzzeiten-bei-schwesterpersonengesellschaften
-  > Das Finanzgericht Münster hat mit Urteil vom 16.04.2026 (8 K 820/24 G, F) entschieden, dass für Zwecke der Bildung einer Rücklage nach § 6b EStG die…
-- **Ohne Fahrtenbuch droht Selbstständigen die Kürzung**
-  https://www.nexia.de/informationen/news/news-ansicht/ohne-fahrtenbuch-droht-selbststaendigen-die-kuerzung
-  > Selbstständige mit betrieblichem Pkw sollten Fahrten zum eigenen Büro nicht unterschätzen. Auch wer überwiegend im Außendienst arbeitet, kann ein…
-- **Registrierungspflicht für Kryptowerte-Betreiber: Neues Formular des BZSt.**
-  https://www.nexia.de/informationen/news/news-ansicht/registrierungspflicht-fuer-kryptowerte-betreiber-neues-formular-des-bzst
-  > Das Bundeszentralamt für Steuern (BZSt) hat am 13.05.2026 ein wichtiges neues Verfahren eingeführt: Über das Online-Portal steht ab sofort das…
+- **Bundeshaushalt 2027 – Eckpunkte beschlossen**
+  https://www.nexia.de/informationen/news/news-ansicht/bundeshaushalt-2027-eckpunkte-beschlossen
+  > Das Bundeskabinett hat Ende April neben einem umfangreichen Maßnahmenpaket für die GKV auch die Eckpunkte für den Bundeshaushalt des nächsten Jahres…
+- **Grundsteuer-Modell in Baden-Württemberg bestätigt**
+  https://www.nexia.de/informationen/news/news-ansicht/grundsteuer-modell-in-baden-wuerttemberg-bestaetigt
+  > Die baden-württembergischen Regeln zur Bewertung von Grundstücken für die neue Grundsteuer sind laut BFH nicht verfassungswidrig. Grundstücke dürfen…
+- **EuGH: Keine umsatzsteuerbare Leistung bei Verrechnungspreisanpassungen zur Margensicherung**
+  https://www.nexia.de/informationen/news/news-ansicht/eugh-keine-umsatzsteuerbare-leistung-bei-verrechnungspreisanpassungen-zur-margensicherung
+  > Der Europäische Gerichtshof (EuGH) hat mit Urteil vom 13.05.2026 (Rs. Stellantis Portugal, C-603/24) klargestellt, dass konzerninterne Anpassungen von…
+- **Grundstück statt Zugewinn: Steuerfalle bei Ehegatten**
+  https://www.nexia.de/informationen/news/news-ansicht/grundstueck-statt-zugewinn-steuerfalle-bei-ehegatten
+  > Wer im Zuge einer Trennung Grundstücke vom Ehepartner erhält, sollte die steuerlichen Folgen genau prüfen. Denn auch wenn es später gar nicht zur…
 
-## Noerr (2)
+## Noerr (4)
 
-- **BMUKN stellt Eck­punkte­papier zur erweiterten Hersteller­verant­wortung für Textilien vor**
-  https://www.noerr.com/de/insights/bmukn-stellt-eckpunktepapier-zur-erweiterten-herstellerverantwortung-fur-textilien-vor
-- **Die Rechen­zentrums­strategie der Bundes­regierung: Ganz­heit­liche Potentiale für Wirt­schaft, Investoren und die öffent­liche Hand für die digitale Trans­formation – Noerr Insight No. 3**
-  https://www.noerr.com/de/insights/die-rechenzentrumsstrategie-der-bundesregierung-ganzheitliche-potentiale-fur-wirtschaft-investoren-und-die-offentliche-hand-fur-die-digitale-transformation-noerr-insight-no-3
+- **Die Rechen­zentrums­strategie der Bundes­regierung: Ganz­heit­liche Potentiale für Wirt­schaft, Investoren und die öffent­liche Hand für die digitale Trans­formation – Noerr Insight No. 4**
+  https://www.noerr.com/de/insights/die-rechenzentrumsstrategie-der-bundesregierung-ganzheitliche-potentiale-fur-wirtschaft-investoren-und-die-offentliche-hand-fur-die-digitale-transformation-noerr-insight-no-4
+- **Cyber­sicherheit in der Lieferkette: Komponenten und Ersatzteile unter dem Cyber Resilience Act – Was Wirtschafts­akteure bis zum 11.12.2027 beachten sollten**
+  https://www.noerr.com/de/insights/cybersicherheit-in-der-lieferkette-komponenten-und-ersatzteile-unter-dem-cyber-resilience-act
+- **OLG Düsseldorf legt Bundeswehr­planungs- und Beschaffungs­beschleunigungsgesetz dem Bundesverfassungs­gericht vor – Entfall der aufschiebenden Wirkung der sofortigen Beschwerde verfassungswidrig?**
+  https://www.noerr.com/de/insights/olg-duesseldorf-legt-bundeswehrplanungs-und-beschaffungsbeschleunigungsgesetz-dem-bundesverfassungsgericht-vor
+- **Europäisches Parlament stimmt über neue EU-Screening-Verordnung ab**
+  https://www.noerr.com/de/insights/europaeisches-parlament-stimmt-ueber-neue-eu-screening-verordnung-ab
 
-## KMLZ (2)
+## Dr. Kleeberg & Partner (6)
 
-- **2026-05-22 — Neuausrichtung der Umsatzsteuer in Deutschland? Die neue 21–10–0 Formel**
-  https://www.kmlz.de/de/neuausrichtung-der-umsatzsteuer-deutschland-die-neue-21-10-0-formel
-  > Die Bundesregierung plant die Anhebung der Steuersätze zum 01.01.2027. Die Formel lautet „21–10–0“, was nichts anderes bedeutet, als dass der Regelsteuersatz auf 21 % und der ermäßigte Steuersatz auf 10 % steigen soll. Und damit die Steuererhöhung die „kleinen Leute“ nicht zu hart trifft, will man Lebensmittel mit dem sog. Nullsteuersatz belegen.
-- **2026-05-19 — U.S. Zölle weiter auf dem Prüfstand: Court of International Trade stellt sec. 122 Zölle in Frage**
-  https://www.kmlz.de/de/us-zoelle-weiter-auf-dem-pruefstand-court-international-trade-stellt-sec-122-zoelle-frage
-  > Der U.S. Court of International Trade (CIT) hatte die auf der Grundlage des IEEPA eingeführten Zölle für rechtswidrig erklärt. Diese Entscheidung war zuletzt vom U.S. Supreme Court bestätigt worden. Nun stellt der CIT auch die nach sec. 122 des Trade Act eingeführten Zölle in Frage. Zwei von drei Richtern waren der Meinung, dass ein Handelsbilanzdefizit nicht ausreichend sei, um die Voraussetzungen für die Einführung der Zölle zu erfüllen.
+- **2026-06-01 — Erbauseinandersetzung: Anwaltskosten können steuerlich abzugsfähig sein (BFH)**
+  https://www.kleeberg.de/2026/06/01/erbauseinandersetzung-anwaltskosten-koennen-steuerlich-abzugsfaehig-sein-bfh/
+  > Kosten für anwaltliche Beratung und Vertretung im Zusammenhang mit der Aufteilung eines Nachlasses können unter bestimmten Voraussetzungen als Nachlassverbindlichkeiten steuerlich berücksichtigt werden und die Erbschaftsteuer senken. Dies hat der Bundesfinanzhof (BFH) im Fall einer streitigen Erbauseinandersetzung entschieden (Urteil vom 11.03.2026, Az. II R 10/23). Hintergrund Nach § 10 Abs. 5 Nr. 3 Satz 1 ErbStG sind bei der Erbschaftsteuer jene...
+- **2026-06-01 — Basiszinssatz**
+  https://www.kleeberg.de/2026/06/01/basiszinssatz/
+  > Basiszinssätze nach IDW S 1 i. d. F. 2008 Die folgende Tabelle stellt die Basiszinssätze für Unternehmens­bewertungen nach IDW S 1 i. d. F. 2008 bzw. IDW RS HFA 10 für Bewertungsstichtage, beginnend ab 01.11.2017, dar. Die Zinssätze wurden gemäß Vorgaben des IDW (vgl. WPH Edition, Bewertung und Transaktionsberatung,...
+- **2026-06-01 — Verabschiedung von IFRS 20 durch das IASB**
+  https://www.kleeberg.de/2026/06/01/verabschiedung-von-ifrs-20-durch-das-iasb/
+  > Am 29.05.2026 wurde der neue Rechnungslegungsstandard IFRS 20 durch das IASB verabschiedet. Er befasst sich mit der Bilanzierung von regulatorischen Vermögenswerten und regulatorischen Schulden bei Unternehmen, die einer Tarifregulierung unterliegen. Ende Mai 2026 hat das International Accounting Standards Board (IASB) den neuen Rechnungslegungsstandard IFRS 20 „Regulatory Assets and Regulatory Liabilities“ (Regulatorische Vermögenswerte und regulatorische Schulden) veröffentlicht. Adressaten von IFRS 20 sind...
+- **2026-06-01 — BFH hält Landesgrundsteuergesetz Baden-Württemberg für verfassungskonform**
+  https://www.kleeberg.de/2026/06/01/bfh-haelt-landesgrundsteuergesetz-baden-wuerttemberg-fuer-verfassungskonform/
+  > Der BFH hat mit Urteilen vom 20.05.2026 (Az. II R 26/24 und II R 27/24) die Verfassungsmäßigkeit des Landesgrundsteuergesetzes Baden-Württemberg bestätigt. Der Landesgesetzgeber überschreitet mit dem in Baden-Württemberg geltenden Bodenwertmodell nicht die verfassungsrechtlichen Grenzen zulässiger Typisierung. Der BFH hat mit Urteilen vom 20.05.2026 (Az. II R 26/24 und II R 27/24) entschieden, dass das Landesgrundsteuergesetz...
+- **2026-05-27 — BFH entscheidet zur Klassifizierung einer Vergütung für die Fortführung des Geschäftsführeramts bei Anteilsveräußerung**
+  https://www.kleeberg.de/2026/05/27/bfh-entscheidet-zur-klassifizierung-einer-verguetung-fuer-die-fortfuehrung-des-geschaeftsfuehreramts-bei-anteilsveraeusserung/
+  > Der Bundesfinanzhof hat mit Urteil vom 03.03.2026 (Az. IX R 1/25) Stellung genommen zur steuerlichen Behandlung von Zahlungen, die im Zusammenhang mit dem Verkauf von GmbH-Anteilen und der anschließenden Fortführung einer Geschäftsführertätigkeit geleistet werden. Die Entscheidung ist insbesondere für Gesellschafter-Geschäftsführer bei Unternehmensverkäufen von praktischer Bedeutung. Streitfall: Im zugrunde liegenden...
+- **2026-05-27 — DRSC Interpretation 5 (IFRS) verabschiedet und veröffentlicht**
+  https://www.kleeberg.de/2026/05/27/drsc-interpretation-5-ifrs-verabschiedet-und-veroeffentlicht/
+  > Der Fachausschuss Finanzberichterstattung des DRSC hat im April 2026 die DRSC Interpretation Nr. 5 (IFRS) zur Bilanzierung von ertragsteuerlichen Nebenleistungen nach IFRS verabschiedet und Ende Mai veröffentlicht. Die Erstanwendung ist parallel zur Erstanwendung von IFRS 18 vorgesehen. Das DRSC hatte Mitte November 2025 den Entwurf einer DRSC Interpretation 5 (IFRS) „Bilanzierung von ertragsteuerlichen...
 
-## Dr. Kleeberg & Partner (1)
+## RWT (11)
 
-- **2026-05-22 — Veröffentlichung des Modulentwurfs IFRS 3-M3 durch den FAB des IDW**
-  https://www.kleeberg.de/2026/05/22/veroeffentlichung-des-modulentwurfs-ifrs-3-m3-durch-den-fab-des-idw/
-  > Der FAB des IDW hat im Mai 2026 den Entwurf eines neuen Moduls (IFRS 3-M3) der IFRS-Modulverlautbarung IDW RS FAB 50 verabschiedet. Dieser befasst sich mit der Bewertung von Vermögenswerten und Schulden bei Unternehmenszusammenschlüssen unter gemeinsamer Kontrolle. Das Institut der Wirtschaftsprüfer in Deutschland e. V. (IDW) beschäftigt sich im Rahmen...
-
-## SONNTAG & Partner (1)
-
-- **Sonderinformation: Auskömmlichkeit im Vergaberecht. Das OLG Frankfurt schärft die Maßstäbe**
-  https://www.sonntag-partner.de/sonderinformation-auskoemmlichkeit-im-vergaberecht-das-olg-frankfurt-schaerft-die-massstaebe/
+- **Zuordnung zum Unternehmen: Vorsteuerabzug bei gemischter Nutzung nur bei Mitteilung bis 31. Juli**
+  https://www.rwt-gruppe.de/news/zuordnung-zum-unternehmen-vorsteuerabzug-bei-gemischter-nutzung-nur-bei-mitteilung-bis-31-juli.html
+- **Renten sollen im Juli um 4,24 % steigen**
+  https://www.rwt-gruppe.de/news/renten-sollen-im-juli-um-424-steigen.html
+- **Finanzverwaltung prüft Kassen: Häufig Mängel bei unangekündigten Nachschauen**
+  https://www.rwt-gruppe.de/news/finanzverwaltung-prueft-kassen-haeufig-maengel-bei-unangekuendigten-nachschauen.html
+- **EU-Entwaldungsverordnung: Was Unternehmen jetzt beachten sollten**
+  https://www.rwt-gruppe.de/news/eu-entwaldungsverordnung-was-unternehmen-jetzt-beachten-sollten.html
+- **Arbeitgeberbescheinigung bei Entsendungen im Konzern: Das BMF schafft Erleichterung**
+  https://www.rwt-gruppe.de/news/arbeitgeberbescheinigung-bei-entsendungen-im-konzern-das-bmf-schafft-erleichterung.html
+- **Betriebliche Altersversorgung: Kapitalauszahlung ohne ermäßigte Besteuerung**
+  https://www.rwt-gruppe.de/news/betriebliche-altersversorgung-kapitalauszahlung-ohne-ermaessigte-besteuerung.html
+- **Bundesrat: Entlastungsprämie scheitert – Reform der privaten Altersvorsorge und neue E-Auto-Prämie kommen**
+  https://www.rwt-gruppe.de/news/bundesrat-entlastungspraemie-scheitert-reform-der-privaten-altersvorsorge-und-neue-e-auto-praemie-kommen.html
+- **US-Zölle: Rückerstattung prüfen**
+  https://www.rwt-gruppe.de/news/us-zoelle-rueckerstattung-pruefen.html
+- **IT-Audit: Warum verlässliche Geschäftsprozesse funktionierende IT-Kontrollen benötigen**
+  https://www.rwt-gruppe.de/news/it-audit-warum-verlaessliche-geschaeftsprozesse-funktionierende-it-kontrollen-benoetigen.html
+- **Die Ausgabe Juni 2026 der RWTkompakt ist da**
+  https://www.rwt-gruppe.de/fileadmin/user_upload/rwt/RWT_kompakt/RWTkompakt_Ausgabe_Juni_2026.pdf
+- **RWT-Webinar: Think green – Nachhaltigkeitsthemen mit Relevanz für den Mittelstand**
+  https://www.rwt-gruppe.de/news/rwt-webinar-think-green-nachhaltigkeitsthemen-mit-relevanz-fuer-den-mittelstand.html
 
 ---
-*Abruf: 25.05.2026 11:06 UTC*
+*Abruf: 01.06.2026 12:31 UTC*
