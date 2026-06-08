@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_run": "2026-06-01T12:31:52.949833+00:00",
+  "last_run": "2026-06-08T11:52:15.665745+00:00",
   "seen": {
     "ey": [
       "https://www.ey.com/de_de/technical/steuernachrichten/wichtige-steuertermine13",
@@ -81,7 +81,18 @@
       "https://blogs.pwc.de/de/steuern-und-recht/article/254819/bundestag-beschliesst-senkung-der-luftverkehrsteuer/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/254816/bafin-konsultiert-9-marisk-novelle/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/254815/bmf-veroeffentlicht-referentenentwurf-fuer-ein-jahressteuergesetz-2026/",
-      "https://blogs.pwc.de/de/steuern-und-recht/article/254800/steuern-recht-newsflash-26-mai-2026/"
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254800/steuern-recht-newsflash-26-mai-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254999/steuern-recht-aktuell-ausgabe-22-vom-5-juni-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254998/eugh-urteilt-zu-portugiesischer-grunderwerbsteuer/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254990/eug-einfuhrumsatzsteuer-bei-einfuhr-von-gegenstaenden-aus-dem-drittland-zu-wartungs-und-reparaturarbeiten/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254989/steuern-recht-newsflash-4-juni-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254987/bmf-neues-doppelbesteuerungsabkommen-zwischen-deutschland-und-der-ukraine/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254986/staerkere-eu-weite-vorschriften-zur-korruptionsbekaempfung-treten-in-kraft/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254965/eug-beschluss-der-kommission-gegen-meta-wegen-beherrschender-stellung-im-markt-teilweise-nichtig/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254941/kritis-im-ernstfall/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254924/private-veraeusserungsgeschaefte-grundstuecksuebertragung-unter-anrechnung-auf-eine-zukuenftige-zugewinnausgleichsforderung-als-anschaffung/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254923/umsatzsteuer-newsletter-ausgabe-05-mai-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/254921/pwc-transfer-pricing-perspectives-dach-ausgabe-70/"
     ],
     "deloitte": [
       "https://www.deloitte-tax-news.de/arbeitnehmerentsendung-personal/thema-des-monats/neuntes-steuerberatungsaenderungsgesetz-1000-euro-entlastungspraemie-vorerst-gescheitert.html",
@@ -95,7 +106,8 @@
       "https://www.deloitte-tax-news.de/steuern/unternehmensteuer/jahressteuergesetz-2026-bundesfinanzministerium-legt-referentenentwurf-vor.html",
       "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/fg-berlin-brandenburg-anrechnung-auslaendischer-quellensteuer-auf-die-gewerbesteuer.html",
       "https://www.deloitte-tax-news.de/steuern/private-einkommensteuer/bfh-fortfuehrung-der-geschaeftsfuehrung-beim-verkauf-von-anteilen-an-einer-kapitalgesellschaft.html",
-      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/bfh-ausschuettung-von-gewinnen-aus-zeit-vor-aufloesung-der-gesellschaft-nach-liquidationsbeginn.html"
+      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/bfh-ausschuettung-von-gewinnen-aus-zeit-vor-aufloesung-der-gesellschaft-nach-liquidationsbeginn.html",
+      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/bfh-erstattung-von-kapitalertragsteuer-bei-dividenden-an-eine-us-amerikanische-s-corporation.html"
     ],
     "fgs": [
       "https://www.fgs.de/news-and-insights/blog/detail/neuerungen-bei-der-besteuerung-von-fremdwaehrungsgewinnen-im-privatvermoegen-zweifel-an-der-besteuerung-von-fremdwaehrungsfestgeldanlagen-handlungsbedarf-fuer-die-praxis",
@@ -107,7 +119,10 @@
       "https://www.fgs.de/news-and-insights/blog/detail/update-frankreich-und-italien-anerkennung-von-eigenkorrekturen-als-staatli-che-massnahme-fuer-ein-verstaendigungsverfahren-nach-art-25-dba-und-art-6-eu-schiedskonvention",
       "https://www.fgs.de/news-and-insights/blog/detail/streit-um-das-abkommensrechtliche-schachtelprivileg-hybrider-us-gesellschaften-beendet",
       "https://www.fgs.de/news-and-insights/blog/detail/neuregelung-der-umsatzsteuerlichen-organschaft-gesetzesentwurf-fuer-das-jstg-2026",
-      "https://www.fgs.de/news-and-insights/blog/detail/fg-muenster-zur-escape-klausel-des-8b-kstg-durch-fremdvergleich"
+      "https://www.fgs.de/news-and-insights/blog/detail/fg-muenster-zur-escape-klausel-des-8b-kstg-durch-fremdvergleich",
+      "https://www.fgs.de/news-and-insights/blog/detail/idw-rs-fab-18-neue-akzente-fuer-die-bilanzierung-von-beteiligungen-an-personenhandelsgesellschaften",
+      "https://www.fgs.de/news-and-insights/blog/detail/idw-s-1-idf-2026-neuerungen-und-bedeutung-fuer-verrechnungspreise",
+      "https://www.fgs.de/news-and-insights/blog/detail/dotationskapital-bei-inlaendischen-versicherungsbetriebsstaetten-neufassung-des-25-bsgav-etabliert-mindestkapitalausstattung-als-zwingende-untergrenze"
     ],
     "roedl": [
       "https://www.roedl.com/insights/ausgabe-19-2026-gewinnausschuettung-zeit-vor-aufloesung-gesellschaft-liquidation/",
@@ -140,14 +155,16 @@
       "https://www.roedl.com/insights/ausgabe-41-2025-stellungnahme-des-bundesrates-zum-minstanpg-und-steueraenderungsgesetzes-2025/",
       "https://www.roedl.com/insights/ausgabe-40-2025-nach-der-pruefung-ist-vor-der-pruefung-und-das-besonders-eilige-aktivrentengesetz/",
       "https://www.roedl.com/insights/ausgabe-39-2025-olg-nuernberg-und-der-legendaere-zahlendreher-ein-steuerlicher-evergreen/",
-      "https://www.roedl.com/insights/ausgabe-20-2026-jahressteuergesetz-2026/"
+      "https://www.roedl.com/insights/ausgabe-20-2026-jahressteuergesetz-2026/",
+      "https://www.roedl.com/insights/ausgabe-21-2026-weltmeisterschaft-fussball-eugh-zinsen/"
     ],
     "kmlz": [
       "https://www.kmlz.de/de/eugh-umsatzsteuerliche-behandlung-von-verrechnungspreisanpassungen",
       "https://www.kmlz.de/de/bmf-ergaenzt-vorgaben-zum-vertrieb-von-mehrzweck-gutscheinen",
       "https://www.kmlz.de/de/ust-und-insolvenz-fehler-bei-doppelberichtigung-fuehren-ggf-zur-doppelbesteuerung",
       "https://www.kmlz.de/de/neuausrichtung-der-umsatzsteuer-deutschland-die-neue-21-10-0-formel",
-      "https://www.kmlz.de/de/us-zoelle-weiter-auf-dem-pruefstand-court-international-trade-stellt-sec-122-zoelle-frage"
+      "https://www.kmlz.de/de/us-zoelle-weiter-auf-dem-pruefstand-court-international-trade-stellt-sec-122-zoelle-frage",
+      "https://www.kmlz.de/de/reform-der-umsatzsteuerrechtlichen-organschaft-erklaerungsverfahren-aber-kein-antragsverfahren"
     ],
     "kleeberg": [
       "https://www.kleeberg.de/2026/05/18/abgrenzung-von-sofort-abzugsfaehigen-erhaltungsaufwendungen-und-nachtraeglichen-herstellungskosten/",
@@ -180,7 +197,12 @@
       "https://www.kleeberg.de/2026/06/01/verabschiedung-von-ifrs-20-durch-das-iasb/",
       "https://www.kleeberg.de/2026/06/01/bfh-haelt-landesgrundsteuergesetz-baden-wuerttemberg-fuer-verfassungskonform/",
       "https://www.kleeberg.de/2026/05/27/bfh-entscheidet-zur-klassifizierung-einer-verguetung-fuer-die-fortfuehrung-des-geschaeftsfuehreramts-bei-anteilsveraeusserung/",
-      "https://www.kleeberg.de/2026/05/27/drsc-interpretation-5-ifrs-verabschiedet-und-veroeffentlicht/"
+      "https://www.kleeberg.de/2026/05/27/drsc-interpretation-5-ifrs-verabschiedet-und-veroeffentlicht/",
+      "https://www.kleeberg.de/2026/06/03/niedriger-gemeiner-wert-hohe-anforderungen-an-das-sachverstaendigengutachten/",
+      "https://www.kleeberg.de/2026/06/03/ifrs-18-anforderungen-an-systeme-und-prozesse-warum-integrierte-plattformen-immer-wichtiger-werden/",
+      "https://www.kleeberg.de/2026/06/02/jstg-2026-umsatzsteuerliche-organschaft-auf-antrag/",
+      "https://www.kleeberg.de/2026/06/02/jahressteuergesetz-2026-bmf-veroffentlicht-referentenentwurf-mit-zahlreichen-steuerlichen-anpassungen/",
+      "https://www.kleeberg.de/2026/06/01/basiszinssatz-nach-idw-s-1-bleibt-zum-01-06-2026-gerundet-bei-350/"
     ],
     "rwt": [
       "https://www.rwt-gruppe.de/news/rwt-webinar-besteuerung-von-kryptowaehrungen-update-2026.html",
@@ -211,7 +233,8 @@
       "https://www.ebnerstolz.de/de/ueber-rsm-ebner-stolz/mediathek/podcasts/mittelstandstalk/greenwashing-empco-richtlinie-105546.html",
       "https://www.ebnerstolz.de/de/unser-angebot/leistungen/rechtsberatung/arbeitsrecht/umsetzung-eu-entgelttransparenzrichtlinie-106129.html",
       "https://www.ebnerstolz.de/de/unser-angebot/branchen/agrar-und-ernaehrungsindustrie/im-permanenten-umbruch-impulse-fuer-die-agrar-und-ernaehrungsindustrie-100945.html",
-      "https://www.ebnerstolz.de/de/unser-angebot/branchen/agrar-und-ernaehrungsindustrie/wachstum-mittelstand-agrar-ernaehrung-10-unternehmerdialog-107417.html"
+      "https://www.ebnerstolz.de/de/unser-angebot/branchen/agrar-und-ernaehrungsindustrie/wachstum-mittelstand-agrar-ernaehrung-10-unternehmerdialog-107417.html",
+      "https://www.ebnerstolz.de/de/unser-angebot/leistungen/wirtschaftspruefung/krisenfrueherkennung/covenant-verletzungen-im-mittelstand-107565.html"
     ],
     "forvis_mazars": [
       "https://www.forvismazars.com/de/de/ueber-uns/aktuelles/nachrichten/mandant-merck-erhaelt-auszeichnungen-fuer-esg-report",
@@ -359,14 +382,17 @@
       "https://www.pkf-fasselt.de/artikel/fremdwaehrungsfestgeldanlagen-zweifel-an-der-besteuerung-von-waehrungsgewinnen-nach-20-estg",
       "https://www.pkf-fasselt.de/artikel/verkuerzte-restnutzungsdauer-bei-gebaeuden",
       "https://www.pkf-fasselt.de/artikel/eu-inc-neue-chancen-fuer-start-ups-im-europaeischen-binnenmarkt",
-      "https://www.pkf-fasselt.de/artikel/empco-richtlinie-2026-was-unternehmen-jetzt-fuer-eine-rechtssichere-nachhaltigkeitskommunikation-beachten-muessen"
+      "https://www.pkf-fasselt.de/artikel/empco-richtlinie-2026-was-unternehmen-jetzt-fuer-eine-rechtssichere-nachhaltigkeitskommunikation-beachten-muessen",
+      "https://www.pkf-fasselt.de/artikel/referentenentwurf-fuer-ein-jahressteuergesetz-2026",
+      "https://www.pkf-fasselt.de/artikel/das-transparenzregister-wird-zum-zentralregister-wesentliche-aenderungen-fuer-stiftungen"
     ],
     "bansbach": [
       "https://www.bansbach-gruppe.de/bansbach-blog/finfluencer-als-rendite-falle-die-risiken-bei-den-aktien-tipps-auf-social-media/",
       "https://www.bansbach-gruppe.de/bansbach-blog/steuerhuerden-fuer-auswanderer/",
       "https://www.bansbach-gruppe.de/bansbach-blog/die-schnellsten-steuerbescheide-kommen-aus-berlin/",
       "https://www.bansbach-gruppe.de/bansbach-blog/rente-aber-mit-zuverdienst-so-soll-die-aktivrente-ruhestaendler-motivieren-laenger-zu-arbeiten/",
-      "https://www.bansbach-gruppe.de/bansbach-blog/durchbruch-fuers-e-auto-warum-der-oelpreis-schock-jetzt-alles-aendern-koennte/"
+      "https://www.bansbach-gruppe.de/bansbach-blog/durchbruch-fuers-e-auto-warum-der-oelpreis-schock-jetzt-alles-aendern-koennte/",
+      "https://www.bansbach-gruppe.de/bansbach-blog/der-dramatische-anstieg-der-zweiten-miete-in-deutschland/"
     ],
     "ecovis_kso": [
       "https://ecovis-kso.com/blog/extremisten-und-vereinsrecht/",
@@ -388,7 +414,11 @@
       "https://ecovis-kso.com/blog/konfliktmanagement-und-mediation-in-veraenderungsprozessen/",
       "https://ecovis-kso.com/blog/praxisorganisation-in-arztpraxen-verbessern/",
       "https://ecovis-kso.com/blog/grunderwerbsteuer-niessbrauch-und-wohnungsrecht/",
-      "https://ecovis-kso.com/blog/wirtschafts-identifikationsnummer-w-idnr-impressumspflicht/"
+      "https://ecovis-kso.com/blog/wirtschafts-identifikationsnummer-w-idnr-impressumspflicht/",
+      "https://ecovis-kso.com/blog/besteuerung-bei-abfindungen-nach-wegzug-ins-ausland/",
+      "https://ecovis-kso.com/blog/innergemeinschaftliche-lieferungen-bfh-staerkt-vertrauensschutz/",
+      "https://ecovis-kso.com/blog/umsatzsteuerbefreiung-bei-containervermietung/",
+      "https://ecovis-kso.com/blog/aufbewahrungsfristen-2026/"
     ],
     "poellath": [
       "https://www.pplaw.com/mandate/poellath-beraet-den-muenchner-kamera-und-lichthersteller-arri",
@@ -434,7 +464,11 @@
       "https://www.nexia.de/informationen/news/news-ansicht/bundeshaushalt-2027-eckpunkte-beschlossen",
       "https://www.nexia.de/informationen/news/news-ansicht/grundsteuer-modell-in-baden-wuerttemberg-bestaetigt",
       "https://www.nexia.de/informationen/news/news-ansicht/eugh-keine-umsatzsteuerbare-leistung-bei-verrechnungspreisanpassungen-zur-margensicherung",
-      "https://www.nexia.de/informationen/news/news-ansicht/grundstueck-statt-zugewinn-steuerfalle-bei-ehegatten"
+      "https://www.nexia.de/informationen/news/news-ansicht/grundstueck-statt-zugewinn-steuerfalle-bei-ehegatten",
+      "https://www.nexia.de/informationen/news/news-ansicht/modernisierte-eu-vorschriften-zur-korruptionsbekaempfung-treten-in-kraft",
+      "https://www.nexia.de/informationen/news/news-ansicht/mittelstand-braucht-bankfilialen-immer-seltener",
+      "https://www.nexia.de/informationen/news/news-ansicht/ifrs-abschluesse-was-sich-bei-steuerlichen-nebenleistungen-aendert",
+      "https://www.nexia.de/informationen/news/news-ansicht/musterverfahren-verzoegert-sich-entschaedigung"
     ],
     "noerr": [
       "https://www.noerr.com/de/insights/fusionskraftwerke-in-deutschland-und-der-eu",
@@ -457,7 +491,10 @@
       "https://www.noerr.com/de/insights/die-rechenzentrumsstrategie-der-bundesregierung-ganzheitliche-potentiale-fur-wirtschaft-investoren-und-die-offentliche-hand-fur-die-digitale-transformation-noerr-insight-no-4",
       "https://www.noerr.com/de/insights/cybersicherheit-in-der-lieferkette-komponenten-und-ersatzteile-unter-dem-cyber-resilience-act",
       "https://www.noerr.com/de/insights/olg-duesseldorf-legt-bundeswehrplanungs-und-beschaffungsbeschleunigungsgesetz-dem-bundesverfassungsgericht-vor",
-      "https://www.noerr.com/de/insights/europaeisches-parlament-stimmt-ueber-neue-eu-screening-verordnung-ab"
+      "https://www.noerr.com/de/insights/europaeisches-parlament-stimmt-ueber-neue-eu-screening-verordnung-ab",
+      "https://www.noerr.com/de/insights/keine-rechtzeitige-umsetzung-der-eu-entgelttransparenzrichtlinie-in-deutsches-recht-was-gilt-nach-dem-7-juni-2026",
+      "https://www.noerr.com/de/insights/nachhaltige-anderung-des-deutschen-kaufrechts-die-umsetzung-des-europaischen-right-to-repair",
+      "https://www.noerr.com/de/insights/was-folgt-aus-dem-vergabebeschleunigungsgesetz-fuer-planungsbueros"
     ],
     "lkc": [
       "https://lkc.de/lkc-gruppe-wird-teil-der-wirtschaftspruefungsplattform-atania/",
@@ -482,7 +519,8 @@
       "https://www.sonntag-partner.de/sonderinformation-vergabebeschleunigungsgesetz-beschlossen-kerninhalte-der-gesetzesnovelle-und-auswirkungen-auf-die-praxis/",
       "https://www.sonntag-partner.de/sonntag-tax-talk-kaufpreisaufteilung-bei-grundstueckskaufvertraegen/",
       "https://www.sonntag-partner.de/sonderinformation-30-jahre-maengelhaftung-fuer-bautraeger-bundesgerichtshof-erklaert-klauseln-zur-abnahme-des-gemeinschaftseigentums-fuer-unwirksam/",
-      "https://www.sonntag-partner.de/sonderinformation-auskoemmlichkeit-im-vergaberecht-das-olg-frankfurt-schaerft-die-massstaebe/"
+      "https://www.sonntag-partner.de/sonderinformation-auskoemmlichkeit-im-vergaberecht-das-olg-frankfurt-schaerft-die-massstaebe/",
+      "https://www.sonntag-partner.de/sonderinformation-bfh-konkretisiert-anforderungen-an-die-durchfuehrung-von-ergebnisabfuehrungsvertraegen-das-sollten-unternehmen-jetzt-beachten/"
     ]
   }
 }
