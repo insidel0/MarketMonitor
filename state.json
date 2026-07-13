@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_run": "2026-07-06T11:24:17.041637+00:00",
+  "last_run": "2026-07-13T10:18:43.827918+00:00",
   "seen": {
     "ey": [
       "https://www.ey.com/de_de/technical/steuernachrichten/wichtige-steuertermine13",
@@ -52,7 +52,9 @@
       "https://kpmg.com/de/de/themen/2026/07/koa-ausschuss-reformpaket-juli-2026.html",
       "https://kpmg.com/de/de/themen/2026/06/dac-recast.html",
       "https://kpmg.com/de/de/themen/2026/06/bfh-8b3-konfusion.html",
-      "https://kpmg.com/de/de/themen/2026/06/bfh-8b3-zinsforderung-nahestehen.html"
+      "https://kpmg.com/de/de/themen/2026/06/bfh-8b3-zinsforderung-nahestehen.html",
+      "https://kpmg.com/de/de/themen/2026/07/dba-verhandlungsgrundlage-2026.html",
+      "https://kpmg.com/de/de/themen/2026/07/eu-kom-vvv-dividenden-tochterges.html"
     ],
     "pwc": [
       "https://blogs.pwc.de/de/steuern-und-recht/article/254693/bmf-aufhebung-des-bmf-schreibens-vom-12-mai-2014/",
@@ -153,7 +155,14 @@
       "https://blogs.pwc.de/de/steuern-und-recht/article/255544/umsatzsteuerliche-aenderungen-im-entwurf-eines-jahressteuergesetzes-2026/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/255543/umsatzsteuer-newsletter-ausgabe-06-juni-2026/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/255538/legal-news-energierecht-fuer-energieintensive-unternehmen-ausgabe-17-juni-2026/",
-      "https://blogs.pwc.de/de/steuern-und-recht/article/255511/aenderungen-im-wohn-und-geschaeftsraummietrecht-2026/"
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255511/aenderungen-im-wohn-und-geschaeftsraummietrecht-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255810/gruppe-natuerlicher-personen-als-herrschendes-unternehmen-im-sinne-des-6a-grestg/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255809/anwendung-des-europaeischen-koordinierungsrechts-auf-kindergeldfaelle-nach-dem-brexit/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255780/steuern-recht-aktuell-ausgabe-27-vom-9-juli-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255763/vertragsverletzungsverfahren-kommission-leitet-rechtliche-schritte-gegen-deutschland-ein/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255759/eug-gesamtschuldnerische-haftung-eines-steuerlichen-vertreters-fuer-geschuldete-mehrwertsteuer/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255727/bmf-besteuerung-der-einkuenfte-aus-nichtselbstaendiger-arbeit-auf-hoher-see/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/255721/konzernkoordinierungsvertraege-entwicklung-inhalt-ausblick/"
     ],
     "deloitte": [
       "https://www.deloitte-tax-news.de/arbeitnehmerentsendung-personal/thema-des-monats/neuntes-steuerberatungsaenderungsgesetz-1000-euro-entlastungspraemie-vorerst-gescheitert.html",
@@ -183,7 +192,9 @@
       "https://www.deloitte-tax-news.de/transfer-pricing/oecd-aenderungsvorschlaege-kapitel-vii-verrechnungspreisleitlinien-zu-konzerninternen-dienstleistungen.html",
       "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/entwurf-einer-dac-recast-richtlinie.html",
       "https://www.deloitte-tax-news.de/steuern/indirekte-steuern-zoll/bmf-vorsteuer-verguetungsantraege-von-drittlandsunternehmern-nach-dem-31122025.html",
-      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/die-eu-kommission-plant-eine-umfassende-reform-der-dac6-mitteilungspflichten.html"
+      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/die-eu-kommission-plant-eine-umfassende-reform-der-dac6-mitteilungspflichten.html",
+      "https://www.deloitte-tax-news.de/steuern/grundsteuer-grunderwerbsteuer/bfh-grunderwerbsteuerrechtliche-zurechnung-bei-abschluss-einer-treuhandvereinbarung.html",
+      "https://www.deloitte-tax-news.de/rechnungslegung/fg-muenster-keine-unterbrechung-der-para-6b-vorbesitzzeit-bei-uebertragung-zwischen-personenidentischen-schwesterpersonengesellschaften.html"
     ],
     "fgs": [
       "https://www.fgs.de/news-and-insights/blog/detail/neuerungen-bei-der-besteuerung-von-fremdwaehrungsgewinnen-im-privatvermoegen-zweifel-an-der-besteuerung-von-fremdwaehrungsfestgeldanlagen-handlungsbedarf-fuer-die-praxis",
@@ -247,7 +258,8 @@
       "https://www.roedl.com/insights/ausgabe-22-2026-es-kommt-ein-tax-omnibus-aus-bruessel/",
       "https://www.roedl.com/insights/ausgabe-23-2026-grundsaetze-betriebsstaettenbegriff/",
       "https://www.roedl.com/insights/ausgabe-24-2026-tax-omnibus-richtsatzsammlung/",
-      "https://www.roedl.com/insights/ausgabe-25-2026-das-versprechen-vom-grossen-aufschwung/"
+      "https://www.roedl.com/insights/ausgabe-25-2026-das-versprechen-vom-grossen-aufschwung/",
+      "https://www.roedl.com/insights/ausgabe-26-2026-4-auszeichnungen-beste-steuerzahler/"
     ],
     "kmlz": [
       "https://www.kmlz.de/de/eugh-umsatzsteuerliche-behandlung-von-verrechnungspreisanpassungen",
@@ -259,7 +271,8 @@
       "https://www.kmlz.de/de/eu-parlament-stimmt-fuer-handelsdeal-mit-den-usa-15-zoll-fuer-eu-waren-und-zollfreiheit-fuer-us",
       "https://www.kmlz.de/de/e-commerce-pauschalzoll-fuer-kleinsendungen-aus-drittlaendern-eu-kommission-nimmt-stellung",
       "https://www.kmlz.de/de/bestellbestaetigungen-eines-app-stores-koennen-steuerschuld-des-app-entwicklers-ausloesen",
-      "https://www.kmlz.de/de/anwendung-einrichtungsbezogener-steuerbefreiungen-einer-umsatzsteuerlichen-organschaft"
+      "https://www.kmlz.de/de/anwendung-einrichtungsbezogener-steuerbefreiungen-einer-umsatzsteuerlichen-organschaft",
+      "https://www.kmlz.de/de/blick-ins-ausland-juli-2026"
     ],
     "kleeberg": [
       "https://www.kleeberg.de/2026/05/18/abgrenzung-von-sofort-abzugsfaehigen-erhaltungsaufwendungen-und-nachtraeglichen-herstellungskosten/",
@@ -328,7 +341,13 @@
       "https://www.kleeberg.de/2026/07/02/basiszinssatz-nach-idw-s-1-bleibt-zum-01-07-2026-gerundet-bei-350/",
       "https://www.kleeberg.de/2026/07/01/basiszinssatz/",
       "https://www.kleeberg.de/2026/07/01/finanzverwaltung-aeussert-sich-zu-mitarbeiterbeteiligungen-mit-negativen-liquidationspraeferenzen-sog-hurdle-shares/",
-      "https://www.kleeberg.de/2026/06/29/aenderung-des-grunderwerbsteuergesetzes-das-ende-der-signing-closing-problematik/"
+      "https://www.kleeberg.de/2026/06/29/aenderung-des-grunderwerbsteuergesetzes-das-ende-der-signing-closing-problematik/",
+      "https://www.kleeberg.de/2026/07/13/fremdwaehrungskonten-im-privatvermoegen-zweifel-an-besteuerung-fiktiver-kursgewinne/",
+      "https://www.kleeberg.de/2026/07/09/qualifizierung-der-einkuenfte-eines-jungfussballers/",
+      "https://www.kleeberg.de/2026/07/07/befreiung-von-der-konzernrechnungslegungspflicht-nach-%c2%a7-290-abs-5-hgb-bedeutung-assoziierter-unternehmen/",
+      "https://www.kleeberg.de/2026/07/07/unentgeltliche-ratenzahlungsvereinbarung-keine-bereicherung-und-keine-einkuenfte-aus-kapitalvermoegen/",
+      "https://www.kleeberg.de/2026/07/07/umsatzsteuerbefreiung-fuer-aesthetische-operationen-und-behandlungen-neue-nachweispflichten-durch-bmf-schreiben-vom-21-mai-2026/",
+      "https://www.kleeberg.de/2026/07/06/hinzurechnung-einer-rueckstellung-fuer-eine-kartellgeldbusse-im-vereinfachten-ertragswertverfahren/"
     ],
     "rwt": [
       "https://www.rwt-gruppe.de/news/rwt-webinar-besteuerung-von-kryptowaehrungen-update-2026.html",
@@ -444,7 +463,13 @@
       "https://www.bakertilly.de/beitrag/zoll-beim-import-nach-deutschland-5-wichtige-aspekte-fuer-koreanische-unternehmen",
       "https://www.bakertilly.de/beitrag/vorsicht-bei-unwiderruflicher-freistellung-mit-pauschaler-anrechnung-von-urlaub-und-ueberstunden",
       "https://www.bakertilly.de/beitrag/baker-tilly-immobilien-marktbericht-ambivalente-zeichen-aber-die-stimmung-bleibt-reserviert",
-      "https://www.bakertilly.de/beitrag/baker-tilly-staerkt-rechtsberatung-in-dortmund-durch-kooperation-mit-pwk-partner"
+      "https://www.bakertilly.de/beitrag/baker-tilly-staerkt-rechtsberatung-in-dortmund-durch-kooperation-mit-pwk-partner",
+      "https://www.bakertilly.de/beitrag/anteilsveraeusserung-bfh-zieht-engere-grenzen-beim-kostenabzug",
+      "https://www.bakertilly.de/beitrag/earn-out-als-arbeitslohn-bfh-widerspricht-dem-fg-koeln",
+      "https://www.bakertilly.de/beitrag/reformpaket-aufschwung-und-beschaeftigung-was-jetzt-auf-arbeitgeber-zukommt",
+      "https://www.bakertilly.de/beitrag/wirksamkeit-einer-kuendigung-trotz-fehlerhafter-massenentlassungsanzeige",
+      "https://www.bakertilly.de/beitrag/baker-tilly-verstaerkt-sich-mit-steuerexperten-ramin-yazdi",
+      "https://www.bakertilly.de/beitrag/baker-tilly-china-desk-waechst-auf-3-partner"
     ],
     "freshfields": [
       "https://www.freshfields.com/en/our-thinking/podcasts/esg-trends-to-watch-in-2026",
@@ -604,7 +629,11 @@
       "https://ecovis-kso.com/blog/umsatzsteuerbefreiung-bei-schoenheitsoperationen-bmf-schreiben/",
       "https://ecovis-kso.com/blog/jahressteuergesetz-2026-der-entwurf-liegt-vor/",
       "https://ecovis-kso.com/blog/wann-hat-das-finanzamt-kenntnis-von-einer-steuerhinterziehung/",
-      "https://ecovis-kso.com/blog/verrechnungspreise-im-konzern/"
+      "https://ecovis-kso.com/blog/verrechnungspreise-im-konzern/",
+      "https://ecovis-kso.com/blog/vorsteuerabzug-bei-umbenennung-bfh-entscheidung/",
+      "https://ecovis-kso.com/blog/krankschreibung-ab-dem-ersten-tag-geplante-reform-2026/",
+      "https://ecovis-kso.com/blog/steuerentlastungen-ab-2027-das-reformpaket-der-bundesregierung-im-ueberblick/",
+      "https://ecovis-kso.com/blog/gewerbesteuer-und-werbeeinkuenfte-von-sportlerinnen/"
     ],
     "poellath": [
       "https://www.pplaw.com/mandate/poellath-beraet-den-muenchner-kamera-und-lichthersteller-arri",
@@ -641,7 +670,8 @@
       "https://www.pplaw.com/mandate/poellath-beraet-xella-beim-verkauf-holcim",
       "https://www.pplaw.com/mandate/poellath-beraet-investcorp-bei-der-gruendung-einer-neuen-software-engineering-plattform",
       "https://www.pplaw.com/mandate/poellath-beraet-genui-beim-verkauf-der-kgs-software-gmbh",
-      "https://www.pplaw.com/mandate/poellath-beraet-gaius-capital-beim-first-closing-von-gaius-nachfolgekapital-i"
+      "https://www.pplaw.com/mandate/poellath-beraet-gaius-capital-beim-first-closing-von-gaius-nachfolgekapital-i",
+      "https://www.pplaw.com/news/poellath-baut-private-clients-praxis-mit-erfahrenem-neuzugang-von-hengeler-mueller-weiter-aus"
     ],
     "nexia": [
       "https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/transfer-pricing-update-2026",
@@ -686,7 +716,12 @@
       "https://www.nexia.de/informationen/news/news-ansicht/kaufpreisaufteilung-bei-immobilien-neue-gesetzliche-regeln-durch-6f-estg-geplant",
       "https://www.nexia.de/informationen/news/news-ansicht/bmf-veroeffentlicht-richtsatzsammlung-2025",
       "https://www.nexia.de/informationen/news/news-ansicht/kfw-foerderprogramm-gewerbe-zu-wohnen-startet",
-      "https://www.nexia.de/informationen/news/news-ansicht/luftverkehrsteuer-gesenkt-das-gilt-ab-juli-2026"
+      "https://www.nexia.de/informationen/news/news-ansicht/luftverkehrsteuer-gesenkt-das-gilt-ab-juli-2026",
+      "https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/steuer-update-2026-in-frankfurt",
+      "https://www.nexia.de/informationen/news/news-ansicht/mittelstand-kommt-immer-schwerer-an-kredite",
+      "https://www.nexia.de/informationen/news/news-ansicht/eu-kommission-verabschiedet-vereinfachte-esrs",
+      "https://www.nexia.de/informationen/news/news-ansicht/finanzgericht-muenster-zweifelt-an-aussetzungszinsen-vor-2019",
+      "https://www.nexia.de/informationen/news/news-ansicht/koalition-reformpaket-geplant"
     ],
     "noerr": [
       "https://www.noerr.com/de/insights/fusionskraftwerke-in-deutschland-und-der-eu",
@@ -759,7 +794,8 @@
       "https://www.sonntag-partner.de/sonntag-beraet-bei-betriebsuebergang-und-langfristiger-verpachtung-des-guts-guettin-auf-ruegen/",
       "https://www.sonntag-partner.de/sonntag-beraet-bei-verkauf-des-geschaeftsbetriebs-der-sag-sueddeutsche-abwasserreinigungs-ingenieur-gmbh/",
       "https://www.sonntag-partner.de/save-the-date-sonntag-digital-day/",
-      "https://www.sonntag-partner.de/sonntag-tax-talk-beteiligungsformen-im-vergleich/"
+      "https://www.sonntag-partner.de/sonntag-tax-talk-beteiligungsformen-im-vergleich/",
+      "https://www.sonntag-partner.de/sonderinformation-das-reformpaket-der-bundesregierung-und-seine-auswirkungen-auf-das-arbeitsrecht/"
     ]
   }
 }
