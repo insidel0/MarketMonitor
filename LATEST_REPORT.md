@@ -1,160 +1,180 @@
-# Neue Steuer-News — 20.07.2026
+# Neue Steuer-News — 27.07.2026
 
-**45 neue Beiträge von 13 Unternehmen**
+**51 neue Beiträge von 15 Unternehmen**
 
-## KPMG (8)
+## KPMG (4)
 
-- **Bekanntmachung der Neufassung des DBA Schweiz in der Fassung des Änderungsprotokolls 2025**
-  https://kpmg.com/de/de/themen/2026/07/dba-ch-bekanntmachung-neufassung-aendp2025.html
-  > BGBl. II 2026, Nr. 135
-- **Verordnung zur Ergänzung des Übereinkommens über die gegenseitige Amtshilfe in Steuersachen – UPDATE: Verkündung im BGBl.**
-  https://kpmg.com/de/de/themen/2026/04/vo-ergaenzung-amtshilfe-uebereinkommen-2026.html
-  > BGBl. II 2026, Nr. 137
-- **FG: Bundesmodell auch im Hinblick auf das Sachwertverfahren verfassungsgemäß**
-  https://kpmg.com/de/de/themen/2026/07/fg-k-grst-sachwert.html
-  > FG Köln 4 K 640/25
-- **Siebte Verordnung zur Änderung der CRS-Ausdehnungsverordnung – UPDATE: Verkündung im BGBl.**
-  https://kpmg.com/de/de/themen/2026/04/7-vo-aend-crs-ausdvo.html
-  > BGBl. II 2026, Nr. 139
-- **BFH: Gebühren bei verbindlicher Auskunft**
-  https://kpmg.com/de/de/themen/2026/07/bfh-gebuehr-va.html
-  > BFH-Urteil II R 38/23
-- **BMF aktualisiert den Anwendungserlass zur Abgabenordnung (AEAO) – Fokus: Gemeinnützigkeit**
-  https://kpmg.com/de/de/themen/2026/07/aeao-gemeinnuetzigkeit-2026-2.html
-  > BMF-Schreiben v. 02.07.2026
-- **FG: Erhebliche Zweifel an der Verfassungsmäßigkeit des Hessischen Grundsteuergesetzes**
-  https://kpmg.com/de/de/themen/2026/07/fg-hessen-grstg-adv.html
-  > FG Hessen, Pressemitteilung v. 15.07.2026
-- **Neuregelung zum Inhalt der Grunderwerbsteueranzeigen in Kraft getreten**
-  https://kpmg.com/de/de/themen/2026/07/grest-anzeigen-neu-inkraft.html
-  > BGBl. I 2026, Nr. 192
+- **Frühstartrente: Referentenentwurf des BMF**
+  https://kpmg.com/de/de/themen/2026/07/fruehstrentg.html
+  > BMF-Referentenentwurf v. 21.07.2026
+- **BMF: Organschaft: Mindestlaufzeit GAV, Personengesellschaft als Organträger**
+  https://kpmg.com/de/de/themen/2026/07/bmf-os-mindestlaufzeit-persges-ot.html
+  > BMF-Schreiben v. 17.07.2026
+- **BFH: Dauerverlustgeschäfte im kommunalen Querverbund - Spartenrechnung auf Ebene eines Organträgers**
+  https://kpmg.com/de/de/themen/2026/07/bfh-dauerverlust-querverbund.html
+  > BFH-Urteil I R 5/23
+- **BFH: Erstmaliger Erwerb von KG-Anteilen durch den Treugeber vom Treuhänder und grunderwerbsteuerliche Zurechnung**
+  https://kpmg.com/de/de/themen/2026/07/bfh-erstmaliger-erwerb-kg-anteile.html
+  > BFH-Urteil II R 30/25
 
-## PricewaterhouseCoopers (PwC) (9)
+## PricewaterhouseCoopers (PwC) (10)
 
-- **2026-07-17 — PwC Legal News Energierecht Ausgabe 7/2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255932/pwc-legal-news-energierecht-ausgabe-7-2026/
-  > Aktuelle Informationen zu energierechtlichen Entwicklungen
-- **2026-07-16 — BMF: Aktionsplan gegen Steuer- und Finanzkriminalität vorges ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255912/bmf-aktionsplan-gegen-steuer-und-finanzkriminalitaet-vorgestellt/
-  > Bundesfinanzminister Lars Klingbeil und Bundesjustizministerin Dr. Stefanie Hubig haben heute in der Bundespressekonferenz einen Aktionsplan mit 26 Maßnahmen vorgestellt.
-- **2026-07-16 — Dauerverlustgeschäfte im kommunalen Querverbund - Spartenrec ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255907/dauerverlustgeschaefte-im-kommunalen-querverbund-spartenrechnung-auf-ebene-eines-organtraegers/
-  > Der Bundesfinanzhof (BFH) hat in einem aktuellen Urteil entschieden, dass eine Organgesellschaft, die ein Dauerverlustgeschäft gemäß § 8 Abs. 7 Satz 1 Nr. 2 des Körperschaftsteuergesetzes (KStG) ausübt, nach § 15 Satz 1 Nr. 5 Satz 2 KStG die sogenannte Spartenrechnung im Sinne von § 8 Abs. 9 KStG bei der Ermittlung des Einkommens des Organträgers durchzuführen hat (sogenannte Bruttomethode). Im Rahmen dieser Spartenrechnung dürfen die Verluste aus der dauerdefizitären Tätigkeit der Organgesellschaft nicht mit Erträgen aus Wirtschaftsgütern (hier: Immobilienvermögen) verrechnet werden, die zivilrechtlich und steuerrechtlich nicht der die Verlusttätigkeit ausübenden Organgesellschaft, sondern dem keine dieser Sparte zugehörige Tätigkeit ausübenden Organträger zugeordnet sind.
-- **2026-07-16 — steuern + recht aktuell, Ausgabe 28 vom 16. Juli 2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255898/steuern-recht-aktuell-ausgabe-28-vom-16-juli-2026/
-  > Neues aus den Bereichen Gesetzgebung, Finanzverwaltung und Rechtsprechung
-- **2026-07-16 — Bundesregierung beschließt Gesetzentwurf zur Modernisierung ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255897/bundesregierung-beschliesst-gesetzentwurf-zur-modernisierung-des-rechts-der-genossenschaften/
-  > Das Recht der Genossenschaften soll modernisiert werden. Das sieht ein am 15. Juli 2026 beschlossener Gesetzentwurf der Bundesregierung vor, so eine Pressemitteilung des Bundesministeriums für Justiz und Verbraucherschutz (BMJV). Mit den neuen Regelungen soll die Gründung von Genossenschaften beschleunigt und die Digitalisierung weiter gefördert werden. Nicht erforderliche Schriftformerfordernisse sollen wegfallen. Zugleich sind neue Maßnahmen gegen unseriöse Genossenschaften vorgesehen.
-- **2026-07-15 — EuG: 100-prozentige Beteiligung für Mehrwertsteuergruppe wid ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255885/eug-100-prozentige-beteiligung-fuer-mehrwertsteuergruppe-widerspricht-unionsrechtlichen-vorgaben/
-  > Das Gericht der Europäischen Union (EuG) hat in einem dänischen Vorabentscheidungsersuchen geklärt, ob und wann die Mitgliedstaaten - insbesondere um Steuerhinterziehungen zu verhindern - bestimmte Kategorien von Steuerpflichtigen zu einer 100%igen Beteiligung verpflichten dürfen. Eine rein theoretische Gefahr ohne ausdrückliche Begründung eines Missbrauchs ist nicht ausreichend.
-- **2026-07-14 — PwC Tax Insurance Newsflash: Drei richtungsweisende Verhandl ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255865/pwc-tax-insurance-newsflash-drei-richtungsweisende-verhandlungen-zum-versicherungsteuerrecht-vor-dem-bfh/
-  > Drei richtungsweisende Verhandlungen zum Versicherungsteuerrecht vor dem BFH
-- **2026-07-14 — Legal News Energierecht für energieintensive Unternehmen – A ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255864/legal-news-energierecht-fuer-energieintensive-unternehmen-ausgabe-18-juli-2026/
+- **2026-07-27 — Legal News Energierecht für energieintensive Unternehmen – A ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256054/legal-news-energierecht-fuer-energieintensive-unternehmen-ausgabe-19-juli-2026/
   > Der monatliche Newsletter mit Aktuellem und Wissenswertem rund um das Energierecht für energieintensive Unternehmen.
-- **2026-07-14 — DBA-Schweiz: Unzumutbarkeit der Rückkehr an den Wohnsitz aus ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/255857/dba-schweiz-unzumutbarkeit-der-rueckkehr-an-den-wohnsitz-aus-beruflichen-gruenden/
-  > Ein Steuerpflichtiger gilt nicht als Grenzgänger im Sinne von Artikel 15a Absatz 2 des Doppelbesteuerungsabkommens mit der Schweiz, wenn eine Rückkehr an seinen Wohnort aus beruflichen Gründen nicht möglich oder nicht zumutbar ist. Dies wird nach zwei Urteilen des Bundesfinanzhofs anhand der Umstände des Einzelfalls, insbesondere unter Berücksichtigung beruflicher Faktoren, beurteilt und kann nicht allein auf der Grundlage allgemeiner Kriterien, insbesondere einer festen Entfernung zwischen Wohnort und Arbeitsort, entschieden.
+- **2026-07-24 — Erhebliche Zweifel an der Verfassungsmäßigkeit des Hessische ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256033/erhebliche-zweifel-an-der-verfassungsmaessigkeit-des-hessischen-grundsteuergesetzes-hinsichtlich-uebergrosser-grundstuecke-im-aussenbereich/
+  > Das Hessische Finanzgericht hat entschieden, dass das im Zuge der Neuregelung des Hessischen Grundsteuergesetzes (HGrStG) eingeführte Flächen-Faktor-Modell bei der Anwendung auf übergroße Grundstücke im Außenbereich erheblichen verfassungsrechtlichen Zweifeln begegnet und gewährte im Verfahren des einstweiligen Rechtsschutzes eine (teilweise) Aussetzung der Vollziehung.
+- **2026-07-23 — steuern + recht aktuell, Ausgabe 29 vom 23. Juli 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256011/steuern-recht-aktuell-ausgabe-29-vom-23-juli-2026/
+  > Neues aus den Bereichen Gesetzgebung, Finanzverwaltung und Rechtsprechung
+- **2026-07-23 — Koalitionspaket Juli 2026: Was die geplanten Reformen für Ih ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256010/koalitionspaket-juli-2026-was-die-geplanten-reformen-fuer-ihr-unternehmen-bedeuten/
+  > Mit dem im Juli 2026 vereinbarten Maßnahmenpaket „Ein Programm für Aufschwung und Beschäftigung" haben CDU/CSU und SPD Vorhaben auf den Weg gebracht, die Befristungsrecht, Kündigungsschutz, Mitbestimmung und Krankmeldung grundlegend verändern könnten. Ziel des Pakets ist es, den Standort Deutschland angesichts von technologischem Wandel, demografischem Druck und wachsendem internationalen Wettbewerb zu stärken. Konkrete Gesetzentwürfe liegen noch nicht vor. Ein genauer Blick lohnt sich für Arbeitgeber aber bereits jetzt. Wir stellen Ihnen die wichtigsten geplanten Neuregelungen vor.
+- **2026-07-23 — Wegweiser der Bundesbank zu Krypto-Transaktionen**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256009/wegweiser-der-bundesbank-zu-krypto-transaktionen/
+  > Die Bundesbank hat am 30. Juni 2026 eine Neuauflage der „Erläuterungen zum außenwirtschaftlichen Meldewesen“ (Erläuterung) veröffentlicht. Die Erläuterung enthält unter anderem einige klarstellende Hinweise zum Meldewesen für Kryptowerte nach der Außenwirtschaftsverordnung (AWV).
+- **2026-07-22 — BMF: Entwurf eines Gesetzes zur Einführung einer Frühstartre ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/255998/bmf-entwurf-eines-gesetzes-zur-einfuehrung-einer-fruehstartrente/
+  > Das Bundesministerium der Finanzen (BMF) hat am 22. Juli 2026 den Referentenentwurf eines Gesetzes zur Einführung einer Frühstartrente veröffentlicht
+- **2026-07-22 — BMF: Körperschaftsteuerliche Organschaft (§ 14 KStG); Mindes ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/255997/bmf-koerperschaftsteuerliche-organschaft-14-kstg-mindestlaufzeit-des-gewinnabfuehrungsvertrags-personengesellschaft-als-organtraeger/
+  > Das Bundesministerium der Finanzen (BMF) hat am 22. Juli 2026 in einem Schreiben zur Mindestlaufzeit des Gewinnabführungsvertrags sowie zur Personengesellschaften als Organträger Stellung genommen.
+- **2026-07-21 — Konsultation – Rundschreiben der Bafin zu den Änderungen im ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/255986/konsultation-rundschreiben-der-bafin-zu-den-aenderungen-im-kagb-in-folge-des-frig/
+  > RegCORE Client Alert | Deutsche regulatorische Entwicklungen
+- **2026-07-20 — Hinzurechnung fiktiver Betriebsausgaben auch bei Steuerfreis ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/255946/hinzurechnung-fiktiver-betriebsausgaben-auch-bei-steuerfreistellung-durch-dba/
+  > Das Finanzgericht Münster hat in einem aktuellen Urteil entschieden, dass eine Hinzurechnung nach § 8b Abs. 3 Satz 1 und Abs. 5 Satz 1 KStG auch dann zu erfolgen hat, wenn die fiktiven nicht abziehbaren Betriebsausgaben funktional bei einer ausländischen Betriebsstätte angefallen wären, die nach einem DBA freigestellt ist.
+- **2026-07-20 — Vereinigung mehrerer gewerblicher Betätigungen zu einem einh ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/255945/vereinigung-mehrerer-gewerblicher-betaetigungen-zu-einem-einheitlichen-gewerbebetrieb-nach-hinzuerwerb-eines-betriebs/
+  > Übt eine natürliche Person mehrere gewerbliche Tätigkeiten aus, kann es sich gewerbesteuerlich in Abhängigkeit von der Gleichartigkeit oder Ungleichartigkeit der Betätigungen sowie von ihrem wirtschaftlichen, organisatorischen und finanziellen Zusammenhang um einen Betrieb oder mehrere selbständige Betriebe handeln, wie der Bundesfinanzhof (BFH) in einem aktuellen Urteil entschieden hat.
 
-## Deloitte (2)
+## Deloitte (3)
 
-- **BFH: Steuervergünstigung nach § 6a GrEStG für Gruppe natürlicher Personen**
-  https://www.deloitte-tax-news.de/steuern/grundsteuer-grunderwerbsteuer/bfh-steuerverguenstigung-nach-para-6a-grestg-fuer-gruppe-natuerlicher-personen.html
-- **FG Münster: Keine außerbilanzielle Hinzurechnung bei fremdüblichen Wandeldarlehen trotz fehlender Sicherheiten**
-  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/fg-muenster-keine-ausserbilanzielle-hinzurechnung-bei-fremdueblichen-wandeldarlehen-trotz-fehlender-sicherheiten.html
+- **BFH: Gebühren bei verbindlicher Auskunft**
+  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/bfh-gebuehren-bei-verbindlicher-auskunft.html
+- **BMF: Körperschaftsteuerliche Organschaft**
+  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/bmf-koerperschaftsteuerliche-organschaft.html
+- **BFH: Dauerverlustgeschäfte im kommunalen Querverbund**
+  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/bfh-dauerverlustgeschaefte-im-kommunalen-querverbund.html
 
 ## Flick Gocke Schaumburg (4)
 
-- **Kein Verwaltungsvermögen bei von Kapitalgesellschaften verpachteten landwirtschaftlichen Grundstücken**
-  https://www.fgs.de/news-and-insights/blog/detail/kein-verwaltungsvermoegen-bei-von-kapitalgesellschaften-verpachteten-landwirtschaftlichen-grundstuecken
-- **Grunderwerbsteuerliche Stolperfalle bei der Erbauseinandersetzung mit grundbesitzenden Familiengesellschaften**
-  https://www.fgs.de/news-and-insights/blog/detail/grunderwerbsteuerliche-stolperfalle-bei-der-erbauseinandersetzung-mit-grundbesitzenden-familiengesellschaften
-- **Nach 13 Jahren: Die neue deutsche Verhandlungsgrundlage für Doppelbesteuerungsabkommen 2026**
-  https://www.fgs.de/news-and-insights/blog/detail/nach-13-jahren-die-neue-deutsche-verhandlungsgrundlage-fuer-doppelbesteuerungsabkommen-2026
-- **Neue Entwicklungen im Mehrwertsteuer- und Zollrecht mit Bezug zu China**
-  https://www.fgs.de/news-and-insights/blog/detail/neue-entwicklungen-im-mehrwertsteuer-und-zollrecht-mit-bezug-zu-china
+- **Grenzen der grunderwerbsteuerlichen Konzernklausel bei Gründung von grundbesitzender Familien-Holding nach dem Erbfall**
+  https://www.fgs.de/news-and-insights/blog/detail/grenzen-der-grunderwerbsteuerlichen-konzernklausel-bei-gruendung-von-grundbesitzender-familien-holding-nach-dem-erbfall
+- **Namensrecht: Influencer scheitert an der Abschreibung**
+  https://www.fgs.de/news-and-insights/blog/detail/namensrecht-influencer-scheitert-an-der-abschreibung
+- **BGH zur Leibrente bei Vermögensübertragungen und 10-Jahres-Zeitraum für Pflichtteilsergänzungsansprüche**
+  https://www.fgs.de/news-and-insights/blog/detail/bgh-zur-leibrente-bei-vermoegensuebertragungen-und-10-jahres-zeitraum-fuer-pflichtteilsergaenzungsansprueche
+- **Doppelte Grunderwerbsteuer bei Treuhandvereinbarungen – vorgezogener Übergang des wirtschaftlichen Eigentums bei Anteilsübertragungen als Steuerfalle**
+  https://www.fgs.de/news-and-insights/blog/detail/grunderwerbsteuerliche-zuordnung-bei-abschluss-einer-treuhandvereinbarung
 
 ## Rödl & Partner (1)
 
-- **2026-07-19 — Ausgabe 27/2026: Sommer, Sonne, Steuerspaß**
-  https://www.roedl.com/insights/ausgabe-27-2026-4-anker-early-tax-birds-duplikat/
+- **2026-07-26 — Ausgabe 28/2026: Aus dem steuerlichen Sommerloch gegrüßt**
+  https://www.roedl.com/insights/ausgabe-28-2026-aus-dem-steuerlichen-sommerloch-gegruesst/
 
-## Forvis Mazars (1)
+## Baker Tilly (3)
 
-- **Forvis Mazars festigt Platz 8 der Lünendonk®-Liste**
-  https://www.forvismazars.com/de/de/ueber-uns/aktuelles/nachrichten/forvis-mazars-festigt-platz-8-der-luenendonk-R-liste2
-  > Forvis Mazars zählt weiterhin zu den führenden Wirtschaftsprüfungs- und Steuerberatungsgesellschaften in Deutschland. Platz 8 im aktuellen Lünendonk Ranking unterstreicht die dynamische Entwicklung in einem Markt, der zunehmend von Transformation, Technologie und steigenden Anforderungen an Vertrauen geprägt ist.
+- **Baker Tilly berät Gimborn beim Erwerb einer Mehrheitsbeteiligung an Cerberus**
+  https://www.bakertilly.de/beitrag/baker-tilly-beraet-gimborn-beim-erwerb-einer-mehrheitsbeteiligung-an-cerberus
+- **BFH kippt fiktive Zinsen bei Kaufpreisstundungen**
+  https://www.bakertilly.de/beitrag/bfh-kippt-fiktive-zinsen-bei-kaufpreisstundungen
+- **KapESt-Erstattung für EU-Muttergesellschaften bei Tochtergesellschaften i.L.**
+  https://www.bakertilly.de/beitrag/kapest-erstattung-fuer-eu-muttergesellschaften-bei-tochtergesellschaften-il
 
-## Grant Thornton (1)
+## PKF Fasselt (1)
 
-- **Grant Thornton in Deutschland auch in der diesjährigen Lünendonk-Liste® in den Top Ten**
-  https://www.grantthornton.de/presse/grant-thornton-in-deutschland-auch-in-der-diesjaehrigen-luenendonk-liste-in-den-top-ten/
+- **2026-07-21 — Koalition einigt sich auf Reformpaket: Geplante einkommensteuerliche Maßnahmen ab 2027**
+  https://www.pkf-fasselt.de/artikel/koalition-einigt-sich-auf-reformpaket-geplante-einkommen-steuerliche-massnahmen-ab-2027
 
-## Baker Tilly (2)
+## ECOVIS KSO (3)
 
-- **Baker Tilly berät IX Gruppe beim Beitritt der HTGS**
-  https://www.bakertilly.de/beitrag/baker-tilly-beraet-ix-gruppe-beim-beitritt-der-htgs
-- **BFH: Vereinbarung schlägt Kontenbuchung bei der KG**
-  https://www.bakertilly.de/beitrag/bfh-vereinbarung-schlaegt-kontenbuchung-bei-der-kg
-
-## ECOVIS KSO (5)
-
-- **Verlagerung der Buchführung**
-  https://ecovis-kso.com/blog/verlagerung-der-buchfuehrung/
-- **Jahressteuergesetz 2026 in der Kritik: Was die Verbände an den Plänen bemängeln**
-  https://ecovis-kso.com/blog/jahressteuergesetz-2026-in-der-kritik/
-- **Das Arbeitszeitkonto im Minijob – Flexibilität mit klaren Grenzen**
-  https://ecovis-kso.com/blog/das-arbeitszeitkonto-im-minijob/
-- **BFH-Urteile zur Geschäftsveräußerung im Ganzen: Was Unternehmer bei Unternehmensübertragungen umsatzsteuerlich beachten müssen**
-  https://ecovis-kso.com/blog/geschaeftsveraeusserung-im-ganzen/
-- **Transferentschädigungen und Handgeldzahlungen im Profifußball**
-  https://ecovis-kso.com/blog/transferentschaedigungen-und-handgeldzahlungen-im-profifussball/
+- **BFH zur Stromsteuer in der Insolvenz: Wann werden Verbrauchsteuern zur Masseverbindlichkeit?**
+  https://ecovis-kso.com/blog/stromsteuer-als-masseverbindlichkeit/
+- **Cash only war gestern? Kassenkontrollen, Kartenzahlung und was 2027 auf Bargeldbranchen zukommt**
+  https://ecovis-kso.com/blog/kassenkontrollen-kartenzahlung-2027-fuer-bargeldbranchen/
+- **Selbstabrechnung oder Abrechnungsdienstleister? Warum die richtige Abrechnung in der Pflege über Erfolg, Liquidität und Steuern entscheidet**
+  https://ecovis-kso.com/blog/abrechnung-in-der-pflege/
 
 ## POELLATH (2)
 
-- **2026-07-20 — POELLATH berät CEWE beim Erwerb des Geschäftsbereichs KODAK MOMENTS von Kodak Alaris**
-  https://www.pplaw.com/mandate/poellath-beraet-cewe-beim-erwerb-des-geschaeftsbereichs-kodak-moments-von-kodak-alaris
-- **2026-07-17 — POELLATH berät das Management der GBA Group beim Verkauf an Bridgepoint**
-  https://www.pplaw.com/mandate/poellath-beraet-das-management-der-gba-group-beim-verkauf-bridgepoint
+- **2026-07-27 — POELLATH berät das Management der MDT technologies GmbH beim Verkauf an BU Bregal Unternehmerkapital**
+  https://www.pplaw.com/news/poellath-beraet-das-management-der-mdt-technologies-gmbh-beim-verkauf-bu-bregal
+- **2026-07-23 — POELLATH erhält erneute die Top-Tier-Platzierung in „Chambers High Net Worth Guide 2026: Private Wealth Law“**
+  https://www.pplaw.com/news/poellath-erhaelt-erneute-die-top-tier-platzierung-chambers-high-net-worth-guide-2026-private
 
-## Noerr (1)
+## Nexia (7)
 
-- **Loitering-Munition und Drohnen als Kriegswaffen: Überarbeitetes Merkblatt des BMWE**
-  https://www.noerr.com/de/insights/loitering-munition-und-drohnen-als-kriegswaffen-uberarbeitetes-merkblatt-des-bmwe
+- **2026-09-10 — Aktuelle Herausforderungen für Aufsichtsorgane – Impulse aus Praxis und Wirtschaftsprüfung**
+  https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/aktuelle-herausforderungen-fuer-aufsichtsorgane-impulse-aus-praxis-und-wirtschaftspruefung
+  > Präsenz-Veranstaltung 10.09.2026 | 14:00 – 18:00 Uhr (Bis 20 Uhr Networking) in Dresden
+- **2026-12-03 — Steuer Update 2026**
+  https://www.nexia.de/informationen/aktuelles/veranstaltungen/2026/steuer-update-2026-in-koeln
+  > Präsenz-Veranstaltung 03.12.2026 | 12:45 – 17:45 Uhr in Köln
+- **2026-12-10 — Steuer Update 2026**
+  https://www.nexia.de/steuer-update-frankfurt
+  > Präsenz-Veranstaltung 10.12.2026 | 12:45 – 17:45 Uhr in Frankfurt
+- **BMF konkretisiert Anforderungen an die körperschaftsteuerliche Organschaft**
+  https://www.nexia.de/informationen/news/news-ansicht/bmf-konkretisiert-anforderungen-an-die-koerperschaftsteuerliche-organschaft
+  > Mit Schreiben vom 17.07.2026 hat das Bundesministerium der Finanzen (BMF) wichtige Klarstellungen zur körperschaftsteuerlichen Organschaft…
+- **BMF legt Gesetzentwurf und FAQ zur geplanten Frühstart-Rente vor**
+  https://www.nexia.de/informationen/news/news-ansicht/bmf-legt-gesetzentwurf-und-faq-zur-geplanten-fruehstart-rente-vor
+  > Das Bundesministerium der Finanzen (BMF) hat den Referentenentwurf für ein Gesetz zur Einführung der sogenannten „Frühstart-Rente” veröffentlicht und…
+- **BSI veröffentlicht Prüfarchitektur für vertrauenswürdige KI-Systeme**
+  https://www.nexia.de/informationen/news/news-ansicht/bsi-veroeffentlicht-pruefarchitektur-fuer-vertrauenswuerdige-ki-systeme
+  > Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat mit der „AI Audit and Assurance Assessment Architecture (A5)” einen neuen Rahmen zur…
+- **IASB schlägt Aktualisierung der IFRS Accounting Taxonomy 2025 vor**
+  https://www.nexia.de/informationen/news/news-ansicht/iasb-schlaegt-aktualisierung-der-ifrs-accounting-taxonomy-2025-vor
+  > Der International Accounting Standards Board (IASB) hat am 15.07.2026 einen Entwurf für eine Aktualisierung der IFRS Accounting Taxonomy 2025…
 
-## Dr. Kleeberg & Partner (7)
+## Noerr (4)
 
-- **2026-07-20 — Handelsrechtliche Bilanzierung virtueller Aktienoptionen als Entgelt für Beratungsleistungen**
-  https://www.kleeberg.de/2026/07/20/handelsrechtliche-bilanzierung-virtueller-aktienoptionen-als-entgelt-fuer-beratungsleistungen/
-  > In einer aktuellen „Fachlichen Frage“ befasst sich das IDW in der IDW Life mit der bilanziellen Behandlung virtueller Aktienoptionen, die ein Beratungsunternehmen anstelle einer Barvergütung für erbrachte Beratungsleistungen erhält. Im Mittelpunkt steht die Frage, ob und wann eine Umsatzrealisierung beim Leistungserbringer erfolgen darf und unter welchen Voraussetzungen der Leistungsempfänger...
-- **2026-07-20 — Firmenfitness – steuerliche Behandlung von Nutzungsvorteilen**
-  https://www.kleeberg.de/2026/07/20/firmenfitness-steuerliche-behandlung-von-nutzungsvorteilen/
-  > Das Bayerische Landesamt für Steuern (BayLfSt) hat mit Schreiben vom 04.03.2026 seine bisherige Sicht zur steuerlichen Einordnung von Firmenfitness-Angeboten präzisiert und teilweise verschärft. Besonders praxisrelevant ist dabei, dass auch Kostenbestandteile, die früher teilweise als betriebsfunktional oder nicht lohnrelevant angesehen wurden, nun in die Bewertung einbezogen werden können. Firmenfitness-Angebote sind...
-- **2026-07-17 — Verdeckte Gewinnausschüttung durch Geschäftsbesorgungsvertrag**
-  https://www.kleeberg.de/2026/07/17/verdeckte-gewinnausschuettung-durch-geschaeftsbesorgungsvertrag/
-  > Das FG Münster hat sich in seiner Entscheidung vom 20.05.2026 (Az. 10 K 1001/23) mit einer verdeckten Gewinnausschüttung zwischen einer Kapitalgesellschaft und ihrer Gesellschafterin befasst. In seiner Entscheidung vom 20.05.2026 (Az. 10 K 1001/23) hat sich das FG Münster mit dem Geschäftsbesorgungsvertrag zwischen einer Kapitalgesellschaft und ihrer Gesellschafterin befasst. Dabei urteilten die Richter, dass Zahlungen von einer Kapitalgesellschaft...
-- **2026-07-16 — Zweite Sitzung des „Entlastungskabinetts“**
-  https://www.kleeberg.de/2026/07/16/zweite-sitzung-des-entlastungskabinetts/
-  > Das Bundeskabinett hat sich in seiner Sitzung vom 15. Juli 2026 auf weitere Maßnahmen zum Bürokratieabbau verständigt und die Ergebnisse veröffentlicht. Hiermit soll eine jährliche Entlastung von 600 Mio. EUR erreicht werden. In seiner Sitzung vom 15. Juli 2026 hat sich das Bundeskabinett erneut zum Bürokratieabbau in Deutschland beraten. Nach der...
-- **2026-07-15 — Aktualisierter Fragen-Antworten-Katalog zur Grundsteuer vom BMF veröffentlicht**
-  https://www.kleeberg.de/2026/07/15/aktualisierter-fragen-antworten-katalog-zur-grundsteuer-vom-bmf-veroeffentlicht/
-  > Das Bundesministerium der Finanzen stellt einen aktualisierten Fragen-Antworten-Katalog zur neuen Grundsteuer zur Verfügung (Stand: 3. Juli 2026). Seit dem 1. Januar 2025 wird die Grundsteuer auf Grundlage neuer gesetzlicher Bestimmungen erhoben. Die ehemaligen gesetzlichen Regelungen wurden vom Bundesverfassungsgericht im Jahr 2018 als verfassungswidrig eingestuft, weshalb der Gesetzgeber die Vorschriften...
-- **2026-07-15 — Fristsetzung bei nicht zeitnah verwendeten Mitteln nach § 63 Abs. 4 AO**
-  https://www.kleeberg.de/2026/07/15/fristsetzung-bei-nicht-zeitnah-verwendeten-mitteln-nach-%c2%a7-63-abs-4-ao/
-  > Gemeinnützige Organisationen stehen regelmäßig vor der Herausforderung, ihre Mittel zeitnah zu verwenden und zugleich ausreichende Rücklagen für zukünftige Projekte und Risiken zu bilden. Vor diesem Hintergrund kommt der Frage, wie die Finanzverwaltung mit nicht zeitnah verwendeten Mitteln umgeht, erhebliche praktische Bedeutung zu. Mit Urteil vom 04.12.2025 (Az. V R 25/23)...
-- **2026-07-15 — NIS-2-Registrierung: BSI gewährt Nachfrist bis 31. Juli 2026**
-  https://www.kleeberg.de/2026/07/15/nis-2-registrierung-bsi-gewaehrt-nachfrist-bis-31-juli-2026/
-  > Unternehmen, die ihrer NIS-2-Registrierungspflicht bislang noch nicht nachgekommen sind, erhalten vom Bundesamt für Sicherheit in der Informationstechnik (BSI) mehr Zeit. Nach Angaben des BSI können betroffene Unternehmen ihre Registrierung noch bis 31. Juli 2026 nachholen. Grund dafür ist die bislang geringe Zahl an Registrierungen. NIS-2-Registrierung: BSI gewährt Nachfrist bis 31. Juli 2026 Die...
+- **Neue Kenn­zeich­nungs­pflichten für Her­steller­garantien und Gewähr­leistungs­rechte nach der EmpCo-Richtlinie – Handlungs­bedarf bis September 2026**
+  https://www.noerr.com/de/insights/neue-kennzeichnungspflichten-fuer-herstellergarantien-und-gewaehrleistungsrechte-nach-der-empco-richtlinie-handlungsbedarf-bis-september-2026
+- **Rechtliche Herausforde­run­gen in der globalen Weltraum­wirt­schaft**
+  https://www.noerr.com/de/insights/briefing-space-economy
+- **Änderung des Online-Casinospiel-Gesetzes in NRW: Aktuelle legislative Entwicklungen und wirtschaftliche Potentiale für Glücksspielanbieter**
+  https://www.noerr.com/de/insights/anderung-des-online-casinospiel-gesetzes-in-nrw-aktuelle-legislative-entwicklungen-und-wirtschaftliche-potentiale-fur-glucksspielanbieter
+- **Kaufrechts-Reform 2026: Bundestag fordert Ausnahme für Kfz bei Verlängerung der Gewährleistungsfrist**
+  https://www.noerr.com/de/insights/kaufrechts-reform-2026-bundestag-fordert-ausnahme-fur-kfz-bei-verlangerung-der-gewahrleistungsfrist
 
-## RWT (2)
+## KMLZ (1)
 
-- **JUVE-Ranking 2026: RWT erneut mit fünf Sternen im Südwesten**
-  https://www.rwt-gruppe.de/news/juve-ranking-2026-rwt-erneut-mit-fuenf-sternen-im-suedwesten.html
-- **RWT-Webinar: Think green, Act smart – Aus der Praxis: Nachhaltigkeit im Branchenvergleich**
-  https://www.rwt-gruppe.de/news/rwt-webinar-think-green-act-smart-aus-der-praxis-nachhaltigkeit-im-branchenvergleich.html
+- **2026-07-23 — Im Fokus: Relevante Entscheidungen im Verbrauchsteuerrecht**
+  https://www.kmlz.de/de/im-fokus-relevante-entscheidungen-im-verbrauchsteuerrecht
+  > Die Entwicklung im Verbrauchsteuerrecht wird derzeit von mehreren aktuellen Entscheidungen des EuG und des BFH sowie einem anhängigen Vorabentscheidungsverfahren geprägt. Es geht um das nationale Streckengeschäft, die Bedeutung von Sicherheitsleistungen im Steueraussetzungsverfahren und die Nachweispflichten für Steuerentlastungen bei Beförderungen von versteuerten Waren in andere Mitgliedstaaten. Die Entscheidungen können weit über die Einzelfälle hinaus Auswirkungen auf die Prozesse zahlreicher Unternehmen haben. Welche Konsequenzen sich für die Praxis ergeben, beleuchten wir in unserem Newsletter.
+
+## Dr. Kleeberg & Partner (5)
+
+- **2026-07-27 — Körperschaftsteuerliche Behandlung von Fremdwährungsverlusten in Konzernfällen**
+  https://www.kleeberg.de/2026/07/27/koerperschaftsteuerliche-behandlung-von-fremdwaehrungsverlusten-in-konzernfaellen/
+  > Das Landesamt für Steuern Niedersachsen hat mit Datum vom 2. Mai 2025 seine Verfügung vom 15. April 2020 ergänzt und klargestellt, dass Fremdwährungsverluste, die nach dem 31. Dezember 2021 eingetreten sind, nicht zu den Gewinnminderungen im Sinne des § 8b Abs. 3 Satz 4 und 5 KStG zählen. Anwendung...
+- **2026-07-24 — EZB belässt Leitzins weiterhin bei 2,25 %**
+  https://www.kleeberg.de/2026/07/24/ezb-belaesst-leitzins-weiterhin-bei-225/
+  > Die EZB hatte ihren Leitzins von Juli 2022 bis Oktober 2023 aufgrund hoher Inflationsraten nach Beginn des Ukraine-Kriegs deutlich auf 4,00 % (Einlagenzins) angehoben. Im Anschluss hat die EZB den Leitzins acht Mal in Folge auf 2,00 % gesenkt. Nach einer Phase stabiler Inflationsraten und sieben Zinspausen in Folge erhöhte...
+- **2026-07-22 — Anwendung des IDW S 1 i. d. F. 2026 auf Stichtage vor April 2026 im Spruchverfahren**
+  https://www.kleeberg.de/2026/07/22/anwendung-des-idw-s-1-i-d-f-2026-auf-stichtage-vor-april-2026-im-spruchverfahren/
+  > Der BGH hat bereits in seiner Entscheidung vom 29.09.2015 (Az. II ZB 23/14) beschlossen, dass Bewertungsmethoden zur Bestimmung des Unternehmenswerts unter bestimmten Voraussetzungen im Spruchverfahren auch dann angewendet werden können, wenn sie zum Bewertungsstichtag noch nicht in Kraft waren. Die Entscheidung aus dem Jahr 2015 ist auch für die...
+- **2026-07-22 — Außerordentliche Aufwendungen im vereinfachten Ertragswertverfahren: Neue BFH-Kriterien**
+  https://www.kleeberg.de/2026/07/22/ausserordentliche-aufwendungen-im-vereinfachten-ertragswertverfahren-neue-bfh-kriterien/
+  > Der Bundesfinanzhof hat mit Urteil vom 06.05.2026 (Az. II R 2/24) entschieden, dass die Einordnung von Aufwendungen als außerordentlich nach § 202 BewG stets eine Gesamtwürdigung des Einzelfalls voraussetzt. Entscheidend sind der Rechtsgrund der Entstehung, die Häufigkeit sowie die Höhe der Aufwendungen im Vergleich zu ähnlichen, früher angefallenen Kosten. Mit...
+- **2026-07-22 — Modernisierung der Außenprüfung vor dem Abschluss**
+  https://www.kleeberg.de/2026/07/22/modernisierung-der-aussenpruefung-vor-dem-abschluss/
+  > Der Bundesrat hat in seiner Sitzung am 10.07.2026 der Allgemeinen Verwaltungsvorschrift der Bundesregierung für die Außenprüfung (ApO) zugestimmt. Die ApO soll die bisherige Betriebsprüfungsordnung (BpO) vom 15.03.2000 ablösen. Ziel ist es unter anderem, die Außenprüfung zukünftig zu beschleunigen. Mit dem Gesetz zur Änderung der Richtlinie (EU) 2021/514 des Rates vom 22.03.2021 zur Änderung der...
+
+## SONNTAG & Partner (2)
+
+- **Sonderinformation: Kein sicherer Zugangsnachweis durch Einwurf-Einschreiben**
+  https://www.sonntag-partner.de/sonderinformation-kein-sicherer-zugangsnachweis-durch-einwurf-einschreiben/
+- **Lünendonk-Liste: SONNTAG erstmals in den Top 20 der größten Wirtschaftsprüfungs- und Steuerberatungsgesellschaften**
+  https://www.sonntag-partner.de/luenendonk-liste-sonntag-erstmals-in-den-top-20-der-groessten-wirtschaftspruefungs-und-steuerberatungsgesellschaften/
+
+## RWT (1)
+
+- **Lünendonk-Liste 2026: RWT erneut unter den führenden Wirtschaftsprüfungs- und Steuerberatungsgesellschaften**
+  https://www.rwt-gruppe.de/news/luenendonk-liste-2026-rwt-erneut-unter-den-fuehrenden-wirtschaftspruefungs-und-steuerberatungsgesellschaften.html
 
 ---
-*Abruf: 20.07.2026 09:54 UTC*
+*Abruf: 27.07.2026 10:35 UTC*
