@@ -1,173 +1,185 @@
-# Neue Steuer-News — 14.09.2026
+# Neue Steuer-News — 21.09.2026
 
-**48 neue Beiträge von 14 Unternehmen**
+**51 neue Beiträge von 15 Unternehmen**
 
-## KPMG (5)
+## EY (3)
 
-- **Neues DBA Ukraine**
-  https://kpmg.com/de/de/themen/2026/09/dba-ukraine-gesetzentwurf.html
-  > BR-Drs. 510/26
-- **Allgemeine Verwaltungsvorschrift für die Außenprüfung (ApO) – UPDATE: Veröffentlichung BStBl.**
-  https://kpmg.com/de/de/themen/2026/03/aussenpruefung-bmf-refe.html
-  > BStBl. I 2026, S. 1058
-- **Änderungsprotokoll zum DBA Albanien**
-  https://kpmg.com/de/de/themen/2026/09/aendp-dba-alb2026.html
-  > BR-Drs. 511/26
-- **Entwurf eines Haushaltsbegleitgesetzes 2027**
-  https://kpmg.com/de/de/themen/2026/09/haushaltsbegleitg2027.html
-  > BT-Drs. 21/7860
-- **BMF: Rückstellungen für Arbeitsfreistellungen und sonstige Zusatzleistungen im Zusammenhang mit Arbeitsverträgen**
-  https://kpmg.com/de/de/themen/2026/09/bmf-rst-arbeitsfreistellungen.html
-  > BMF-Schreiben v. 04.09.2026
+- **2026-09-10 — Nicht abgestimmter Entwurf zur Reform der Kryptobesteuerung**
+  https://www.ey.com/de_de/technical/steuernachrichten/nicht-abgestimmter-entwurf-zur-reform-der-kryptobesteuerung
+  > Die angekündigte Neufassung der Kryptobesteuerung nimmt Gestalt an. Laut einem öffentlich gewordenen Entwurf zur Reform der Besteuerung bestimmter Kryptowerte im Privatvermögen sollen damit zusammenhängende Einkünfte zu den Einkünften aus Kapitalvermögen zählen. Altfälle sollen davon nicht betroffen sein.
+- **2026-09-10 — Erstes Verfahren zur Mindeststeuer beim BFH anhängig**
+  https://www.ey.com/de_de/technical/steuernachrichten/erstes-verfahren-zur-mindeststeuer-beim-bfh-anhaengig
+  > Die globale Mindeststeuer wurde in Deutschland am 21.12.2023 durch das Mindeststeuergesetz umgesetzt und gilt erstmals für das Geschäftsjahr 2024. Knapp drei Jahre nach der Einführung und nach Abgabe der ersten Mindeststeuererklärungen ist nun das erste Verfahren in diesem Zusammenhang beim BFH anhängig. Dieses betrifft u.a. die Frage, ob das deutsche Mindeststeuergesetz aufgrund einer Unwirksamkeit der EU-Richtlinie unanwendbar ist.
+- **2026-09-10 — Unionsrechtliche Verzinsung der Kapitalertragsteuer auch bei überlanger Bearbeitungsdauer**
+  https://www.ey.com/de_de/technical/steuernachrichten/unionsrechtliche-verzinsung-der-kapitalertragsteuer-auch-bei-ueberlanger-bearbeitungsdauer
+  > Das FG Köln erkennt einen unionsrechtlichen Anspruch auf Verzinsung erstatteter Kapitalertragsteuer erstmals allein aufgrund einer überlangen Bearbeitungsdauer an, und damit losgelöst von der unionsrechtswidrigen Missbrauchsnorm des § 50d Abs. 3 EStG a.F. Maßgeblich ist das Zusammenspiel des sekundärrechtlich fundierten Erstattungsanspruchs (Mutter-Tochter-Richtlinie) mit dem unionsrechtlichen Effektivitätsgrundsatz. Der Beginn des Zinslaufs hängt laut FG davon ab, ob vorab eine Freistellungsbescheinigung beantragt wurde.
 
-## PricewaterhouseCoopers (PwC) (8)
+## KPMG (2)
 
-- **2026-09-11 — Sector Shorts: CRA-Meldepflichten - Warum Hersteller jetzt h ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256793/sector-shorts-cra-meldepflichten-warum-hersteller-jetzt-handeln-sollten/
-  > Der Countdown läuft: Ab dem 11. September 2026 schreibt der Cyber Resilience Act (CRA) Herstellern vor, aktiv ausgenutzte Schwachstellen sowie schwerwiegende Sicherheitsvorfälle zu melden (Art. 14 CRA). Was das konkret bedeutet und warum sich Unternehmen schon jetzt damit auseinandersetzen sollten, zeigt der folgende Überblick
-- **2026-09-11 — Besteuerung der Energiepreispauschale bei Arbeitnehmern ist ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256789/besteuerung-der-energiepreispauschale-bei-arbeitnehmern-ist-verfassungsgemaess/
-  > In einem aktuellen Urteil hat der Bundesfinanzhof bestätigt, dass die Besteuerung der dem Arbeitnehmer von seinem Arbeitgeber ausgezahlten Energiepreispauschale als Einkünfte aus nichtselbständiger Arbeit verfassungsgemäß ist.
-- **2026-09-10 — Wer den Stahl der Zukunft schützt, besitzt ihn - IP-Strategi ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256765/wer-den-stahl-der-zukunft-schuetzt-besitzt-ihn-ip-strategie-als-wettbewerbsfaktor-fuer-die-europaeische-stahlindustrie/
-  > Die aktuelle PwC-Studie zur Zukunft der europäischen Stahlwirtschaft kommt zu einem klaren Befund: Die Wertschöpfung in der europäischen Stahlindustrie wird sich grundlegend verschieben – weg vom Rohstoff, hin zum Wissen.
-- **2026-09-10 — EuGH: Margenbesteuerung für Reiseleistungen im Zusammenhang ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256764/eugh-margenbesteuerung-fuer-reiseleistungen-im-zusammenhang-mit-verkauf-von-waren/
-  > In einem aktuellen Urteil hat der Europäischen Gerichtshofes unter anderem entschieden, dass die Margenbesteuerung für Reiseleistungen auch dann anwendbar ist, wenn ein Steuerpflichtiger von Dritten touristische Dienstleistungen, insbesondere Beförderungsleistungen, erwirbt, um sie bei Ausflugsfahrten an Verbraucher zu verkaufen und dabei eine negative Marge erzielt.
-- **2026-09-10 — steuern + recht aktuell, Ausgabe 36 vom 10. September 2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256763/steuern-recht-aktuell-ausgabe-36-vom-10-september-2026/
+- **Bundesländer fordern Bürokratieabbau bei der Einfuhrumsatzsteuer**
+  https://kpmg.com/de/de/themen/2026/09/einfuhr-ust-reform.html
+  > Pressemitteilung Finanzverwaltung NRW v. 10.09.2026
+- **FG: Unionsrechtlicher Verzinsungsanspruch von KapESt auch bei überlanger Verfahrensdauer**
+  https://kpmg.com/de/de/themen/2026/09/fg--verzinsung-kapest-verfahrensdauer.html
+  > FG Köln, Urteile 6 K 2020/22, 6 K 33/22
+
+## PricewaterhouseCoopers (PwC) (10)
+
+- **2026-09-21 — Ein Wendepunkt in der deutschen Kryptobesteuerung**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256916/ein-wendepunkt-in-der-deutschen-kryptobesteuerung/
+  > Ein neuer Entwurf zur Besteuerung von Kryptowerten könnte die bisherige Systematik in Deutschland grundlegend verändern.
+- **2026-09-21 — Spritpreis-Entlastungspaket von Bund und Ländern**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256914/spritpreis-entlastungspaket-von-bund-und-laendern/
+  > Der Bund will die Energiesteuer auf Benzin und Diesel bis Ende 2026 um 14 Cent pro Liter senken. Inklusive Umsatzsteuer soll sich die Steuerentlastung für Kraftstoffe so auf ca. 17 Cent pro Liter summieren und bis zum 1. Oktober 2026 umgesetzt werden.
+- **2026-09-21 — Fehlende Leistungserbringung bei bloßer Hin- und Zurückbelas ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256909/fehlende-leistungserbringung-bei-blosser-hin-und-zurueckbelastung/
+  > Eine Weiterbelastung von Kosten – erst recht eine Hin- und Zurückbelastung – ist umsatzsteuerlich gegenstandslos, wenn keinerlei umsatzsteuerbare Leistungen zugrunde liegen. Ob das tatsächlich der Fall ist, sollte im Einzelfall aber sorgfältig geprüft werden.
+- **2026-09-21 — Erleichterte Nutzung des Gesellschaftspostfachs**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256908/erleichterte-nutzung-des-gesellschaftspostfachs/
+  > Der Bundesfinanzhof (BFH) hat in einem aktuellen Urteil entschieden, dass beim Versand von Schriftsätzen aus dem Gesellschaftspostfach einer Steuerberatungsgesellschaft der einfach signierende Berufsträger und der den Versand initiierende Berufsträger nicht identisch sein müssen. Dies gilt, weil das Gesellschaftspostfach nicht an eine einzelne Person gebunden ist, sondern der Berufsausübungsgesellschaft gehört.
+- **2026-09-18 — Übertragung stiller Reserven aus Rücklage nach § 6b Abs. 3 E ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256902/uebertragung-stiller-reserven-aus-ruecklage-nach-6b-abs-3-estg-auf-wirtschaftsgueter-einer-kgaa/
+  > Stille Reserven aus einer bei einer Mitunternehmerschaft gebildeten Rücklage nach § 6b Abs. 3 des Einkommensteuergesetzes können auch auf Anschaffungskosten von Wirtschaftsgütern einer KGaA übertragen werden, an der die Mitunternehmer als persönlich haftende Gesellschafter beteiligt sind. Dies hat der Bundesfinanzhof (BFH) in einem aktuellen Urteil entschieden.
+- **2026-09-18 — BMF: Ansatz und Bewertung von Pensionsrückstellungen in der ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256888/bmf-ansatz-und-bewertung-von-pensionsrueckstellungen-in-der-steuerbilanz-nach-6a-estg/
+  > Das Bundesministerium der Finanzen (BMF) hat am 17. September ein Schreiben zu Ansatz und Bewertung von Pensionsrückstellungen in der Steuerbilanz nach § 6a Einkommensteuergesetz (EStG) für Versorgungszusagen, die von künftigen Ereignissen wie der Wertentwicklung zugrunde liegender Wertpapiere abhängen, veröffentlicht.
+- **2026-09-17 — Gesetzesentwürfe ‒ Jahressteuergesetz 2026, Kassenpflicht**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256881/gesetzesentwuerfe-jahressteuergesetz-2026-kassenpflicht/
+  > Für das Jahressteuergesetz 2026 wurde ein Regierungsentwurf vorgelegt, außerdem hat das Bundesministerium der Finanzen (BMF) einen Referentenentwurf für ein „Gesetz zur Einführung einer Kassenpflicht, zur Bekämpfung von Steuerhinterziehung und zur weiteren Digitalisierung des Steuerrechts“ veröffentlicht.
+- **2026-09-17 — Umsatzsteuer-Newsletter - Ausgabe 08 - August 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256880/umsatzsteuer-newsletter-ausgabe-08-august-2026/
+  > Aktuelle Entwicklungen im Umsatzsteuerrecht
+- **2026-09-17 — steuern + recht aktuell, Ausgabe 37 vom 17. September 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256869/steuern-recht-aktuell-ausgabe-37-vom-17-september-2026/
   > Neues aus den Bereichen Gesetzgebung, Finanzverwaltung und Rechtsprechung
-- **2026-09-10 — Keine eidesstattliche Versicherung von datenschutzrechtliche ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256756/keine-eidesstattliche-versicherung-von-datenschutzrechtlichen-auskuenften/
-  > Eine Finanzbehörde ist nicht verpflichtet, die Richtigkeit und Vollständigkeit einer von ihr erteilten datenschutzrechtlichen Auskunft an Eides statt zu versichern. Nach einem aktuellen Urteil des Bundesfinanzhofes ist auch eine entsprechende Anwendung der zivilrechtlichen Regelungen ausgeschlossen.
-- **2026-09-08 — EuGH zur Haftung wegen Verstoß gegen das Unionsrecht**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256704/eugh-zur-haftung-wegen-verstoss-gegen-das-unionsrecht/
-  > In zwei heute ergangenen Urteilen erläutert der Europäische Gerichtshof seine Rechtsprechung zur Haftung der Mitgliedstaaten für Verstöße eines letztinstanzlichen nationalen Gerichts gegen das Unionsrecht und die Rolle, die ein Verstoß gegen die Vorlagepflicht spielt. Die verletzte Regelung muss dem Einzelnen Rechte verleihen. Das schuldhafte Versäumnis eines nationalen Gerichts, den Gerichtshof nach der Auslegung dieser Norm zu befragen, kann zur Feststellung der Haftung beitragen, so das Gericht in einem kurzen Resümee.
-- **2026-09-07 — Konzernrecht – Das Konzerninteresse und seine Legitimation i ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/256681/konzernrecht-das-konzerninteresse-und-seine-legitimation-im-vertrags-und-im-faktischen-konzern/
-  > Das deutsche Konzernrecht steht vor einer zentralen Herausforderung: Wie lässt sich das Interesse eines Konzerns als wirtschaftlicher Einheit mit dem rechtlichen Grundsatz vereinbaren, dass jede Konzerngesellschaft eine eigenständige juristische Person mit eigenen Interessen ist? Die Frage nach der Legitimation des sogenannten Konzerninteresses bildet einen der zentralen Diskussionspunkte im Spannungsfeld zwischen konzernweiter Unternehmensführung und dem Schutz abhängiger Gesellschaften sowie ihrer Minderheitsgesellschafter und Gläubiger.
+- **2026-09-17 — Finanzministerkonferenz zum Verrechnungsmodell bei der Einfu ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/256868/finanzministerkonferenz-zum-verrechnungsmodell-bei-der-einfuhrumsatzsteuer/
+  > Laut einer Meldung des DStV hat die Finanzministerkonferenz am 10. September 2026 nach neuen Vorschlägen einer Bund-Länder-Arbeitsgruppe die Einführung eines Verrechnungsmodells bei der Einfuhrumsatzsteuer beschlossen. Das Verrechnungsmodell soll ab dem 1. Januar 2030 zur Verfügung stehen.
 
 ## Deloitte (2)
 
-- **BMF: Rückstellungen für Arbeitsfreistellungen**
-  https://www.deloitte-tax-news.de/rechnungslegung/bmf-rueckstellungen-fuer-arbeitsfreistellungen.html
-- **BFH: Festsetzung eines Verspätungszuschlags im Erstattungsfall**
-  https://www.deloitte-tax-news.de/steuern/verfahrensrecht/bfh-festsetzung-eines-verspaetungszuschlags-im-erstattungsfall.html
+- **BMF erleichtert Nachweis von Ladestromkosten für betriebliche Elektro- und Hybridfahrzeuge**
+  https://www.deloitte-tax-news.de/arbeitnehmerentsendung-personal/thema-des-monats/bmf-erleichtert-nachweis-von-ladestromkosten-fuer-betriebliche-elektro-und-hybridfahrzeuge.html
+- **BFH: Neue Rechtsauffassung zur Lohnsteuererstattung bei Auslandsfällen**
+  https://www.deloitte-tax-news.de/arbeitnehmerentsendung-personal/thema-des-monats/bfh-neue-rechtsauffassung-zur-lohnsteuererstattung-bei-auslandsfaellen.html
 
-## Flick Gocke Schaumburg (2)
+## Flick Gocke Schaumburg (3)
 
-- **BauGB-Upgrade: Kommunales Vorkaufsrecht wird ausgeweitet**
-  https://www.fgs.de/news-and-insights/blog/detail/baugb-upgrade-kommunales-vorkaufsrecht-wird-ausgeweitet
-- **KI-Boom: Gewerbesteuer folgt der Rechenleistung**
-  https://www.fgs.de/news-and-insights/blog/detail/ki-boom-gewerbesteuer-folgt-der-rechenleistung
+- **Immobilie in München, Erblasser in New York: Welches Erbrecht entscheidet?**
+  https://www.fgs.de/news-and-insights/blog/detail/immobilie-in-muenchen-erblasser-in-new-york-welches-erbrecht-entscheidet
+- **On the Interpretation of Section 4i EStG in Connection with Dutch Group Taxation (Federal Tax Court Ruling of 11 June 2026 – IV R 36/23)**
+  https://www.fgs.de/news-and-insights/blog/detail/on-the-interpretation-of-section-4i-estg-in-connection-with-dutch-group-taxation-federal-tax-court-ruling-of-11-june-2026-iv-r-3623
+- **OECD veröffentlicht neue Verwaltungsleitlinie zu Pillar 2**
+  https://www.fgs.de/news-and-insights/blog/detail/oecd-veroeffentlicht-neue-verwaltungsleitlinie-zu-pillar-2
 
 ## Rödl & Partner (1)
 
-- **2026-09-13 — Ausgabe 35/2026: Darauf ein Glas Champagner…**
-  https://www.roedl.com/insights/ausgabe-35-2026-besteuerung-bestimmte-kryptowerte-privatvermoegen/
+- **2026-09-21 — Ausgabe 36/2026: BZSt bald wieder im Sparmodus?**
+  https://www.roedl.com/insights/ausgabe-36-2026-bzst-sparmodus/
 
 ## RSM Ebner Stolz (2)
 
-- **Außenprüfungsordnung im Bundessteuerblatt veröffentlicht**
-  https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/allgemeine-steuerberatung/aussenpruefungsordnung-in-kraft-getreten-112397.html
-- **Wachsen oder Weichen? Optimieren!**
-  https://www.ebnerstolz.de/de/unser-angebot/branchen/automotive/studie-automobilzulieferer-strukturkrise-2026-handlungsfelder-mittelstand-111590.html
+- **Anspruch auf Verzinsung bei überlanger Bearbeitungsdauer**
+  https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/internationales-steuerrecht/erstattungszinsen-ueberlange-bearbeitungsdauer-kapitalertragsteuererstattungen-112460.html
+- **Übertragung einer § 6b-Rücklage auf Wirtschaftsgüter einer KGaA**
+  https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/allgemeine-steuerberatung/uebertragung-6b-ruecklage-auf-kgaa-113031.html
 
-## Baker Tilly (3)
+## Baker Tilly (2)
 
-- **BFH präzisiert DBA-Sperrwirkung bei Gewinnkorrekturen**
-  https://www.bakertilly.de/beitrag/bfh-praezisiert-dba-sperrwirkung-bei-gewinnkorrekturen
-- **Markteintritt im Ausland: Wo die steuerlichen Risiken in der Supply Chain wirklich liegen**
-  https://www.bakertilly.de/beitrag/markteintritt-im-ausland-wo-die-steuerlichen-risiken-in-der-supply-chain-wirklich-liegen
-- **Kein unbegrenzter Auskunftsanspruch des Arbeitgebers bei der Annahmeverzugsvergütung**
-  https://www.bakertilly.de/beitrag/kein-unbegrenzter-auskunftsanspruch-des-arbeitgebers-bei-der-annahmeverzugsverguetung
-
-## PKF Fasselt (1)
-
-- **2026-07-29 — Signing und Closing bei der Grunderwerbsteuer: Neue BFH-Rechtsprechung schafft Bewegung**
-  https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-7-8-26/signing-und-closing
+- **Strafverteidigerkosten: Abzug trotz Freiheitsstrafe möglich?**
+  https://www.bakertilly.de/beitrag/strafverteidigerkosten-abzug-trotz-freiheitsstrafe-moeglich
+- **Bafin veröffentlicht WpI MaRisk: Neuer Aufsichtsrahmen für kleine und mittlere Wertpapierinstitute**
+  https://www.bakertilly.de/beitrag/bafin-veroeffentlicht-wpi-marisk-neuer-aufsichtsrahmen-fuer-kleine-und-mittlere-wertpapierinstitute
 
 ## ECOVIS KSO (5)
 
-- **Vorsteueraufteilung bei Erweiterungsbauten: BFH lässt Revision zu**
-  https://ecovis-kso.com/blog/vorsteueraufteilung-bei-erweiterungsbauten-bfh-laesst-revision-zu/
-- **Kryptobesteuerung ab 2027: Haltefrist für Kryptowerte soll fallen**
-  https://ecovis-kso.com/blog/kryptobesteuerung-ab-2027-haltefrist-fuer-kryptowerte-soll-fallen/
-- **Beitragsstabilisierungsgesetz: Was durch das GKV-Spargesetz auf Arztpraxen zukommt**
-  https://ecovis-kso.com/blog/gkv-spargesetz-beitragsstabilisierungsgesetz-fuer-arztpraxen/
-- **Testsiegel für Ärzte: BGH verschärft Anforderungen an Focus-Siegel**
-  https://ecovis-kso.com/blog/testsiegel-fuer-aerzte-bgh-verschaerft-anforderungen-an-focus-siegel/
-- **Umsatzsteuer bei Sportvereinen: Bundesrat fordert gesetzliche Klarstellung**
-  https://ecovis-kso.com/blog/umsatzsteuer-bei-sportvereinen-bundesrat-fordert-klarstellung/
+- **„Der Bescheid war nicht im Nachlass“ – warum das nicht reicht: BFH zur Bekanntgabevermutung bei Erbfällen**
+  https://ecovis-kso.com/blog/bfh-zur-bekanntgabevermutung-bei-erbfaellen/
+- **Mehrkosten bei Arzneimitteln: Retaxfalle für Apotheken**
+  https://ecovis-kso.com/blog/mehrkosten-bei-arzneimitteln-retaxfalle-fuer-apotheken/
+- **Mehr als Depotgebühren: Ein Blick auf die Kostenstruktur von Wertpapierdepots**
+  https://ecovis-kso.com/blog/die-kostenstruktur-von-wertpapierdepots/
+- **Einkommensteuerreform 2027: Was der Regierungsentwurf vorsieht**
+  https://ecovis-kso.com/blog/einkommensteuerreform-2027-was-der-regierungsentwurf-vorsieht/
+- **BFH-Urteil: Kein direkter Erstattungsanspruch von Arbeitnehmer:innen nach § 50d Abs. 1 Satz 2 EStG a. F. analog in Lohnsteuerfällen**
+  https://ecovis-kso.com/blog/kein-direkter-erstattungsanspruch-von-arbeitnehmerinnen-in-lohnsteuerfaellen/
 
-## POELLATH (1)
+## POELLATH (2)
 
-- **2026-08-26 — POELLATH in „Lexology Index: Real Estate (Germany) 2026“**
-  https://www.pplaw.com/news/poellath-lexology-index-real-estate-germany-2026
+- **2026-09-21 — POELLATH und Bucerius Law School starten strategische Partnerschaft: KI im Jurastudium – Aufbau von Zukunftskompetenzen für die Rechtspraxis**
+  https://www.pplaw.com/news/poellath-und-bucerius-law-school-starten-strategische-partnerschaft-ki-im-jurastudium-aufbau
+- **2026-09-15 — POELLATH berät Maxburg beim Verkauf von Autmatec an HOCHTIEF**
+  https://www.pplaw.com/mandate/poellath-beraet-maxburg-beim-verkauf-von-autmatec-hochtief
 
-## Nexia (4)
+## Nexia (6)
 
-- **Energiepreispauschale bleibt steuerpflichtig**
-  https://www.nexia.de/informationen/news/news-ansicht/energiepreispauschale-bleibt-steuerpflichtig
-  > Die Energiepreispauschale von 300 Euro sollte Arbeitnehmer im Jahr 2022 angesichts stark gestiegener Energiekosten entlasten. Ausgezahlt wurde sie…
-- **Ransomware bleibt eine der größten Cyber-Bedrohungen für Unternehmen**
-  https://www.nexia.de/informationen/news/news-ansicht/ransomware-bleibt-eine-der-groessten-cyber-bedrohungen-fuer-unternehmen
-  > Ransomware bleibt eine der größten Cyber-Bedrohungen für Unternehmen in Deutschland. Laut einer aktuellen Bitkom-Studie war in den vergangenen zwölf…
-- **Sanierungskosten allein bezahlt – Steuerbonus trotzdem gekürzt**
-  https://www.nexia.de/informationen/news/news-ansicht/sanierungskosten-allein-bezahlt-steuerbonus-trotzdem-gekuerzt
-  > Energetische Sanierungsmaßnahmen können steuerlich attraktiv sein, bei Miteigentum gelten jedoch besondere Regeln. Das Finanzgericht Münster hat jetzt…
-- **Medizinisch notwendig: Fiskus muss Behandlungskosten anerkennen**
-  https://www.nexia.de/informationen/news/news-ansicht/medizinisch-notwendig-fiskus-muss-behandlungskosten-anerkennen
-  > Auch Behandlungskosten, die von der Krankenkasse nicht übernommen werden, können steuerlich abzugsfähig sein. Das Finanzgericht Baden-Württemberg hat…
+- **2026-09-29 — NIS-2 Compliance-Seminar für Entscheider: Verantwortung, Pflichten und sichere Umsetzung**
+  https://www.nexia.de/veranstaltungen/2026/nis-2-compliance-seminar-fuer-entscheider-verantwortung-pflichten-und-sichere-umsetzung
+  > Live-Online-Seminar 29.09.2026 | 14:00 – 17:00 Uhr 13.10.2026 | 14:00 – 17:00 Uhr 10.11.2026 | 14:00 – 17:00 Uhr 24.11.2026 | 14:00 – 17:00 Uhr
+- **2026-10-13 — Umsatzsteuerliche Risiken in der Immobilienwirtschaft**
+  https://www.nexia.de/veranstaltungen/2026/umsatzsteuerliche-risiken-in-der-immobilienwirtschaft
+  > Live-Webinar 13.10.2026 | 11:00 – 12:00 Uhr online
+- **Veräußerungsverluste können niedrigere Steuer rechtfertigen**
+  https://www.nexia.de/informationen/news/news-ansicht/veraeusserungsverluste-koennen-niedrigere-steuer-rechtfertigen
+  > Können Verluste steuerlich dauerhaft nicht genutzt werden, obwohl ihnen steuerpflichtige Einnahmen gegenüberstehen, kann eine unzumutbare Steuerbelastung entstehen. Das…
+- **Cyber Resilience Act: Erste Meldepflichten treten in Kraft**
+  https://www.nexia.de/informationen/news/news-ansicht/cyber-resilience-act-erste-meldepflichten-treten-in-kraft
+  > Seit dem 11.09.2026 gelten die ersten operativen Anforderungen des European Cyber Resilience Act (CRA). Hersteller von Produkten mit digitalen Elementen müssen aktiv…
+- **EuGH zur Margenbesteuerung bei Reiseleistungen: Keine Steuererstattung bei negativer Marge**
+  https://www.nexia.de/informationen/news/news-ansicht/eugh-zur-margenbesteuerung-bei-reiseleistungen-keine-steuererstattung-bei-negativer-marge
+  > Der Europäische Gerichtshof (EuGH) hat mit Urteil vom 10.09.2026 (Az. C‑565/24) wichtige Klarstellungen zur umsatzsteuerlichen Margenbesteuerung von Reiseleistungen…
+- **Doppelte Haushaltsführung: Wohnmobil reicht nicht aus**
+  https://www.nexia.de/informationen/news/news-ansicht/doppelte-haushaltsfuehrung-wohnmobil-reicht-nicht-aus
+  > Wer aus beruflichen Gründen am Arbeitsort übernachtet, kann unter bestimmten Voraussetzungen Kosten einer doppelten Haushaltsführung abziehen. Doch reicht dafür auch ein…
 
-## KMLZ (3)
+## Noerr (1)
 
-- **2026-09-14 — EuGH: Margenbesteuerung gilt auch bei negativer Marge**
-  https://www.kmlz.de/de/eugh-margenbesteuerung-gilt-auch-bei-negativer-marge
-  > Der EuGH hat mit Urteil vom 10.09.2026 (Rs. C‑565/24) entschieden, dass sogenannte „Kaffeefahrten“ der Sonderregelung für Reiseleistungen unterliegen. Dies gilt auch dann, wenn die Beförderungsleistung dauerhaft defizitär erbracht wird und bloß die bei gleicher Gelegenheit erfolgten Warenverkäufe die Verluste kompensieren. Der EuGH bestätigt zudem die Konsequenz aus der angewandten Margenbesteuerung, nämlich den Ausschluss des Vorsteuerabzugs aus Reisevorleistungen. Welche Auswirkungen sich daraus für die Praxis ergeben, lesen Sie hier.
-- **2026-09-11 — „Aktionsplan: Steuer- und Finanzkriminalität entschlossen bekämpfen“**
-  https://www.kmlz.de/de/aktionsplan-steuer-und-finanzkriminalitaet-entschlossen-bekaempfen
-  > Mehr Daten, schnellere Auswertung, höhere Entdeckungswahrscheinlichkeit: Mit ihrem Aktionsplan gegen Steuer- und Finanzkriminalität wollen BMF und BMJV die Steueraufsicht grundlegend stärken. Im Fokus stehen – neben der geplanten Wiedereinführung eines Verbrechenstatbestands für besonders schwere Steuerhinterziehung und der Abschaffung der Selbstanzeige – Echtzeit-Umsatzsteuermeldungen, KI-gestützte Datenauswertungen und ein intensivierter Behördenaustausch. Welche praktischen Auswirkungen diese Maßnahmen insbesondere für Unternehmen und ihre Tax Compliance haben können, erfahren Sie in unserem Newsletter.
-- **2026-09-09 — E-Rechnungspflicht: BMF gibt klärende Hinweise**
-  https://www.kmlz.de/de/e-rechnungspflicht-bmf-gibt-klaerende-hinweise
-  > Zum Jahresende 2026 läuft die erste Übergangsregelung der nationalen E-Rechnungspflicht aus. Für viele Unternehmen beginnt daher aktuell die entscheidende Phase ihrer Umsetzungsprojekte im Rahmen der Rechnungsausstellung, aber auch eine Feinjustierung der Prozesse im Rechnungseingang. Viele praktische Fragen sind jedoch noch offen. Aus Fachkreisen wurden einige davon an das BMF adressiert. Das BMF hat geantwortet. Im Newsletter finden Sie die wichtigsten Erkenntnisse daraus.
+- **CRA: Single Reporting Platform gestartet, Meldepflichten gelten ab sofort**
+  https://www.noerr.com/de/insights/cra-single-reporting-platform-gestartet-meldepflichten-gelten-ab-sofort
 
-## Dr. Kleeberg & Partner (9)
+## KMLZ (1)
 
-- **2026-09-14 — Steuerliche Außenprüfungen künftig nach neuer Außenprüfungsordnung (ApO)**
-  https://www.kleeberg.de/2026/09/14/steuerliche-aussenpruefungen-kuenftig-nach-neuer-aussenpruefungsordnung-apo/
-  > Die neue Außenprüfungsordnung (ApO) ist am 10. September 2026 in Kraft getreten und ersetzt die bisherige Betriebsprüfungsordnung (BpO 2000). Sie setzt die geänderten AO-Vorschriften um und soll Außenprüfungen insbesondere durch einen risikoorientierten Ansatz, verbindliche Rahmenvereinbarungen und neue Verfahrensregelungen beschleunigen. Außenprüfungsordnung löst Betriebsprüfungsordnung ab Die Allgemeine Verwaltungsvorschrift für die Außenprüfung...
-- **2026-09-14 — BFH: Verspätungszuschlag trotz Erstattung bei geänderter Umsatzsteuerfestsetzung**
-  https://www.kleeberg.de/2026/09/14/bfh-verspaetungszuschlag-trotz-erstattung-bei-geaenderter-umsatzsteuerfestsetzung/
-  > Der BFH stellt klar, dass ein Verspätungszuschlag auch bei einer späteren Umsatzsteuererstattung festgesetzt werden kann. Dass der Steuerpflichtige keinen wirtschaftlichen Vorteil aus der verspäteten Abgabe der Steuererklärung gezogen hat, muss das Finanzamt bei seiner Ermessensentscheidung grundsätzlich nicht berücksichtigen. Hintergrund Nach § 152 Abs. 1 AO kann das Finanzamt einen Verspätungszuschlag festsetzen, wenn eine...
-- **2026-09-14 — BFH: Besteuerung der Energiepreispauschale bei Arbeitnehmern ist verfassungsgemäß**
-  https://www.kleeberg.de/2026/09/14/bfh-besteuerung-der-energiepreispauschale-bei-arbeitnehmern-ist-verfassungsgemaess/
-  > Mit Urteil vom 11.06.2026 (VI R 15/24) hat der BFH entschieden, dass die im Jahr 2022 an Arbeitnehmer ausgezahlte Energiepreispauschale von 300 Euro gemäß § 119 Abs. 1 Satz 1 EStG als Einnahme aus nichtselbständiger Arbeit nach § 19 Abs. 1 Satz 1 Nr. 1 EStG zu versteuern war....
-- **2026-09-11 — Kosten für einen „Hirnschrittmacher“ sind als außergewöhnliche Belastungen abzugsfähig**
-  https://www.kleeberg.de/2026/09/11/kosten-fuer-einen-hirnschrittmacher-sind-als-aussergewoehnliche-belastungen-abzugsfaehig/
-  > Das FG Baden-Württemberg erkennt die Kosten einer tiefen Hirnstimulation zur Behandlung therapieresistenter Depressionen ab 2022 als außergewöhnliche Belastungen nach § 33 EStG an (Urteil vom 20.03.2026, Az. 8 K 236/26). Die Behandlung gilt insoweit als wissenschaftlich anerkannt und medizinisch indiziert. Ein amtsärztliches Gutachten oder eine Bescheinigung des Medizinischen Dienstes waren im...
-- **2026-09-11 — IFRS 18: Ausweis von Währungsdifferenzen aus konzerninternen Darlehen**
-  https://www.kleeberg.de/2026/09/11/ifrs-18-ausweis-von-waehrungsdifferenzen-aus-konzerninternen-darlehen/
-  > IFRS 18 bringt ab 2027 neue Vorgaben für die Gliederung der Gewinn- und Verlustrechnung mit sich. Erträge und Aufwendungen sind künftig betriebswirtschaftlichen Kategorien zuzuordnen. Bei konzerninternen Fremdwährungsdarlehen entsteht eine Besonderheit: Darlehen und Zinsen werden konsolidiert, während Währungsdifferenzen erfolgswirksam verbleiben können. Damit stellt sich die Frage nach ihrer sachgerechten Kategorisierung. Mit...
-- **2026-09-11 — Zweite Erhöhung der Leitzinsen durch die EZB im aktuellen Jahr 2026**
-  https://www.kleeberg.de/2026/09/11/zweite-erhoehung-der-leitzinsen-durch-die-ezb-im-aktuellen-jahr-2026/
-  > Die EZB hatte ihren Leitzins von Juli 2022 bis Oktober 2023 aufgrund hoher Inflationsraten nach Beginn des Ukraine-Kriegs deutlich auf 4,00 % (Einlagenzins) angehoben. Im Anschluss hat die EZB den Leitzins acht Mal in Folge auf 2,00 % gesenkt. Nach einer Phase stabiler Inflationsraten und sieben Zinspausen in Folge...
-- **2026-09-09 — Rückstellungen für Arbeitsfreistellung: BMF-Schreiben vom 4. September 2026**
-  https://www.kleeberg.de/2026/09/09/rueckstellungen-fuer-arbeitsfreistellung-bmf-schreiben-vom-4-september-2026/
-  > Unter Berücksichtigung der jüngeren BFH-Rechtsprechung zur Bilanzierung von Rückstellungen im Zusammenhang mit Arbeitsverträgen hat das BMF am 4. September 2026 ein BMF-Schreiben veröffentlicht, welches der steuerlichen Bildung von Rückstellungen für Arbeitsfreistellungen und sonstigen Zusatzleistungen im Zusammenhang mit Arbeitsverträgen gewidmet ist. Dabei geht das BMF allgemein auf die Bilanzierung dem Grunde...
-- **2026-09-08 — BFH-Urteil: Mitgliedsbeiträge an Schulfördervereine steuerlich absetzbar**
-  https://www.kleeberg.de/2026/09/08/bfh-urteil-mitgliedsbeitraege-an-schulfoerdervereine-steuerlich-absetzbar/
-  > Mitgliedsbeiträge von Eltern an einen Förderverein der Privatschule ihrer Kinder können als Sonderausgaben steuerlich geltend gemacht werden, sofern sie der Finanzierung des regulären Schulbetriebs dienen. Dies hat der Bundesfinanzhof (BFH) mit Urteil vom 03.06.2026 (Az. X R 27/23) entschieden. Hintergrund: Eltern können nach § 10 Abs 1 Nr. 9 Satz 1 EStG 30 % des Schulgelds, das...
-- **2026-09-08 — Ermittlung des Bodenwerts im Sachwertverfahren für Zwecke der Schenkungsteuer**
-  https://www.kleeberg.de/2026/09/08/ermittlung-des-bodenwerts-im-sachwertverfahren-fuer-zwecke-der-schenkungsteuer/
-  > Der BFH hat sich in seiner Entscheidung vom 17.06.2026 (II R 7/24) mit der steuerlichen Bewertung eines Grundstücks im Rahmen des Sachwertverfahrens beschäftigt. Dabei ging es um die für den Umrechnungskoeffizienten relevante (wertrelevante) Geschossflächenzahl und die hierfür maßgebenden Verhältnisse. Auf Umrechnungskoeffizienten ist in der steuerlichen Bewertung dann zurückzugreifen, wenn es zwischen dem...
+- **2026-09-21 — Überführung der Einfuhrumsatzsteuer in die Umsatzsteuer-Voranmeldung – endlich?**
+  https://www.kmlz.de/de/ueberfuehrung-der-einfuhrumsatzsteuer-die-umsatzsteuer-voranmeldung-endlich
+  > Die Finanzministerkonferenz hat sich am 10.09.2026 erneut für die Überführung der Einfuhrumsatzsteuer in ein Verrechnungsmodell ausgesprochen. Unternehmer könnten die Einfuhrumsatzsteuer künftig in derselben Umsatzsteuer-Voranmeldung anführen, in der sie auch den Vorsteuerabzug geltend machen. Dadurch sollte sich die aktuelle Liquiditäts- und Bürokratiebelastung merklich senken.
 
-## SONNTAG & Partner (2)
+## Dr. Kleeberg & Partner (10)
 
-- **SONNTAG auf der EXPO REAL 2026**
-  https://www.sonntag-partner.de/sonntag-auf-der-expo-real-2026/
-- **10 Jahre SONNTAG in Nürnberg: Standort wächst weiter**
-  https://www.sonntag-partner.de/10-jahre-sonntag-in-nuernberg-standort-waechst-weiter/
+- **2026-09-21 — Bilanzierung des Viehbestandes beim Übergang auf die Buchführung**
+  https://www.kleeberg.de/2026/09/21/bilanzierung-des-viehbestandes-beim-uebergang-auf-die-buchfuehrung/
+  > Die OFD Frankfurt am Main hat mit seiner Verfügung vom 25.07.2026 geregelt, dass Tiere des Anlagevermögens mit Anschaffungs- oder Herstellungskosten abzüglich AfA und Tiere des Umlaufvermögens mit Anschaffungs- oder Herstellungskosten zu bewerten sind. Diese Verfügung ist zum Wechsel auf die Buchführung ergangen. OFD Frankfurt am Main S 2163 A – 0357-00012 – St 21 In der Übergangsbilanz sind...
+- **2026-09-21 — BMF erhöht steuerfreie Aufwandsentschädigung aus öffentlichen Kassen für Ehrenämter**
+  https://www.kleeberg.de/2026/09/21/bmf-erhoeht-steuerfreie-aufwandsentschaedigung-aus-oeffentlichen-kassen-fuer-ehrenaemter/
+  > Mit Schreiben vom 23.03.2026 hat das BMF den steuerfreien Mindestbetrag für Aufwandsentschädigungen aus öffentlichen Kassen nach § 3 Nr. 12 Satz 2 EStG rückwirkend zum 01.01.2026 von EUR 250,00 auf EUR 275,00 monatlich angehoben, die Tagespauschale steigt von EUR 8,00 auf EUR 9,00. Mehrere Bundesländer haben die Änderung inzwischen in eigenen Erlassen für ehrenamtliche Funktionsträger der Freiwilligen Feuerwehren konkretisiert, zuletzt Thüringen und Mecklenburg-Vorpommern. Hintergrund: Zahlt...
+- **2026-09-21 — Neue Außenprüfungsordnung 2026: Auswirkung auf die Praxis**
+  https://www.kleeberg.de/2026/09/21/neue-aussenpruefungsordnung-2026-auswirkung-auf-die-praxis/
+  > Die neue Außenprüfungsordnung (ApO) ist seit dem 10.09.2026 in Kraft und ersetzt die bisherige Betriebsprüfungsordnung (BpO 2000). Sie setzt die durch das DAC7-Umsetzungsgesetz reformierten Vorschriften zur Außenprüfung verwaltungsintern um. Ziel sind risikoorientiertere, effizientere und zeitnähere Prüfungen. Für Unternehmen stellt sich damit die Frage, welche praktischen Auswirkungen die Neuregelungen haben. Hintergrund Die...
+- **2026-09-21 — Bank of England legt im Gegensatz zu EZB und FED eine Zinspause ein**
+  https://www.kleeberg.de/2026/09/21/bank-of-england-legt-im-gegensatz-zu-ezb-und-fed-eine-zinspause-ein/
+  > Die Bank of England hat auf ihrer September-Sitzung den Leitzins unverändert bei 3,75 % belassen und damit die geldpolitische Pause fortgesetzt. Die Entscheidung steht im Gegensatz zu den jüngsten Leitzinserhöhungen von FED und EZB. Auch in Großbritannien ist ein erneuter Anstieg der Inflation auf 3,1 % im August 2026, getrieben vor allem durch stark...
+- **2026-09-18 — FED erhöht zum ersten Mal seit Juli 2023 die Leitzinsen**
+  https://www.kleeberg.de/2026/09/18/fed-erhoeht-zum-ersten-mal-seit-juli-2023-die-leitzinsen/
+  > Nach mehreren Zinssenkungen in der zweiten Jahreshälfte 2025 legte die FED bis September 2026 eine Zinspause ein. Die FED begründete die Zinspause mit ungewissen Auswirkungen der Entwicklungen im Nahen Osten auf die US-Wirtschaft und mit der Selbstregulierung der Finanzmärkte. Im September 2026 reagiert die FED nun auf die seit Frühjahr 2026 deutlich angestiegenen...
+- **2026-09-16 — Umsetzungsplan bzgl. Umweltaussagen in Bezug auf künftige Umweltleistungen nach § 5 Abs. 3 Nr. 4 UWG**
+  https://www.kleeberg.de/2026/09/16/umsetzungsplan-bzgl-umweltaussagen-in-bezug-auf-kuenftige-umweltleistungen-nach-%c2%a7-5-abs-3-nr-4-uwg/
+  > Nach der EmpCo-Richtlinie der EU und einhergehend mit der jüngsten UWG-Novelle greifen ab dem 27.09.2026 u. a. strenge Anforderungen an Umweltaussagen. Unternehmen müssen nach § 5 Abs. 3 Nr. 4 UWG künftig in einem Umsetzungsplan darlegen, wie sie getroffene Umweltaussagen (z. B. „Wir werden klimaneutral bis zu Jahr 2030.“)...
+- **2026-09-16 — Freistellungsbescheid nach § 32 Abs. 5 KStG: BFH klärt maßgeblichen Verjährungszeitpunkt**
+  https://www.kleeberg.de/2026/09/16/freistellungsbescheid-nach-%c2%a7-32-abs-5-kstg-bfh-klaert-massgeblichen-verjaehrungszeitpunkt/
+  > Der BFH stellt klar, dass ein Freistellungsbescheid nach § 32 Abs. 5 Satz 6 KStG nicht mehr erteilt werden kann, wenn bei Antragstellung bereits Festsetzungsverjährung eingetreten ist. Eine Anlaufhemmung nach § 170 Abs. 2 Satz 1 Nr. 1 AO findet im Erstattungsverfahren nicht statt; dies steht nach Auffassung des...
+- **2026-09-15 — Doppelte Haushaltsführung bei Nutzung eines Wohnmobils**
+  https://www.kleeberg.de/2026/09/15/doppelte-haushaltsfuehrung-bei-nutzung-eines-wohnmobils/
+  > In einem Urteil vom 17.09.2025 hat das FG Baden-Württemberg (Az. 4 K 221/25) entschieden, dass die Nutzung eines Wohnmobils für regelmäßige Familienheimfahrten eine doppelte Haushaltsführung ausschließt, da es an einer dauerhaft eingerichteten Unterkunft am auswärtigen Tätigkeitsort fehlt. Hintergrund: Nach § 9 Abs. 1 Satz 3 Nr. 5 EStG können notwendige Mehraufwendungen, die einem Arbeitnehmer aufgrund einer...
+- **2026-09-15 — Vorsteuerabzug trotz verspäteter Mehrwertsteuerregistrierung**
+  https://www.kleeberg.de/2026/09/15/vorsteuerabzug-trotz-verspaeteter-mehrwertsteuerregistrierung/
+  > Ein Unternehmen darf den Vorsteuerabzug nicht allein deshalb verlieren, weil es sich verspätet für die Mehrwertsteuer registriert hat und die zuvor erworbenen Waren im Zeitpunkt der Registrierung bereits weiterverkauft waren. Dies hat das Gericht der Europäischen Union (EuG) mit Urteil vom 10.07.2026 (Az. T-84/26 – Rotex Europe) entschieden. Der...
+- **2026-09-15 — Bundesregierung plant höhere Alkohol- und Tabaksteuern ab 2027**
+  https://www.kleeberg.de/2026/09/15/bundesregierung-plant-hoehere-alkohol-und-tabaksteuern-ab-2027/
+  > Die Bundesregierung plant deutliche Erhöhungen der Alkohol- und Tabaksteuern. Während die Alkohol-, Schaumwein-, Zwischenerzeugnis- und Alkopopsteuer um 20 Prozent steigen sollen, sind bei der Tabaksteuer stufenweise Erhöhungen bis 2030 vorgesehen. Die Maßnahmen sollen zusätzliche Steuereinnahmen in Milliardenhöhe generieren und zugleich zum Gesundheitsschutz beitragen. Die Bundesregierung hat zwei Gesetzentwürfe zur Erhöhung...
+
+## SONNTAG & Partner (1)
+
+- **Sonderinformation: Unternehmen unterliegen neuen Informationspflichten über gesetzliche Gewährleistungsrechte und gewerbliche Haltbarkeitsgarantien**
+  https://www.sonntag-partner.de/sonderinformation-unternehmen-unterliegen-neuen-informationspflichten-ueber-gesetzliche-gewaehrleistungsrechte-und-gewerbliche-haltbarkeitsgarantien/
 
 ---
-*Abruf: 14.09.2026 13:33 UTC*
+*Abruf: 21.09.2026 13:31 UTC*
