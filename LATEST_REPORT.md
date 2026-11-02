@@ -1,246 +1,195 @@
-# Neue Steuer-News — 26.10.2026
+# Neue Steuer-News — 02.11.2026
 
-**73 neue Beiträge von 16 Unternehmen**
+**59 neue Beiträge von 14 Unternehmen**
 
-## KPMG (1)
+## EY (3)
 
-- **Steueroasen-Abwehrverordnung 2026 - Referentenentwurf**
-  https://kpmg.com/de/de/themen/2026/10/stabwv-2026.html
-  > BMF-Referentenentwurf v. 12.10.2026
+- **2026-10-29 — Sperrfristverstoß durch den Erben: Wer versteuert den Einbringungsgewinn I?**
+  https://www.ey.com/de_de/technical/steuernachrichten/sperrfristverstoss-durch-den-erben-wer-versteuert-den-einbringungsgewinn-i
+  > Der BFH äußert sich erstmals zu der in Rechtsprechung und Literatur umstrittenen Frage, wem ein Einbringungsgewinn I zuzurechnen ist, wenn ein Rechtsnachfolger sperrfristbehaftete Anteile veräußert.
+- **2026-10-29 — Überlange Verfahrensdauer beim BZSt und die Verzinsungsfolgen**
+  https://www.ey.com/de_de/technical/steuernachrichten/ueberlange-verfahrensdauer-beim-bzst-und-die-verzinsungsfolgen
+  > Das FG Köln bestätigt erneut einen unionsrechtlichen Anspruch auf Verzinsung erstatteter Kapitalertragsteuer bei überlanger Bearbeitungsdauer.
+- **2026-10-29 — Jahressteuergesetz 2026: EY schlägt gezielte Änderungen vor**
+  https://www.ey.com/de_de/technical/steuernachrichten/jahressteuergesetz-2026-ey-schlaegt-gezielte-aenderungen-vor
+  > EY begrüßt den Regierungsentwurf eines Jahressteuergesetzes 2026 im Grundsatz, sieht jedoch an mehreren Stellen Änderungs- und Klarstellungsbedarf.
 
-## PricewaterhouseCoopers (PwC) (20)
+## PricewaterhouseCoopers (PwC) (13)
 
-- **2026-10-26 — BMF: Umsatzsteuerbefreiung für die Vermietung und Verpachtun ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257478/bmf-umsatzsteuerbefreiung-fuer-die-vermietung-und-verpachtung-von-betriebsvorrichtungen/
-  > Das Bundesministerium der Finanzen (BMF) hat am 19. Oktober 2026 ein Schreiben zur Umsatzsteuerbefreiung für die Vermietung und Verpachtung von Betriebsvorrichtungen veröffentlicht.
-- **2026-10-26 — Elektronische Bekanntgabe von Steuerbescheiden ab 2027**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257477/elektronische-bekanntgabe-von-steuerbescheiden-ab-2027/
-  > Ab dem 1. Januar 2027 wird die elektronische Bekanntgabe von Steuerbescheiden und anderen Verwaltungsakten der Finanzämter zum Regelfall. Für Unternehmen kann sich daraus konkreter Handlungsbedarf ergeben.
-- **2026-10-26 — Update: Aufzeichnungspflicht eines selbständig tätigen Steue ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/254674/update-aufzeichnungspflicht-eines-selbstaendig-taetigen-steuerpflichtigen-fuer-aufwendungen-fuer-das-haeusliche-arbeitszimmer/
-  > Im Zusammenhang mit der Abzugsfähigkeit der Aufwendungen für ein häusliches Arbeitszimmers eines selbständig tätigen Steuerpflichtigen, der seinen Gewinn nach der Einnahme-Überschussrechnung ermittelt, hat der Bundesfinanzhof (BFH) in einem aktuellen Urteil die für solche Aufwendungen geltende Aufzeichnungspflicht in inhaltlicher und zeitlicher Hinsicht konkretisiert. Diese Anforderungen sind einzuhalten. Ein Verstoß führt dazu, dass die Aufwendungen grundsätzlich nicht abzugsfähig sind.
-- **2026-10-23 — BMF: Entgeltlicher Verzicht auf Nießbrauch bei einem vermiet ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257462/bmf-entgeltlicher-verzicht-auf-niessbrauch-bei-einem-vermieteten-grundstueck-als-steuerbare-entschaedigung/
-  > Das Bundesministerium der Finanzen (BMF) hat am 23. Oktober 2026 ein Schreiben veröffentlicht, in dem es Stellung zur Anwendung des BFH-Urteils vom 10. Oktober 2025 - IX R 4/24 nimmt. Danach ist die bisherige Rechtsprechung – in Abweichung von dieser Entscheidung des BFH – weiterhin auf vertraglich vereinbarte Nießbrauchsablösungen bis zum Ablauf des Tages der Veröffentlichung der Entscheidung im BStBl anzuwenden.
-- **2026-10-23 — Workforce Newsflash, Ausgabe 3, Oktober 2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257460/workforce-newsflash-ausgabe-3-oktober-2026/
-  > Aktuelle Informationen aus dem Bereich Lohnsteuer
-- **2026-10-23 — Änderung von Steuerbescheiden nach § 32a Abs. 1 KStG**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257455/aenderung-von-steuerbescheiden-nach-32a-abs-1-kstg/
-  > Die Möglichkeit der Änderung eines bestandskräftigen Steuerbescheids gemäß § 32a Abs. 1 des Körperschaftsteuergesetzes beschränkt sich nicht auf die unmittelbaren Folgen aus der bei einer Körperschaft in Ansatz gebrachten verdeckten Gewinnausschüttung (vGA). Erfasst werden ebenso weitergehende ‑mittelbare‑ Folgen für den Gesellschafter, zum Beispiel die Berücksichtigung einer aus der vGA abgeleiteten verdeckten Einlage als nachträgliche Anschaffungskosten für die Beteiligung an einer anderen Körperschaft. Dies hat der Bundesfinanzhof (BFH) in einem aktuellen Urteil entschieden.
-- **2026-10-23 — EuGH: Schlussanträge zur Doppelbesteuerung im Rahmen der EU- ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257454/eugh-schlussantraege-zur-doppelbesteuerung-im-rahmen-der-eu-streitbeilegungsrichtlinie/
-  > Im Rahmen eines Vorabentscheidungsersuchen aus Lettland ist muss der EuGH der Frage nachgehen, wie der Begriff „Doppelbesteuerung“ im Sinne der EU-Richtlinie zur Streitbeilegung auszulegen ist. Die bloße Tatsache, dass dasselbe Einkommen abstrakt in zwei (oder mehr) Steuergebiete fallen könnte, reiche jedenfalls nicht aus, um eine Doppelbesteuerung im Sinne der Streitbeilegungsrichtlinie zu begründen, so die Generalanwältin in ihren Schlussanträgen.
-- **2026-10-22 — Entnahmen für Erbschaft- und Schenkungsteuer lösen auch bei ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257443/entnahmen-fuer-erbschaft-und-schenkungsteuer-loesen-auch-bei-uebertragung-eines-teils-eines-mitunternehmeranteils-keine-nachversteuerung-nach-34a-estg-aus/
-  > Entnimmt ein Mitunternehmer Mittel aus seiner Gesellschaft, um die Erbschaft- oder Schenkungsteuer für den Erwerb weiterer Mitunternehmeranteile an dieser Gesellschaft zu zahlen, löst dies keine Nachversteuerung nach § 34a EStG aus. Das gilt auch, wenn nur ein Teil eines Mitunternehmeranteils übertragen wurde, und selbst dann, wenn die Steuer später herabgesetzt und erstattet wird. Das hat Finanzgericht Münster in einem aktuellen Urteil entschieden.
-- **2026-10-22 — steuern + recht aktuell, Ausgabe 42 vom 22. Oktober 2026**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257427/steuern-recht-aktuell-ausgabe-42-vom-22-oktober-2026/
+- **2026-10-30 — Entwurf eines Gesetzes zur Umsetzung der Sechsten EU-Geldwäs ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257564/entwurf-eines-gesetzes-zur-umsetzung-der-sechsten-eu-geldwaescherichtlinie-und-zur-staerkung-der-geldwaeschepraevention/
+  > Das Bundesministerium der Finanzen (BMF) hat den Entwurf eines Gesetzes zur Umsetzung der Sechsten EU-Geldwäscherichtlinie und zur Stärkung der Geldwäscheprävention veröffentlicht.
+- **2026-10-30 — Herstellungskosten bei Aufwendungen auf den Grund und Boden**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257557/herstellungskosten-bei-aufwendungen-auf-den-grund-und-boden/
+  > Der Bundesfinanzhof (BFH) hat in einem aktuellen Urteil entschieden, dass Aufwendungen für die Beseitigung von Bergschäden an einem Grundstück als sofort abziehbare Werbungskosten behandelt werden können.
+- **2026-10-30 — Umsatzsteuer-Newsletter - Ausgabe 10 - Oktober 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257556/umsatzsteuer-newsletter-ausgabe-10-oktober-2026/
+  > Aktuelle Entwicklungen im Umsatzsteuerrecht
+- **2026-10-29 — BFH: Das geparkte Flugzeug zählt zur ersten Tätigkeitsstätte**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257538/bfh-das-geparkte-flugzeug-zaehlt-zur-ersten-taetigkeitsstaette/
+  > Laut BFH (Urteil vom 09.09.2026, VI R 4/25) umfasst die erste Tätigkeitsstätte eines Piloten auch das Flugzeug in der Parkposition am Stationierungsflughafen.
+- **2026-10-29 — steuern + recht aktuell, Ausgabe 43 vom 29. Oktober 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257536/steuern-recht-aktuell-ausgabe-43-vom-29-oktober-2026/
   > Neues aus den Bereichen Gesetzgebung, Finanzverwaltung und Rechtsprechung
-- **2026-10-21 — EuG: Einfuhrumsatzsteuer bei Import von Gegenständen aus dem ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257425/eug-einfuhrumsatzsteuer-bei-import-von-gegenstaenden-aus-dem-drittland-zu-wartungs-und-reparaturarbeiten/
-  > Das Gericht der EU (EuG) hat in seinem heutigen Urteil entschieden, dass die Einfuhr eines nicht aus der Union stammenden Beförderungsmittels (eines Segelboots) in die EU, die ausschließlich zum Zwecke der Reparatur oder Wartung erfolgt und an die sich eine Wiederausfuhr ohne kommerzielle Nutzung anschließt, keine steuerpflichtige Einfuhr oder „Nutzung“ darstellt, die nach EU-Recht Zollabgaben oder Einfuhrumsatzsteuer auslöst.
-- **2026-10-21 — EuGH: Bestimmung des steuerlichen Wohnsitzes der Beamten und ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257424/eugh-bestimmung-des-steuerlichen-wohnsitzes-der-beamten-und-sonstigen-bediensteten-der-union/
-  > In einem kürzlich veröffentlichten Urteil präzisiert der Europäische Gerichtshof die Voraussetzungen für die Bestimmung des steuerlichen Wohnsitzes der Beamten und sonstigen Bediensteten der Union. Die im Protokoll über die Vorrechte und Befreiungen der Europäischen Union vorgesehene Regel, wonach die Beamten und sonstigen Bediensteten der Union ihren steuerlichen Wohnsitz in ihrem Herkunftsstaat beibehalten, ist auch auf die Schenkungsteuer anwendbar.
-- **2026-10-21 — BMF zur E-Rechnung**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257417/bmf-zur-e-rechnung/
-  > Das aktuelle BMF-Schreiben zur Einführung der obligatorischen E-Rechnung und die Auswirkungen auf die Übermittlung von Bescheiden über öffentlich-rechtliche Abgaben.
-- **2026-10-21 — Legal Shorts: Fördermittel in der Restrukturierung: Chance u ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257415/legal-shorts-foerdermittel-in-der-restrukturierung-chance-und-risiko-zugleich/
-  > Warum Fördermittel in Krisenzeiten besondere Aufmerksamkeit verdienen
-- **2026-10-21 — Legal Shorts: Scheinselbstständigkeit im Fokus des Lohnsteue ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257414/legal-shorts-scheinselbststaendigkeit-im-fokus-des-lohnsteuerrechts/
-  > Teil 3: Was passiert, wenn die Finanzverwaltung ein Auftragsverhältnis als Arbeitsverhältnis qualifiziert? Besonderheiten der lohnsteuerlichen Abgrenzung nach § 1 LStDV, den EStG-Vorschriften und H 19.0 LStH, Nachforderungen und Haftung des Arbeitgebers.
-- **2026-10-21 — Rat der Europäischen Union aktualisiert EU-Liste nicht koope ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257418/rat-der-europaeischen-union-aktualisiert-eu-liste-nicht-kooperativer-laender-und-gebiete-fuer-steuerzwecke/
-  > Am 9. Oktober 2026 hat der Rat der Europäischen Union die Liste nicht kooperativer Länder und Gebiete für Steuerzwecke (sog. "EU-Blacklist") aktualisiert. Dabei wurden Panama und Vietnam von der EU-Liste nicht kooperativer Länder gestrichen.
-- **2026-10-20 — BMF: Anwendung der modifizierten Trennungstheorie**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257406/bmf-anwendung-der-modifizierten-trennungstheorie/
-  > Das Bundesministerium der Finanzen (BMF) hat am 20. Oktober 2026 ein Schreiben zur Anwendung der modifizierten Trennungstheorie veröffentlicht, in der es seine bislang ablehnende Auffassung ändert.
-- **2026-10-20 — IT-Sicherheit ist Chefsache: Die persönliche Verantwortung d ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257393/it-sicherheit-ist-chefsache-die-persoenliche-verantwortung-der-geschaeftsleitung-fuer-cyberrisiken/
-  > Cyberangriffe gehören zu den existentiellen Bedrohungen für die moderne Unternehmensführung. Mit dem Inkrafttreten des NIS-2-Umsetzungsgesetzes und der tiefgreifenden Reform des BSI-Gesetzes (BSIG) hat der Gesetzgeber die Anforderungen an das IT-Risikomanagement drastisch verschärft. Vorstände und Geschäftsführer stehen mehr denn je persönlich in der Pflicht. Dieser Beitrag zeigt auf, welche organisatorischen und haftungsrechtlichen Anforderungen die Geschäftsleitung nun zwingend beachten und erfüllen muss, wo ihr Ermessensspielraum endet und wie Aufgaben haftungssicher delegiert werden können.
-- **2026-10-20 — Tabaksteuererhöhung passiert Bundesrat**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257392/tabaksteuererhoehung-passiert-bundesrat/
-  > Die vom Bundestag am 15. Oktober 2026 beschlossene Erhöhung der Tabaksteuer hat am 16. Oktober 2026 die Länderkammer passiert.
-- **2026-10-19 — EuGH-Schlussanträge: Wegzugssteuer auf latente Wertzuwächse ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257394/eugh-schlussantraege-wegzugssteuer-auf-latente-wertzuwaechse-und-stundung-der-steuer/
-  > Generalanwältin Juliane Kokott hat vergangene Woche ihre Schlussanträge vorgelegt zur Vereinbarkeit der polnischen Wegzugsbesteuerung mit den EU-Grundfreiheiten und dem allgemeinen Freizügigkeitsrecht. Der Fall könnte in Teilaspekten auch Auswirkungen auf die deutsche Regelung in § 6 Außensteuergesetz haben. Die deutsche Regierung hat jedenfalls eigene Stellungnahmen zu den Vorlagefragen abgegeben.
-- **2026-10-19 — Keine Flucht in die Tochtergesellschaft: Wie weit reicht das ...**
-  https://blogs.pwc.de/de/steuern-und-recht/article/257391/keine-flucht-in-die-tochtergesellschaft-wie-weit-reicht-das-gesellschaftsvertragliche-wettbewerbsverbot/
-  > OLG Hamm, Urteil vom 15. Juli 2026 – 8 U 66/26
+- **2026-10-29 — Legal Shorts: Neue Impulse für das Mietrecht: Der Gesetzesen ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257533/legal-shorts-neue-impulse-fuer-das-mietrecht-der-gesetzesentwurf-zur-reform-des-wohn-und-geschaeftsraummietrechts/
+  > Der aktuelle Gesetzesentwurf der Bundesregierung sieht Anpassungen im Wohn- und Geschäftsraummietrecht vor. Nach erster Lesung im Bundestag und laufender Beratung in verschiedenen Ausschüssen könnten sich damit wichtige Neuerungen für Mieter und Vermieter ergeben. Erfahren Sie, welche Änderungen geplant sind und welche Auswirkungen sie haben könnten.
+- **2026-10-28 — Steuer Shorts: Mitarbeiterbeteiligung 2.0 - die „Dry-Income“ ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257523/steuer-shorts-mitarbeiterbeteiligung-20-die-dry-income-falle-ist-entschaerft-aber-nicht-beseitigt/
+  > Warum jetzt der Wechsel von VSOP zu ESOP ansteht Echte Unternehmensanteile an Mitarbeiter ausgeben, ohne dass diese sofort Steuern zahlen müssen, für die ihnen die Liquidität fehlt? Jahrelang war diese sogenannte „Dry-Income“-Falle das größte Hindernis für Startups und Scale-ups in Deutschland. Wer Anteile statt Cash vergab, bürdete den Mitarbeitern eine Lohnsteuerlast für einen Wert auf, der nur auf dem Papier existierte.
+- **2026-10-28 — Legal Shorts: Keine Flucht in die Tochtergesellschaft**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257516/legal-shorts-keine-flucht-in-die-tochtergesellschaft/
+  > Lässt sich ein gesellschaftsvertragliches Wettbewerbsverbot aushebeln, indem nicht der Gesellschafter selbst, sondern seine Tochtergesellschaft dem Unternehmen Konkurrenz macht? Das OLG Hamm (Urteil vom 15. Juli 2026 – 8 U 66/26) sagt: Nein. Was bedeutet das für Unternehmen mit Beteiligungs- und Joint-Venture-Strukturen? Eine Bestandsaufnahme.
+- **2026-10-28 — Aufspaltung im Konzern**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257515/aufspaltung-im-konzern/
+  > Der BFH rechnet die Vorbesitzzeit an!
+- **2026-10-28 — BMF: Steuerliche Behandlung von Kopplungsgeschäften bei eine ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257514/bmf-steuerliche-behandlung-von-kopplungsgeschaeften-bei-einem-investmentfonds/
+  > Unter Berücksichtigung des BFH-Urteils vom 3. März 2026 (VIII R 24/21) hat das Bundesministerium der Finanzen (BMF) sein BMF-Schreiben vom 7. April 2022 (BStBl I 2022, 641) neu gefasst.
+- **2026-10-27 — Einkommensteuer: Nachweis einer steuerfreien Einlagenrückgew ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257504/einkommensteuer-nachweis-einer-steuerfreien-einlagenrueckgewaehr-aus-einer-eu-kapitalgesellschaft-nur-mit-ueberleitungsrechnung-moeglich/
+  > Anteilseigner können eine nicht steuerbare Einlagenrückgewähr von einer EU-Kapitalgesellschaft nur dann nach deutschem Steuerrecht nachweisen, wenn sie dazu eine Überleitungsrechnung erstellen. Eine einfache Vorlage der ausländischen Handelsbilanz reicht nicht aus. Dies entschied das Finanzgericht Köln in einem aktuellen Urteil.
+- **2026-10-27 — „Cum/ex“ Verfahren – Hinterziehungszinsen rechtmäßig festges ...**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257497/cum-ex-verfahren-hinterziehungszinsen-rechtmaessig-festgesetzt/
+  > Die Klage gegen die Festsetzung von Hinterziehungszinsen in einem sog. „cum/ex-Verfahren“ vor dem Finanzgericht Hamburg hatte keinen Erfolg.
+- **2026-10-26 — Steuernachrichten zum Hören - Ausgabe 422, 26. Oktober 2026**
+  https://blogs.pwc.de/de/steuern-und-recht/article/257563/steuernachrichten-zum-hoeren-ausgabe-422-26-oktober-2026/
+  > Herzlich Willkommen zur vierhundertzweiundzwanzigsten Ausgabe unseres Steuern & Recht Podcasts – den PwC Steuernachrichten zum Hören. In der heutigen Ausgabe beschäftigen wir uns mit folgenden Themen:
 
-## Deloitte (4)
+## Deloitte (2)
 
-- **BFH: Negativer Wert eines Kommanditanteils auch ohne Nachschusspflicht für Zwecke der Schenkungsteuer zu berücksichtigen**
-  https://www.deloitte-tax-news.de/steuern/erbschaftsteuer/bfh-negativer-wert-eines-kommanditanteils-auch-ohne-nachschusspflicht-fuer-zwecke-der-schenkungsteuer-zu-beruecksichtigen.html
-- **BMF: Anwendung der modifizierten Trennungstheorie**
-  https://www.deloitte-tax-news.de/steuern/unternehmensteuer/bmf-anwendung-der-modifizierten-trennungstheorie.html
-- **FG Köln: Keine Steuerbefreiung nach § 6a GrEStG bei Einbringung eines Einzelunternehmens in eine GmbH**
-  https://www.deloitte-tax-news.de/steuern/grundsteuer-grunderwerbsteuer/fg-koeln-keine-steuerbefreiung-nach-para-6a-grestg-bei-einbringung-eines-einzelunternehmens-in-eine-gmbh.html
-- **BMF: E-Rechnung - Mehr Klarheit für die Praxis**
-  https://www.deloitte-tax-news.de/steuern/indirekte-steuern-zoll/bmf-e-rechnung-mehr-klarheit-fuer-die-praxis.html
+- **BFH: Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung**
+  https://www.deloitte-tax-news.de/steuern/verfahrensrecht/bfh-aenderung-von-steuerbescheiden-bei-verdeckter-gewinnausschuettung.html
+- **EuGH-Verfahren zur polnischen Wegzugsbesteuerung**
+  https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/eugh-verfahren-zur-polnischen-wegzugsbesteuerung.html
 
 ## Flick Gocke Schaumburg (4)
 
-- **KI in der Abschlussprüfung: Neue IDW-Prüfungshinweise schaffen Orientierung**
-  https://www.fgs.de/news-and-insights/blog/detail/ki-in-der-abschlusspruefung-neue-idw-pruefungshinweise-schaffen-orientierung
-- **Keine Übertragung des wirtschaftlichen Eigentums für Zwecke einer Einbringung bei Vereinbarung eines Dauernutzungsrechts?**
-  https://www.fgs.de/news-and-insights/blog/detail/keine-uebertragung-des-wirtschaftlichen-eigentums-fuer-zwecke-einer-einbringung-bei-vereinbarung-eines-dauernutzungsrechts
-- **Kooperationen gemeinnütziger Organisationen nach § 57 Abs. 3 AO – EuGH-Schlussantrag liegt vor**
-  https://www.fgs.de/news-and-insights/blog/detail/kooperationen-gemeinnuetziger-organisationen-nach-57-abs-3-ao-eugh-schlussantrag-liegt-vor
-- **Gehalt trotz Abberufung: Warum der Vergütungsanspruch des Vorstandsmitglieds fortbesteht**
-  https://www.fgs.de/news-and-insights/blog/detail/gehalt-trotz-abberufung-warum-der-verguetungsanspruch-des-vorstandsmitglieds-fortbesteht
+- **Entfall des Ehegattenerbrechts mit Scheidungsantrag**
+  https://www.fgs.de/news-and-insights/blog/detail/entfall-des-ehegattenerbrechts-mit-scheidungsantrag
+- **Angepasstes BMF-Schreiben zur Tonnagesteuer nach § 5a EStG**
+  https://www.fgs.de/news-and-insights/blog/detail/angepasstes-bmf-schreiben-zur-tonnagesteuer-nach-5a-estg
+- **E-Rechnung – BMF ergänzt erneut Regelungen für die Praxis**
+  https://www.fgs.de/news-and-insights/blog/detail/e-rechnung-bmf-ergaenzt-erneut-regelungen-fuer-die-praxis
+- **Übergangsfrist für Steuerpflicht von Entgelten bei Ablösung von Nießbrauchsrechten**
+  https://www.fgs.de/news-and-insights/blog/detail/uebergangsfrist-fuer-steuerpflicht-von-entgelten-bei-abloesung-von-niessbrauchsrechten
 
 ## Rödl & Partner (1)
 
-- **2026-10-25 — Ausgabe 41/2026: G’day vom anderen Ende der Welt**
-  https://www.roedl.com/insights/ausgabe-41-2026-bundestag-beschliesst-fruehstartrente/
+- **2026-10-31 — Ausgabe 42/2026: Das Steuerrecht kennt keine Moral**
+  https://www.roedl.com/insights/ausgabe-42-2026-das-steuerrecht-kennt-keine-moral/
 
-## RSM Ebner Stolz (2)
+## RSM Ebner Stolz (1)
 
-- **Anwendung der modifizierten Trennungstheorie: BMF wendet BFH-Rechtsprechung an**
-  https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/allgemeine-steuerberatung/bmf-wendet-modifizierte-trennungstheorie-an-114695.html
-- **Was den Handel trägt, wenn Märkte sich verschieben**
-  https://www.ebnerstolz.de/de/unser-angebot/branchen/handel/unternehmerdialog-handel-2026-strukturwandel-114608.html
+- **Steuerstreit: Juve kürt RSM Ebner Stolz zur Kanzlei des Jahres 2026**
+  https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/steuerstreit-juve-kuert-rsm-ebner-stolz-zur-kanzlei-des-jahres-2026-114967.html
 
-## Baker Tilly (2)
+## Baker Tilly (1)
 
-- **Sozialversicherungsrechengrößen 2027: Deutliche Anhebung der Grenzwerte geplant**
-  https://www.bakertilly.de/beitrag/sozialversicherungsrechengroessen-2027-deutliche-anhebung-der-grenzwerte-geplant
-- **Management-Buy-out: Nachfolge aus den eigenen Reihen**
-  https://www.bakertilly.de/beitrag/management-buy-out-nachfolge-aus-den-eigenen-reihen
-
-## PKF Fasselt (2)
-
-- **2026-10-20 — Jahressteuergesetz 2026: Aktueller Stand und weitere Entwicklungen im Gesetzgebungsverfahren**
-  https://www.pkf-fasselt.de/artikel/jahressteuergesetz-2026-aktueller-stand-und-weitere-entwicklungen-im-gesetzgebungsverfahren
-- **2026-10-19 — Vorsteuerabzug bei Erschließungsmaßnahmen für Gewerbegrundstücke trotz anschließender unentgeltlicher Übertragung an die Gemeinde**
-  https://www.pkf-fasselt.de/artikel/vorsteuerabzug-bei-erschliessungsmassnahmen-fuer-gewerbegrundstuecke-trotz-anschliessender-unentgeltlicher-uebertragung-an-die-gemeinde
+- **IT-Kontrollen im Ernstfall: Was die PHP-Sicherheitslücke für den Jahresabschluss bedeutet**
+  https://www.bakertilly.de/beitrag/it-kontrollen-im-ernstfall-was-die-php-sicherheitsluecke-fuer-den-jahresabschluss-bedeutet
 
 ## ECOVIS KSO (5)
 
-- **Anscheinsbeweis der Privatnutzung eines Firmenwagens durch den (Allein-) Gesellschafter-Geschäftsführer**
-  https://ecovis-kso.com/blog/anscheinsbeweis-der-privatnutzung-eines-firmenwagens/
-- **BMF-Schreiben zum Betriebsstättenbegriff vom 18.06.2026: Mehr Klarheit bei Homeoffice, Vertreterbetriebsstätten und internationalen Sachverhalten**
-  https://ecovis-kso.com/blog/bmf-schreiben-zum-betriebsstaettenbegriff/
-- **BFH bestätigt Verfassungsmäßigkeit der Besteuerung der Energiepreispauschale**
-  https://ecovis-kso.com/blog/bfh-bestaetigt-verfassungsmaessigkeit-der-besteuerung-der-energiepreispauschale/
-- **Versäumung der Revisionsfrist: Ein fehlender Umschlag entlastet nicht**
-  https://ecovis-kso.com/blog/versaeumung-der-revisionsfrist/
-- **Mitarbeiterbeteiligung: Ausschluss von Minijobbern gefährdet Freibetrag für alle**
-  https://ecovis-kso.com/blog/mitarbeiterbeteiligung-ausschluss-von-minijobbern-gefaehrdet-freibetrag-fuer-alle/
+- **Maklerhaftung: LG Trier zu Maklervollmacht und Maklerauftrag**
+  https://ecovis-kso.com/blog/maklerhaftung-lg-trier-zu-maklervollmacht-und-maklerauftrag/
+- **Forschungszulage: Neues BMF-Schreiben regelt Gemeinkostenpauschale, Wirtschaftsgüter und Konzernfälle**
+  https://ecovis-kso.com/blog/forschungszulage-neues-bmf-schreiben/
+- **E-Rechnungen: Was jetzt auf Unternehmen in Deutschland zukommt**
+  https://ecovis-kso.com/blog/e-rechnungen-was-jetzt-auf-unternehmen-in-deutschland-zukommt/
+- **Markthochlauf nachhaltiger Flugkraftstoffe: Was Unternehmen jetzt beachten müssen**
+  https://ecovis-kso.com/blog/markthochlauf-nachhaltiger-flugkraftstoffe/
+- **Phishing in der Arztpraxis: Wer haftet, wenn Betrüger:innen das Praxiskonto leerräumen?**
+  https://ecovis-kso.com/blog/phishing-in-der-arztpraxis/
 
-## POELLATH (3)
+## POELLATH (1)
 
-- **2026-10-26 — POELLATH berät Hines beim Joint Venture mit Vastint zum Erwerb des Glasmacherviertels in Düsseldorf-Gerresheim**
-  https://www.pplaw.com/mandate/poellath-beraet-hines-beim-joint-venture-mit-vastint-zum-erwerb-des-glasmacherviertels
-- **2026-10-21 — POELLATH berät internationale Unternehmerfamilie bei schenkweiser Übertragung von Unternehmensbeteiligungen**
-  https://www.pplaw.com/mandate/poellath-beraet-internationale-unternehmerfamilie-bei-schenkweiser-uebertragung-von
-- **2026-10-20 — POELLATH in „Lexology Index: Tax 2026“**
-  https://www.pplaw.com/news/poellath-lexology-index-tax-2026
+- **2026-10-28 — POELLATH berät Maxburg beim Erwerb der Schmallenberger Bohrservice GmbH**
+  https://www.pplaw.com/mandate/poellath-beraet-maxburg-beim-erwerb-der-schmallenberger-bohrservice-gmbh
 
-## Nexia (4)
+## Nexia (2)
 
-- **Weiteres BMF-Schreiben zur E-Rechnung veröffentlicht**
-  https://www.nexia.de/informationen/news/news-ansicht/weiteres-bmf-schreiben-zur-e-rechnung-veroeffentlicht
-  > Mit der Einführung der verpflichtenden E-Rechnung im Januar 2025 hat der Gesetzgeber einen wichtigen Schritt zur Digitalisierung des Rechnungswesens vollzogen. Mit…
-- **Unternehmensnachfolge: Fiskus darf nicht doppelt kassieren**
-  https://www.nexia.de/informationen/news/news-ansicht/unternehmensnachfolge-fiskus-darf-nicht-doppelt-kassieren
-  > Bei der Übertragung von Unternehmensanteilen fallen häufig hohe Erbschaft- oder Schenkungsteuern an. Doch was passiert, wenn dafür Geld aus dem Unternehmen entnommen wird…
-- **Schenkungsteuer: Auch negative Anteilswerte zählen**
-  https://www.nexia.de/informationen/news/news-ansicht/schenkungsteuer-auch-negative-anteilswerte-zaehlen
-  > Wer einen Anteil an einer Kommanditgesellschaft verschenkt, kann bei der Schenkungsteuer von einem negativen Anteilswert profitieren. Der BFH hat klargestellt, dass…
-- **Gewerbesteuer auf Rekordkurs**
-  https://www.nexia.de/informationen/news/news-ansicht/gewerbesteuer-auf-rekordkurs
-  > Deutschlands Kommunen verzeichnen bei der Gewerbesteuer einen neuen Einnahmerekord. Im Jahr 2025 flossen rund 76,4 Mrd. Euro in die Gemeindekassen – so viel wie nie…
+- **2026-12-03 — Steuer Update 2026**
+  https://www.nexia.de/steuer-update-koeln
+  > Präsenz-Veranstaltung 03.12.2026 | 12:45 – 17:45 Uhr in Köln
+- **Umsatzsteuer: BMF ändert Regeln für die Vermietung von Betriebsvorrichtungen**
+  https://www.nexia.de/informationen/news/news-ansicht/umsatzsteuer-bmf-aendert-regeln-fuer-die-vermietung-von-betriebsvorrichtungen
+  > Mit Schreiben vom 19.10.2026 hat das Bundesministerium der Finanzen (BMF) die umsatzsteuerliche Behandlung der Vermietung und Verpachtung von Betriebsvorrichtungen neu…
 
-## Noerr (2)
+## Noerr (3)
 
-- **Batteriespeicher finanzieren: Was Investoren und Kreditgeber rechtlich beachten müssen**
-  https://www.noerr.com/de/insights/batteriespeicher-finanzieren-was-investoren-und-kreditgeber-rechtlich-beachten-mussen
-- **EU führt gemeinsames Bewertungssystem und Nachhaltigkeitskennzeichnung für Rechenzentren ein**
-  https://www.noerr.com/de/insights/eu-fuhrt-gemeinsames-bewertungssystem-und-nachhaltigkeitskennzeichnung-fur-rechenzentren-ein
+- **Kabinettsbeschluss zur Zuckergetränkesteuer: Maßstäbe des BGH bei der Rechtfertigung staatlicher Beschränkungen von EU-Grundfreiheiten**
+  https://www.noerr.com/de/insights/kabinettsbeschluss-zur-zuckergetrankesteuer-mastabe-des-bgh-bei-der-rechtfertigung-staatlicher-beschrankungen-von-eu-grundfreiheiten
+- **Entwurf eines Investitionsprüfungsgesetzes: Was Investoren wissen müssen**
+  https://www.noerr.com/de/insights/entwurf-eines-investitionsprüfungsgesetzes,-c-,-was-investoren-wissen-müssen
+- **Landgericht München veröffentlicht neue FRAND-Leitlinien: Ein Leitfaden für die Bestimmung von SEP-Lizenzgebühren mit wichtigen Auswirkungen auf Rechtsstreitigkeiten**
+  https://www.noerr.com/de/insights/landgericht-muenchen-veroeffentlicht-neue-frend-leitlinien-ein-leitfaden-fuer-die-bestimmung-von-sep-lizenzgebuehren-mit-wichtigen-auswirkungen-auf-rechtsstreitigkeiten
 
-## KMLZ (3)
+## Dr. Kleeberg & Partner (11)
 
-- **2026-10-26 — Von der Abgabe zur Steuer – Der Regierungsentwurf zum Zuckergetränkesteuergesetz**
-  https://www.kmlz.de/de/von-der-abgabe-zur-steuer-der-regierungsentwurf-zum-zuckergetraenkesteuergesetz
-  > Deutschland steuert auf eine neue Verbrauchsteuer zu: Das Bundeskabinett hat am 14.10.2026 einen Gesetzentwurf für die Einführung einer Zuckergetränkesteuer auf den Weg gebracht. Die Steuer auf gezuckerte Getränke soll bereits am 01.07.2027 in Kraft treten. Der Gesetzentwurf sieht einen zweistufigen Steuertarif vor, der vor allem Hersteller und Großhändler treffen soll.
-- **2026-10-23 — BMF zur Verpachtung von Betriebsvorrichtungen – Bisheriges Aufteilungsgebot entfällt**
-  https://www.kmlz.de/de/bmf-zur-verpachtung-von-betriebsvorrichtungen-bisheriges-aufteilungsgebot-entfaellt
-  > Das aktuelle BMF-Schreiben setzt die jüngste Rechtsprechung zur Vermietung von Betriebsvorrichtungen um und rückt vom zwingenden Aufteilungsgebot (§ 4 Nr. 12 Satz 2 UStG) ab. Damit ändert sich die umsatzsteuerrechtliche Behandlung vermieteter Immobilien mit Betriebsvorrichtungen grundlegend. Unser Newsletter zeigt die wesentlichen Folgen für bestehende Verträge und künftige Gestaltungen auf und erläutert, warum kurzfristiger Handlungsbedarf besteht.
-- **2026-10-21 — Gutglaubensschutz im Festsetzungsverfahren – Verweis auf Billigkeitsverfahren unionsrechtswidrig**
-  https://www.kmlz.de/de/gutglaubensschutz-im-festsetzungsverfahren-verweis-auf-billigkeitsverfahren-unionsrechtswidrig
-  > Das EuG hat entschieden, dass der Gutglaubensschutz bei der Differenzbesteuerung (Vertrauen auf die Angaben des Lieferanten) bereits im Rahmen der Steuerfestsetzung zu berücksichtigen ist und nicht erst in einem gesonderten Billigkeitsverfahren. Die bislang in Deutschland praktizierte Verweisung des Steuerpflichtigen auf ein gesondertes Billigkeitsverfahren verstößt gegen den unionsrechtlichen Effektivitätsgrundsatz. Die Bedeutung der Entscheidung dürfte über die Differenzbesteuerung hinausreichen und Auswirkungen auf weitere Fallgruppen haben, in denen der deutsche Gesetzgeber den Gutglaubensschutz ebenfalls nicht explizit geregelt hat: zum Beispiel den Vorsteuerabzug, den Reemtsma-/Direktanspruch, die Ausfuhrlieferung und die Steuerschuld nach § 14c UStG.
-
-## Dr. Kleeberg & Partner (18)
-
-- **2026-10-26 — Unterhaltsleistungen im Trennungsjahr: Niedersächsisches FG schränkt Abzug nach § 10 Abs. 1a Nr. 1 EStG ein**
-  https://www.kleeberg.de/2026/10/26/unterhaltsleistungen-im-trennungsjahr-niedersaechsisches-fg-schraenkt-abzug-nach-%c2%a7-10-abs-1a-nr-1-estg-ein/
-  > Das Niedersächsische FG hat entschieden, dass Unterhaltsleistungen an den dauernd getrenntlebenden Ehegatten im Trennungsjahr auch bei Einzelveranlagung nicht als Sonderausgaben nach § 10 Abs. 1a Nr. 1 EStG abziehbar sind, da das Wahlrecht zur Zusammenveranlagung fortbesteht. Zudem gewährte das Gericht Wiedereinsetzung in die versäumte Klagefrist, weil es nicht innerhalb des gewöhnlichen Geschäftsgangs auf die fehlende elektronische Übermittlung...
-- **2026-10-26 — BMF-Jahresstatistik 2025: Milliarden-Mehrsteuern und zahlreiche Steuerstrafverfahren**
-  https://www.kleeberg.de/2026/10/26/bmf-jahresstatistik-2025-milliarden-mehrsteuern-und-zahlreiche-steuerstrafverfahren/
-  > Das BMF hat die aktuellen Ergebnisse zur Verfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten im Jahr 2025 veröffentlicht. Bundesweit wurden rund 51.300 Strafverfahren abgeschlossen und durch die Steuerfahndung Mehrsteuern von etwa 3,1 Mrd. EUR aufgedeckt. Das Bundesministerium der Finanzen (BMF) hat die jährliche Statistik zur Verfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten für das Jahr 2025 veröffentlicht. Zusätzlich...
-- **2026-10-26 — Betriebsprüfung der Länder 2025: Mehrergebnis steigt auf 11,2 Mrd. Euro**
-  https://www.kleeberg.de/2026/10/26/betriebspruefung-der-laender-2025-mehrergebnis-steigt-auf-112-mrd-euro/
-  > Die Betriebsprüfer der Länder haben 2025 ein Mehrergebnis von rund 11,2 Mrd. EUR festgestellt, obwohl weniger Prüfer im Einsatz waren. Geprüft wurden 139.205 Betriebe, bei Großunternehmen lag die Prüfungsquote bei 25,8 Prozent. Das BMF hat die Statistik am 22.10.2026 veröffentlicht. Das Bundesfinanzministerium hat am 22.10.2026 die Statistik zu den Ergebnissen der steuerlichen Betriebsprüfung der Länder für...
-- **2026-10-23 — Verdeckte Gewinnausschüttung: Anscheinsbeweis für die Privatnutzung eines betrieblichen Pkw durch den Gesellschafter-Geschäftsführer**
-  https://www.kleeberg.de/2026/10/23/verdeckte-gewinnausschuettung-anscheinsbeweis-fuer-die-privatnutzung-eines-betrieblichen-pkw-durch-den-gesellschafter-geschaeftsfuehrer/
-  > Der BFH konkretisiert in seinem Beschluss vom 17.12.2025 den Anscheinsbeweis bei der Privatnutzung betrieblicher Pkw durch Gesellschafter-Geschäftsführer. Ein vertragliches Privatnutzungsverbot allein genügt nicht, um eine verdeckte Gewinnausschüttung auszuschließen. Fehlen Fahrtenbücher, wirksame Kontrollen und eine Beschränkung des Fahrzeugzugriffs, kann die private Nutzung vermutet werden. Unternehmen sollten Nutzungsverbote daher konsequent dokumentieren und...
-- **2026-10-23 — BMF gibt strenge Trennungstheorie auf**
-  https://www.kleeberg.de/2026/10/23/bmf-gibt-strenge-trennungstheorie-auf/
-  > Das Bundesfinanzministerium (BMF) hat mit dem aktuellen Schreiben vom 20. Oktober 2026 betreffend die teilentgeltliche Übertragung von Einzelwirtschaftsgütern die sogenannte strenge Trennungstheorie aufgegeben und sich der Rechtsprechung des Bundesfinanzhofs (BFH) angeschlossen. Die Regelung in § 6 Abs. 5 Satz 3 EStG ordnet bei Übertragungen von Wirtschaftsgütern zwischen dem Betriebsvermögen der Gesellschafter und Personengesellschaften die Buchwertfortführung an. Dies...
-- **2026-10-23 — Kopplungsgeschäfte bei Investmentfonds: BMF hält an Aktiengewinnberechnung fest**
-  https://www.kleeberg.de/2026/10/23/kopplungsgeschaefte-bei-investmentfonds-bmf-haelt-an-aktiengewinnberechnung-fest/
-  > Der BFH hat entschieden, dass Gewinne und Verluste aus gekoppelten Options- und Termingeschäften nicht in die Ermittlung der ausschüttbaren Veräußerungsgewinne aus Aktien auf Fondsebene einzubeziehen sind. Das BMF stellt jedoch klar, dass dies keine Auswirkungen auf die Aktiengewinnberechnung nach § 8 InvStG 2004 hat. Anleger und Verwaltungsgesellschaften müssen gegebenenfalls...
-- **2026-10-23 — Sachbezugswerte 2027: Bundesrat stimmt höheren Werten für Unterkunft und Verpflegung zu**
-  https://www.kleeberg.de/2026/10/23/sachbezugswerte-2027-bundesrat-stimmt-hoeheren-werten-fuer-unterkunft-und-verpflegung-zu/
-  > Der Bundesrat hat der Siebzehnten Verordnung zur Änderung der Sozialversicherungsentgeltverordnung zugestimmt. Ab 1. Januar 2027 steigt der Monatswert für freie Unterkunft von 285,00 EUR auf 289,00 EUR, für Verpflegung von 345,00 EUR auf 355,00 EUR. Die Verkündung im Bundesgesetzblatt steht noch aus. Sachbezugswerte 2027: Bundesrat stimmt Anhebung zu Der Bundesrat hat am 16. Oktober 2026 der Siebzehnten Verordnung zur Änderung der Sozialversicherungsentgeltverordnung...
-- **2026-10-23 — Steueroasen-Abwehrverordnung wird an neue EU-Liste angepasst**
-  https://www.kleeberg.de/2026/10/23/steueroasen-abwehrverordnung-wird-an-neue-eu-liste-angepasst/
-  > Das BMF hat den Referentenentwurf zur Vierten Verordnung zur Änderung der Steueroasen-Abwehrverordnung veröffentlicht. Die Anpassung berücksichtigt die aktualisierte EU-Liste nicht kooperativer Steuerhoheitsgebiete: Während acht Gebiete weiterhin gelistet bleiben, werden unter anderem Panama, die Bahamas und Belize aus der Einstufung herausgenommen. Vierte Verordnung zur Änderung der Steueroasen-Abwehrverordnung Das Bundesministerium der...
-- **2026-10-22 — Ergänzung des BMF zur steuerrechtlichen Behandlung von Umlaufgeschäften mit eigenen Anteilen**
-  https://www.kleeberg.de/2026/10/22/ergaenzung-des-bmf-zur-steuerrechtlichen-behandlung-von-umlaufgeschaeften-mit-eigenen-anteilen/
-  > Mit Schreiben vom 16.10.2026 (IV C 2 – S 2742/00111/003/021) hat das BMF die bisherigen Vorgaben zur steuerrechtlichen Behandlung des Erwerbs eigener Anteile aus seinem Schreiben vom 27.11.2013 (BStBl. I S. 1615) konkretisiert. Bei kurzfristigem Eigenhandel mit eigenen Anteilen ist für die Veränderung des steuerlichen Einlagekontos nicht jeder einzelne An- und Verkauf maßgeblich, sondern die Bestandsveränderung zum...
-- **2026-10-22 — Minijob-Verdienstgrenze steigt 2027 auf 633 Euro pro Monat**
-  https://www.kleeberg.de/2026/10/22/minijob-verdienstgrenze-steigt-2027-auf-633-euro-pro-monat/
-  > Ab dem 01.01.2027 gelten für Minijobs neue Verdienstregeln. Grund ist die erneute Erhöhung des gesetzlichen Mindestlohns auf 14,60 Euro pro Stunde. Dadurch steigt auch die monatliche Minijob-Grenze automatisch. Arbeitgeber und Beschäftigte sollten ihre Arbeitsverträge und Entgeltabrechnungen rechtzeitig überprüfen. Zum 01.01.2027 steigen der gesetzliche Mindestlohn und die Verdienstgrenze für Minijobs erneut. Der Mindestlohn erhöht...
-- **2026-10-21 — E-Rechnung: Neues BMF-Schreiben vom 15.10.2026**
-  https://www.kleeberg.de/2026/10/21/e-rechnung-neues-bmf-schreiben-vom-15-10-2026/
-  > Die Einführung der E-Rechnung bleibt eines der zentralen Digitalisierungsthemen im Umsatzsteuerrecht. Mit einem dritten ergänzenden Schreiben vom 15.10.2026 hat das BMF zahlreiche Praxisfragen aufgegriffen und seine bisherigen Vorgaben weiter präzisiert. Zwar enthält das Schreiben keine wesentlichen Neuerungen, die enthaltenen Klarstellungen und weitergehenden Erläuterungen sorgen jedoch für mehr Rechtssicherheit bei der...
-- **2026-10-21 — Sind verpachtete land- und forstwirtschaftliche Flächen Verwaltungsvermögen?**
-  https://www.kleeberg.de/2026/10/21/sind-verpachtete-land-und-forstwirtschaftliche-flaechen-verwaltungsvermoegen/
-  > Das Finanzgericht Düsseldorf hat am 02.06.2026 ein wegweisendes Urteil gefällt, das Klarheit schafft: Die Rückausnahme für Flächen, die zur land- und forstwirtschaftlichen Nutzung überlassen werden, greifen auch dann, wenn diese Flächen im Betriebsvermögen einer Kapitalgesellschaft gehalten werden. Die Anlageklasse Land- und Forstwirtschaft verzeichnet seit Jahren ein stetig wachsendes Interesse....
-- **2026-10-20 — FAUB veröffentlicht neue Kapitalkostenempfehlung für die Marktrisikoprämie**
-  https://www.kleeberg.de/2026/10/20/faub-veroeffentlicht-neue-kapitalkostenempfehlung-fuer-die-marktrisikopraemie/
-  > In seiner Sitzung am 12.10.2026 hat der FAUB beschlossen, seine Empfehlung für die Marktrisikoprämie vor persönlichen Steuern auf 4,50 % bis 6,00 % (Mittelwert: 5,25 %) und nach persönlichen Steuern auf 4,00 % bis 5,25 % anzupassen und damit die Bandbreite zum zweiten Mal in Folge abzusenken. Die bisherige Bandbreite aus dem Jahr 2025 betrug 5,25 % bis 6,75 % vor persönlichen Steuern (4,50 % bis 5,75 % nach...
-- **2026-10-20 — Zuordnung von landwirtschaftlichen Wohnhäusern zum Betriebsvermögen**
-  https://www.kleeberg.de/2026/10/20/zuordnung-von-landwirtschaftlichen-wohnhaeusern-zum-betriebsvermoegen/
-  > Der Bundesfinanzhof (BFH) entschied am 07.05.2026, dass die Abwahl der Nutzungswertbesteuerung nicht zwangsläufig zur Entnahme aus dem Betriebsvermögen führt. Auf die Revision des Beklagten wird das Urteil des Finanzgerichts München vom 15.12.2022 – 15 K 518/21 aufgehoben. Die Sache wird an das Finanzgericht München zur anderweitigen Verhandlung und Entscheidung zurückverwiesen. Leitsätze Nach...
-- **2026-10-20 — Bundestag beschließt Frühstartrente: Zehn Euro pro Monat für jedes Kind**
-  https://www.kleeberg.de/2026/10/20/bundestag-beschliesst-fruehstartrente-zehn-euro-pro-monat-fuer-jedes-kind/
-  > Der Bundestag hat die Einführung der Frühstartrente beschlossen. Ab 2026 sollen Kinder ab sechs Jahren monatlich zehn Euro vom Staat für eine kapitalgedeckte Altersvorsorge erhalten; zusätzlich sind private Einzahlungen möglich. Für Kinder ohne eigenen Vertrag werden die Beiträge künftig kollektiv und ausschließlich in breit diversifizierte globale Aktien oder Aktienfonds investiert. Der Bundestag...
-- **2026-10-20 — Abgrenzung von Privat- und Betriebsvermögen in der Land- und Forstwirtschaft**
-  https://www.kleeberg.de/2026/10/20/abgrenzung-von-privat-und-betriebsvermoegen-in-der-land-und-forstwirtschaft/
-  > Das Finanzgericht Niedersachsen hat am 04.06.2026 geurteilt, wann ursprünglich land- und forstwirtschaftlich genutzte Grundstücke aus dem Betriebsvermögen zu entnehmen sind. Finanzgericht Niedersachsen, Urteil vom 04.06.2026, Az.: 2 K 101/23 Einordnung von land- und forstwirtschaftlich genutzten Grundstücken mit bestellten Erbbaurechten und Bebauung durch Berechtigten als Betriebsvermögen bis zu einer Entnahme; Entnahme der betreffenden Grundstücke bei Größenüberschreitung...
-- **2026-10-19 — Tabak wird teurer: Bundesrat billigt Steuererhöhung ab 2027**
-  https://www.kleeberg.de/2026/10/19/tabak-wird-teurer-bundesrat-billigt-steuererhoehung-ab-2027/
-  > Nachdem der Bundestag die entsprechende Gesetzesänderung am 15.10.2026 verabschiedet hatte, stimmte am 16.10.2026 auch der Bundesrat zu. Geplante Erhöhung erhält Zustimmung von Bundestag und Bundesrat Wie in unserer früheren News angekündigt (vgl. Newsbeitrag vom 15.09.2026), plant die Bundesregierung eine Anhebung der Tabaksteuer ab dem Jahr 2027. Die vom Bundestag am 15.10.2026 beschlossene Erhöhung der Tabaksteuer...
-- **2026-10-19 — Update: Kunststoffsteuer in der Kritik**
-  https://www.kleeberg.de/2026/10/19/update-kunststoffsteuer-in-der-kritik/
-  > Nachdem die Bundesregierung einen Gesetzentwurf zur Einführung einer nationalen Steuer auf Kunststoffverpackungen mit Bearbeitungsstand vom 30.09.2026 vorgelegt hat, gibt es in der CDU/CSU-Fraktion Bedenken gegen die Einführung. Der geplante Kabinettsbeschluss in dieser Woche wurde deshalb vertagt. Über die Ausgestaltung der Plastiksteuer besteht zwischen der CDU/CSU-Fraktion und der SPD-Fraktion weiterhin Diskussionsbedarf....
+- **2026-11-02 — Herstellungskosten bei Aufwendungen auf den Grund und Boden**
+  https://www.kleeberg.de/2026/11/02/herstellungskosten-bei-aufwendungen-auf-den-grund-und-boden/
+  > Der Bundesfinanzhof (BFH) hat mit Urteil vom 21.08.2026 entschieden, dass Aufwendungen, die nach der Anschaffung von Grund und Boden anfallen, auch zu nachträglichen Herstellungskosten des Grund und Bodens führen können. Der BFH befasst sich in diesem Zusammenhang auch mit den Fragen, wann eine wesentliche Verbesserung vorliegt und was der ursprüngliche...
+- **2026-11-02 — Basiszinssatz**
+  https://www.kleeberg.de/2026/11/02/basiszinssatz/
+  > Basiszinssätze nach IDW S 1 i. d. F. 2008 Die folgende Tabelle stellt die Basiszinssätze für Unternehmens­bewertungen nach IDW S 1 i. d. F. 2008 bzw. IDW RS HFA 10 für Bewertungsstichtage, beginnend ab 01.11.2017, dar. Die Zinssätze wurden gemäß Vorgaben des IDW (vgl. WPH Edition, Bewertung und Transaktionsberatung,...
+- **2026-11-02 — BFH-Urteil: Gewinngrenze beim Investitionsabzugsbetrag**
+  https://www.kleeberg.de/2026/11/02/bfh-urteil-gewinngrenze-beim-investitionsabzugsbetrag/
+  > Der Investitionsabzugsbetrag nach § 7g EStG steht nur Betrieben mit einem Gewinn von höchstens 200.000 € zu. Strittig war bislang, auf welchen Gewinn abgestellt werden muss. Der BFH hat mit Urteil vom 01.10.2025 (X R 16, 17/23) entschieden: Auch die hinzuzurechnende Gewerbesteuer nach § 4 Abs. 5b EStG zählt mit. Hintergrund: Der Investitionsabzugsbetrag (IAB) nach § 7g Abs. 1 EStG ermöglicht kleinen und...
+- **2026-11-02 — IDW ERS FAB 10: Entwurf zur Bewertung von Beteiligungen im handelsrechtlichen Jahresabschluss vor**
+  https://www.kleeberg.de/2026/11/02/idw-ers-fab-10-entwurf-zur-bewertung-von-beteiligungen-im-handelsrechtlichen-jahresabschluss-vor/
+  > Mit dem aktuellen Entwurf zur Beteiligungsbewertung konkretisiert das IDW die Grundsätze des IDW S 1 für Zwecke der handelsrechtlichen Rechnungslegung. Konsequent unterscheidet die neue Stellungnahme für Bewertungszwecke zwischen Beteiligungen mit Haltegesichtspunkten oder Veräußerungsabsicht. Überblick Beteiligungen sind bei ihrem Zugang grundsätzlich mit den Anschaffungskosten anzusetzen. Ist ihnen am Abschlussstichtag ein niedrigerer Wert...
+- **2026-11-02 — FED legt Zinspause ein**
+  https://www.kleeberg.de/2026/11/02/fed-legt-zinspause-ein/
+  > Nach der Zinserhöhung im September 2026 legt die FED nun eine Zinspause ein. Am 28.10.2026 beschloss die US-amerikanische Zentralbank, die Leitzinsen unverändert in einer Spanne zwischen 3,75 % und 4,00 % zu belassen. Angesichts der weiterhin erhöhten Inflation und der unsicheren wirtschaftlichen Aussichten wartet die FED zunächst weitere Wirtschaftsdaten ab, bevor sie über zusätzliche Zinsanpassungen...
+- **2026-10-29 — Neues BMF-Schreiben zur Forschungszulage**
+  https://www.kleeberg.de/2026/10/29/neues-bmf-schreiben-zur-forschungszulage/
+  > Mit Datum vom 27.10.2026 hat das Bundesfinanzministerium ein neues Schreiben zur Forschungszulage erlassen, welches das bisherige BMF-Schreiben vom 07.02.2023 ersetzt. Die Änderungen erfolgten aufgrund der zwischenzeitlichen Änderungen des Forschungszulagengesetzes (FZulG) im Rahmen diverser Gesetzgebungsverfahren. BMF-Schreiben vom 27.10.2026 – IV C 3 – S 2020/00059/018/001 Mit dem FZulG vom 14.12.2019 wurde eine steuerliche Förderung von Forschung...
+- **2026-10-28 — Public CbCR: Erste Ertragsteuerinformationsberichte bis Ende 2026 offenlegen**
+  https://www.kleeberg.de/2026/10/28/public-cbcr-erste-ertragsteuerinformationsberichte-bis-ende-2026-offenlegen/
+  > Betroffene Unternehmen mit kalendergleichem Geschäftsjahr müssen ihren ersten Ertragsteuerinformationsbericht für das Geschäftsjahr 2025 bis zum 31.12.2026 dem Unternehmensregister übermitteln. Bei abweichendem Geschäftsjahr gilt jeweils eine Frist von zwölf Monaten nach Ende des Berichtszeitraums. Die Pflicht zur Offenlegung länderbezogener Ertragsteuerinformationen ist für viele Unternehmen erstmals praktisch relevant: Die §§ 342 bis 342p HGB...
+- **2026-10-28 — IDW nimmt zu Steuerreformvorschlägen Stellung**
+  https://www.kleeberg.de/2026/10/28/idw-nimmt-zu-steuerreformvorschlaegen-stellung/
+  > Das IDW hat zum Regierungsentwurf des Jahressteuergesetzes 2026 Stellung genommen und fordert bessere steuerliche Rahmenbedingungen für deutsche Unternehmen, um Investitionen zu fördern und die Wettbewerbsfähigkeit zu stärken. Es unterstützt daher mehrere Vorschläge des Bundesrates, insbesondere zum Vorbehaltsnießbrauch, zu Buchwertübertragungen zwischen Schwesterpersonengesellschaften, zum Kapitaleinlagemodell und zu Earn-outs. Diese Vorschläge schaffen Rechtssicherheit,...
+- **2026-10-28 — Corona-Hilfen: Rückstellungen für Rückzahlungen erst nach Einreichung der Schlussabrechnung**
+  https://www.kleeberg.de/2026/10/28/corona-hilfen-rueckstellungen-fuer-rueckzahlungen-erst-nach-einreichung-der-schlussabrechnung/
+  > Wer Corona-Hilfen zurückzahlen muss, möchte die Rückzahlungsverpflichtung möglichst früh steuermindernd berücksichtigen. Das Hessische FG lehnte eine Rückstellung dafür zum Zeitpunkt der Betriebsaufgabe ab. Aus den Urteilsgründen lässt sich jedoch ableiten, wann eine Rückstellung erstmals zulässig sein kann. Streitfrage und Sachverhalt Ein Einzelunternehmer gab seinen Betrieb zum 31.12.2022 auf. Er hatte seinen...
+- **2026-10-26 — Lucanet Disclosure Management: Die neuen Funktionen im Überblick**
+  https://www.kleeberg.de/2026/10/26/lucanet-disclosure-management-die-neuen-funktionen-im-ueberblick/
+  > Mit mehreren Releases hat Lucanet das Disclosure Management in den vergangenen Monaten um neue Funktionen ergänzt. Im Fokus stehen dabei KI-gestützte Anwendungen, eine automatisierte Layout-Prüfung sowie neue Möglichkeiten für die Erstellung zielgruppenspezifischer Berichte. Auch die Rollenverwaltung und die Bearbeitung von Dokumenten und Tabellen wurden erweitert. Einleitung Der Geschäftsbericht entsteht...
+- **2026-10-26 — Entgeltlicher Verzicht auf Nießbrauch bei einem vermieteten Grundstück als steuerbare Entschädigung**
+  https://www.kleeberg.de/2026/10/26/entgeltlicher-verzicht-auf-niessbrauch-bei-einem-vermieteten-grundstueck-als-steuerbare-entschaedigung/
+  > Das Bundesfinanzministerium (BMF) hat mit dem aktuellen Schreiben vom 21.10.2026 auf eine Änderung der bestehenden Rechtsprechung des Bundesfinanzhofs (BFH) reagiert und klargestellt, dass das Entgelt für den Verzicht auf die Ausübung eines Nießbrauchrechts an einem zum Privatvermögen zugehörigen Grundstück eine steuerbare Entschädigung darstellt. Mit Urteil vom 10.10.2025 – IX R 4/24 – hat...
 
 ## SONNTAG & Partner (1)
 
-- **Sonderinformation: EuGH zum Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen**
-  https://www.sonntag-partner.de/sonderinformation-eugh-zum-widerrufsrecht-bei-ausserhalb-von-geschaeftsraeumen-geschlossenen-vertraegen/
+- **Sonderinformation: Neue Umsatzsteuerregeln bei der Vermietung von Betriebsvorrichtungen ab 2027**
+  https://www.sonntag-partner.de/sonderinformation-neue-umsatzsteuerregeln-bei-der-vermietung-von-betriebsvorrichtungen-ab-2027/
 
-## RWT (1)
+## RWT (11)
 
-- **RWT erhält FOCUS-Business-Siegel „Mitarbeiterempfehlung 2027“**
-  https://www.rwt-gruppe.de/news/rwt-erhaelt-focus-business-siegel-mitarbeiterempfehlung-2027.html
+- **Energiepreispauschale: Besteuerung ist verfassungsgemäß**
+  https://www.rwt-gruppe.de/news/energiepreispauschale-besteuerung-ist-verfassungsgemaess.html
+- **Vorrang beim Kindergeld: Maßgeblich ist der Lebensmittelpunkt des Kindes**
+  https://www.rwt-gruppe.de/news/vorrang-beim-kindergeld-massgeblich-ist-der-lebensmittelpunkt-des-kindes.html
+- **Inventur: Alternativen zur Bestandsaufnahme am Bilanzstichtag**
+  https://www.rwt-gruppe.de/news/inventur-alternativen-zur-bestandsaufnahme-am-bilanzstichtag.html
+- **Umsatzsteuer bei Hotelübernachtungen: BFH bestätigt Aufteilungsgebot für Zusatzleistungen**
+  https://www.rwt-gruppe.de/news/umsatzsteuer-bei-hoteluebernachtungen-bfh-bestaetigt-aufteilungsgebot-fuer-zusatzleistungen.html
+- **Offene Forderungen vor der Verjährung sichern**
+  https://www.rwt-gruppe.de/news/offene-forderungen-vor-der-verjaehrung-sichern.html
+- **Insolvenzverwaltervergütung: Rückstellung bei betrieblicher Veranlassung möglich**
+  https://www.rwt-gruppe.de/news/insolvenzverwalterverguetung-rueckstellung-bei-betrieblicher-veranlassung-moeglich.html
+- **Elektronisch unterstützte Betriebsprüfung: Ab 2027 Pflicht**
+  https://www.rwt-gruppe.de/news/elektronisch-unterstuetzte-betriebspruefung-ab-2027-pflicht.html
+- **Fahrtkosten: BFH konkretisiert den Betriebsstättenbegriff im Reisekostenrecht**
+  https://www.rwt-gruppe.de/news/fahrtkosten-bfh-konkretisiert-den-betriebsstaettenbegriff-im-reisekostenrecht.html
+- **Kassenreform: Was geplant ist**
+  https://www.rwt-gruppe.de/news/kassenreform-was-geplant-ist.html
+- **Die Ausgabe November 2026 der RWTkompakt ist da**
+  https://www.rwt-gruppe.de/fileadmin/user_upload/rwt/RWT_kompakt/RWTkompakt_Ausgabe_November_2026.pdf
+- **RWT-Webinar: Steuer-Update Herbst 2026**
+  https://www.rwt-gruppe.de/news/rwt-webinar-steuer-update-herbst-2026.html
 
 ---
-*Abruf: 26.10.2026 13:47 UTC*
+*Abruf: 02.11.2026 16:44 UTC*
