@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_run": "2026-11-02T16:44:30.207413+00:00",
+  "last_run": "2026-11-09T17:01:36.076690+00:00",
   "seen": {
     "ey": [
       "https://www.ey.com/de_de/technical/steuernachrichten/wichtige-steuertermine13",
@@ -109,7 +109,14 @@
       "https://kpmg.com/de/de/themen/2026/10/bfh-iv-r-3723.html",
       "https://kpmg.com/de/de/themen/2026/03/Krypto-Informationsaustausch-UmsG.html",
       "https://kpmg.com/de/de/themen/2026/10/bverfg-erbst-mdl-verhandlung1.html",
-      "https://kpmg.com/de/de/themen/2026/10/stabwv-2026.html"
+      "https://kpmg.com/de/de/themen/2026/10/stabwv-2026.html",
+      "https://kpmg.com/de/de/themen/2026/11/bfh-ir-3923.html",
+      "https://kpmg.com/de/de/themen/2026/11/bmf-8c-verlustausgleichsvolumen1.html",
+      "https://kpmg.com/de/de/themen/2026/11/eu-vvv-6b.html",
+      "https://kpmg.com/de/de/themen/2026/11/dba-rk-aendp-2026.html",
+      "https://kpmg.com/de/de/themen/2026/11/bmf-fzul-2026.html",
+      "https://kpmg.com/de/de/themen/2026/11/bmf-niessbrauch-entgelt.html",
+      "https://kpmg.com/de/de/themen/2026/11/cbcr-aendv-2026-27.html"
     ],
     "pwc": [
       "https://blogs.pwc.de/de/steuern-und-recht/article/254693/bmf-aufhebung-des-bmf-schreibens-vom-12-mai-2014/",
@@ -410,7 +417,23 @@
       "https://blogs.pwc.de/de/steuern-und-recht/article/257514/bmf-steuerliche-behandlung-von-kopplungsgeschaeften-bei-einem-investmentfonds/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/257504/einkommensteuer-nachweis-einer-steuerfreien-einlagenrueckgewaehr-aus-einer-eu-kapitalgesellschaft-nur-mit-ueberleitungsrechnung-moeglich/",
       "https://blogs.pwc.de/de/steuern-und-recht/article/257497/cum-ex-verfahren-hinterziehungszinsen-rechtmaessig-festgesetzt/",
-      "https://blogs.pwc.de/de/steuern-und-recht/article/257563/steuernachrichten-zum-hoeren-ausgabe-422-26-oktober-2026/"
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257563/steuernachrichten-zum-hoeren-ausgabe-422-26-oktober-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257707/kein-anspruch-auf-das-windhundprinzip-olg-duesseldorf-bestaetigt-entscheidungsspielraum-der-netzbetreiber-beim-wechsel-des-verteilungsverfahrens-fuer-netzanschlusskapazitaet/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257700/bmf-8c-kstg-und-wirkung-auf-ein-verlustausgleichsvolumen-des-vorjahres/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257699/umsetzung-einer-verstaendigungsvereinbarung-nach-dem-schiedsuebereinkommen/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257685/eugh-schlussantraege-unionsrechtlicher-anspruch-auf-steueranrechnungsvortrag-bei-verlusten-der-muttergesellschaft/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257673/steuern-recht-newsflash-6-november-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257672/eugh-schlussantraege-erstattung-von-kapitalertragsteuer-an-japanische-mutterkapitalgesellschaft/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257671/verschonung-von-betriebsvermoegen-in-der-erbschaft-und-schenkungsteuer-beschaeftigtenzahl-im-sinne-des-13a-abs-1-satz-4-erbstg-af/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257658/steuern-recht-aktuell-ausgabe-44-vom-5-november-2026/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257654/zollrecht-aktuell-november-2026-1/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257611/ende-des-zweistufigen-verfahrens-beim-gutglaubensschutz/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257629/stille-beteiligung-ohne-handelsgewerbe-wann-aus-einer-projektabsprache-eine-gesellschaft-wird/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257619/steuer-shorts-digitalisierung-saas-und-internationale-softwareeinkaeufe-warum-50a-estg-fuer-den-mittelstand-zum-praxisthema-wird/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257616/voraussetzungen-fuer-den-eintritt-der-ablaufhemmung-durch-den-beginn-von-ermittlungen-der-steuerfahndung/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257615/bmf-neues-anwendungsschreiben-zur-forschungszulage/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257612/zurechnung-eines-einbringungsgewinns-i-nach-unentgeltlicher-rechtsnachfolge/",
+      "https://blogs.pwc.de/de/steuern-und-recht/article/257610/kein-nachtraegliches-innergemeinschaftliches-dreiecksgeschaeft-durch-rechnungskorrektur/"
     ],
     "deloitte": [
       "https://www.deloitte-tax-news.de/arbeitnehmerentsendung-personal/thema-des-monats/neuntes-steuerberatungsaenderungsgesetz-1000-euro-entlastungspraemie-vorerst-gescheitert.html",
@@ -488,7 +511,10 @@
       "https://www.deloitte-tax-news.de/steuern/grundsteuer-grunderwerbsteuer/fg-koeln-keine-steuerbefreiung-nach-para-6a-grestg-bei-einbringung-eines-einzelunternehmens-in-eine-gmbh.html",
       "https://www.deloitte-tax-news.de/steuern/indirekte-steuern-zoll/bmf-e-rechnung-mehr-klarheit-fuer-die-praxis.html",
       "https://www.deloitte-tax-news.de/steuern/verfahrensrecht/bfh-aenderung-von-steuerbescheiden-bei-verdeckter-gewinnausschuettung.html",
-      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/eugh-verfahren-zur-polnischen-wegzugsbesteuerung.html"
+      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/eugh-verfahren-zur-polnischen-wegzugsbesteuerung.html",
+      "https://www.deloitte-tax-news.de/steuern/unternehmensteuer/bfh-zurechnung-eines-einbringungsgewinns-i-nach-unentgeltlicher-rechtsnachfolge.html",
+      "https://www.deloitte-tax-news.de/steuern/arbeitnehmerbesteuerung-sozialversicherung/lohnsteuer-aenderungsrichtlinien-2027.html",
+      "https://www.deloitte-tax-news.de/steuern/internationales-steuerrecht/eugh-missbrauch-nach-der-mutter-tochter-richtlinie.html"
     ],
     "fgs": [
       "https://www.fgs.de/news-and-insights/blog/detail/neuerungen-bei-der-besteuerung-von-fremdwaehrungsgewinnen-im-privatvermoegen-zweifel-an-der-besteuerung-von-fremdwaehrungsfestgeldanlagen-handlungsbedarf-fuer-die-praxis",
@@ -570,7 +596,10 @@
       "https://www.fgs.de/news-and-insights/blog/detail/entfall-des-ehegattenerbrechts-mit-scheidungsantrag",
       "https://www.fgs.de/news-and-insights/blog/detail/angepasstes-bmf-schreiben-zur-tonnagesteuer-nach-5a-estg",
       "https://www.fgs.de/news-and-insights/blog/detail/e-rechnung-bmf-ergaenzt-erneut-regelungen-fuer-die-praxis",
-      "https://www.fgs.de/news-and-insights/blog/detail/uebergangsfrist-fuer-steuerpflicht-von-entgelten-bei-abloesung-von-niessbrauchsrechten"
+      "https://www.fgs.de/news-and-insights/blog/detail/uebergangsfrist-fuer-steuerpflicht-von-entgelten-bei-abloesung-von-niessbrauchsrechten",
+      "https://www.fgs.de/news-and-insights/blog/detail/italien-plant-wegzugsbesteuerung-fuer-privatpersonen",
+      "https://www.fgs.de/news-and-insights/blog/detail/neues-besteuerungsregime-fuer-kryptogewinne-bmf-veroeffentlicht-referentenentwurf-zur-neuregelung-der-kryptobesteuerung",
+      "https://www.fgs.de/news-and-insights/blog/detail/kein-automatischer-uebergang-der-begehungsgefahr-nach-verschmelzung"
     ],
     "roedl": [
       "https://www.roedl.com/insights/ausgabe-19-2026-gewinnausschuettung-zeit-vor-aufloesung-gesellschaft-liquidation/",
@@ -625,7 +654,8 @@
       "https://www.roedl.com/insights/ausgabe-39-2026-umsatzsteuer-organschaft-bfh-krypto-bzst/",
       "https://www.roedl.com/insights/ausgabe-40-2026-bverfg-bfh-eugh-betriebsvermoegen-ki-steue/",
       "https://www.roedl.com/insights/ausgabe-41-2026-bundestag-beschliesst-fruehstartrente/",
-      "https://www.roedl.com/insights/ausgabe-42-2026-das-steuerrecht-kennt-keine-moral/"
+      "https://www.roedl.com/insights/ausgabe-42-2026-das-steuerrecht-kennt-keine-moral/",
+      "https://www.roedl.com/insights/ausgabe-43-2026-abschaffung-papierbelegpflicht/"
     ],
     "kmlz": [
       "https://www.kmlz.de/de/eugh-umsatzsteuerliche-behandlung-von-verrechnungspreisanpassungen",
@@ -652,7 +682,10 @@
       "https://www.kmlz.de/de/finanzielle-eingliederung-bei-der-umsatzsteuerrechtlichen-organschaft-bfh-justiert-nach",
       "https://www.kmlz.de/de/von-der-abgabe-zur-steuer-der-regierungsentwurf-zum-zuckergetraenkesteuergesetz",
       "https://www.kmlz.de/de/bmf-zur-verpachtung-von-betriebsvorrichtungen-bisheriges-aufteilungsgebot-entfaellt",
-      "https://www.kmlz.de/de/gutglaubensschutz-im-festsetzungsverfahren-verweis-auf-billigkeitsverfahren-unionsrechtswidrig"
+      "https://www.kmlz.de/de/gutglaubensschutz-im-festsetzungsverfahren-verweis-auf-billigkeitsverfahren-unionsrechtswidrig",
+      "https://www.kmlz.de/de/eug-reparatur-von-nicht-unionswaren-fuehrt-nicht-automatisch-zu-einfuhrumsatzsteuer",
+      "https://www.kmlz.de/de/eug-keine-umsatzsteuer-auf-unentgeltliche-werkzeugueberlassung-auch-unterzulieferer",
+      "https://www.kmlz.de/de/blick-ins-ausland-November-2026"
     ],
     "kleeberg": [
       "https://www.kleeberg.de/2026/05/18/abgrenzung-von-sofort-abzugsfaehigen-erhaltungsaufwendungen-und-nachtraeglichen-herstellungskosten/",
@@ -883,7 +916,13 @@
       "https://www.kleeberg.de/2026/10/28/idw-nimmt-zu-steuerreformvorschlaegen-stellung/",
       "https://www.kleeberg.de/2026/10/28/corona-hilfen-rueckstellungen-fuer-rueckzahlungen-erst-nach-einreichung-der-schlussabrechnung/",
       "https://www.kleeberg.de/2026/10/26/lucanet-disclosure-management-die-neuen-funktionen-im-ueberblick/",
-      "https://www.kleeberg.de/2026/10/26/entgeltlicher-verzicht-auf-niessbrauch-bei-einem-vermieteten-grundstueck-als-steuerbare-entschaedigung/"
+      "https://www.kleeberg.de/2026/10/26/entgeltlicher-verzicht-auf-niessbrauch-bei-einem-vermieteten-grundstueck-als-steuerbare-entschaedigung/",
+      "https://www.kleeberg.de/2026/11/06/handelsrechtliche-bilanzierung-von-immobilien-des-anlagevermoegens-idw-fachausschuss-beantwortet-praxisfragen/",
+      "https://www.kleeberg.de/2026/11/06/bmf-veroeffentlicht-neue-vervielfaeltiger-fuer-bewertungsstichtage-ab-2027/",
+      "https://www.kleeberg.de/2026/11/06/esma-kritik-an-der-ifrs-18-auslegung-zu-hypothetischen-groessen-in-management-performance-measures-mpms/",
+      "https://www.kleeberg.de/2026/11/04/aus-gwg-wird-gwbg-bmf-legt-entwurf-zur-umsetzung-der-6-eu-geldwaescherichtlinie-vor/",
+      "https://www.kleeberg.de/2026/11/04/abgrenzung-von-herstellungskosten-und-instandhaltungsaufwand-und-die-uebertragung-nach-%c2%a7-6b-estg/",
+      "https://www.kleeberg.de/2026/11/03/basiszinssatz-nach-idw-s-1-bleibt-zum-01-11-2026-gerundet-bei-375/"
     ],
     "rwt": [
       "https://www.rwt-gruppe.de/news/rwt-webinar-besteuerung-von-kryptowaehrungen-update-2026.html",
@@ -976,7 +1015,10 @@
       "https://www.rwt-gruppe.de/news/fahrtkosten-bfh-konkretisiert-den-betriebsstaettenbegriff-im-reisekostenrecht.html",
       "https://www.rwt-gruppe.de/news/kassenreform-was-geplant-ist.html",
       "https://www.rwt-gruppe.de/fileadmin/user_upload/rwt/RWT_kompakt/RWTkompakt_Ausgabe_November_2026.pdf",
-      "https://www.rwt-gruppe.de/news/rwt-webinar-steuer-update-herbst-2026.html"
+      "https://www.rwt-gruppe.de/news/rwt-webinar-steuer-update-herbst-2026.html",
+      "https://www.rwt-gruppe.de/news/rwt-webinar-umsatzsteuer-trends-2026-was-sie-wissen-muessen.html",
+      "https://www.rwt-gruppe.de/news/rwt-laut-juve-erneut-unter-den-fuehrenden-wirtschaftskanzleien-im-suedwesten.html",
+      "https://www.rwt-gruppe.de/news/rwt-baut-beratung-von-unternehmen-der-oeffentlichen-hand-mit-neuem-partner-am-standort-stuttgart-aus.html"
     ],
     "ebner_stolz": [
       "https://www.ebnerstolz.de/de/ueber-rsm-ebner-stolz/mediathek/podcasts/mittelstandstalk/greenwashing-empco-richtlinie-105546.html",
@@ -1006,7 +1048,9 @@
       "https://www.ebnerstolz.de/de/unser-angebot/branchen/agrar-und-ernaehrungsindustrie/agrar-ernaehrung-branchendialog-duesseldorf-2026-113694.html",
       "https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/allgemeine-steuerberatung/bmf-wendet-modifizierte-trennungstheorie-an-114695.html",
       "https://www.ebnerstolz.de/de/unser-angebot/branchen/handel/unternehmerdialog-handel-2026-strukturwandel-114608.html",
-      "https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/steuerstreit-juve-kuert-rsm-ebner-stolz-zur-kanzlei-des-jahres-2026-114967.html"
+      "https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/steuerstreit-juve-kuert-rsm-ebner-stolz-zur-kanzlei-des-jahres-2026-114967.html",
+      "https://www.ebnerstolz.de/de/unser-angebot/leistungen/steuerberatung/nachfolgeplanung/beschaeftigtenzahl-bei-erbschaftsteuerlichen-lohnsummenregelung-115461.html",
+      "https://www.ebnerstolz.de/de/unser-angebot/leistungen/consulting/management-consulting/strategy-transformation/kursbestimmung-agrar-ernaehrung-2026-114873.html"
     ],
     "forvis_mazars": [
       "https://www.forvismazars.com/de/de/ueber-uns/aktuelles/nachrichten/mandant-merck-erhaelt-auszeichnungen-fuer-esg-report",
@@ -1039,7 +1083,8 @@
       "https://www.grantthornton.de/presse/partnerzugang-cornelia-mercadal-vieira-grant-thornton-in-deutschland-starkt-audit-kompetenz-in-der-region-rhein-main/",
       "https://www.grantthornton.de/presse/grant-thornton-in-deutschland-besetzt-die-rollen-der-cpo-und-der-cdto-im-management-team/",
       "https://www.grantthornton.de/presse/teilhabe-am-unternehmenserfolg-neues-mitarbeitenden-beteiligungsprogramm-bei-grant-thornton-in-deutschland/",
-      "https://www.grantthornton.de/presse/grant-thornton-in-deutschland-gewinnt-zwei-neue-partner-fuer-tax-sowie-audit-and-assurance/"
+      "https://www.grantthornton.de/presse/grant-thornton-in-deutschland-gewinnt-zwei-neue-partner-fuer-tax-sowie-audit-and-assurance/",
+      "https://www.grantthornton.de/presse/geplante-veraenderungen-im-fuehrungsteam-von-grant-thornton-in-deutschland/"
     ],
     "baker_tilly": [
       "https://www.bakertilly.de/beitrag/vergabebeschleunigungsgesetz-zwischen-beschleunigung-flexibilisierung-und-neuer-verfahrenspraxis",
@@ -1131,7 +1176,11 @@
       "https://www.bakertilly.de/beitrag/sanitaetshaeuser-steuerliche-und-bilanzielle-fallstricke-und-was-der-3-abschlag-ab-2027-aendert",
       "https://www.bakertilly.de/beitrag/sozialversicherungsrechengroessen-2027-deutliche-anhebung-der-grenzwerte-geplant",
       "https://www.bakertilly.de/beitrag/management-buy-out-nachfolge-aus-den-eigenen-reihen",
-      "https://www.bakertilly.de/beitrag/it-kontrollen-im-ernstfall-was-die-php-sicherheitsluecke-fuer-den-jahresabschluss-bedeutet"
+      "https://www.bakertilly.de/beitrag/it-kontrollen-im-ernstfall-was-die-php-sicherheitsluecke-fuer-den-jahresabschluss-bedeutet",
+      "https://www.bakertilly.de/beitrag/kuendigungsschutz-fuer-geschaeftsfuehrer-bag-schafft-klarheit-zur-reihenfolge-von-abberufung-und-kuendigung",
+      "https://www.bakertilly.de/beitrag/baker-tilly-beraet-i40-und-ihre-gesellschafter-bei-der-strategischen-beteiligung-der-p29-group",
+      "https://www.bakertilly.de/beitrag/notarielle-online-verfahren-gmbh-anteilsabtretung-und-ag-gruendung-kuenftig-per-video",
+      "https://www.bakertilly.de/beitrag/baker-tilly-auf-der-structured-finance-2026-im-dialog-ueber-finanzierungsloesungen"
     ],
     "freshfields": [
       "https://www.freshfields.com/en/our-thinking/podcasts/esg-trends-to-watch-in-2026",
@@ -1279,7 +1328,17 @@
       "https://www.pkf-fasselt.de/artikel/die-e-rechnung-kommt-mit-der-e-rechnungsvalidierung-technische-fehler-erkennen-und-umsatzsteuerliche-risiken-minimieren",
       "https://www.pkf-fasselt.de/artikel/bmf-legt-bei-der-e-rechnung-nach",
       "https://www.pkf-fasselt.de/artikel/jahressteuergesetz-2026-aktueller-stand-und-weitere-entwicklungen-im-gesetzgebungsverfahren",
-      "https://www.pkf-fasselt.de/artikel/vorsteuerabzug-bei-erschliessungsmassnahmen-fuer-gewerbegrundstuecke-trotz-anschliessender-unentgeltlicher-uebertragung-an-die-gemeinde"
+      "https://www.pkf-fasselt.de/artikel/vorsteuerabzug-bei-erschliessungsmassnahmen-fuer-gewerbegrundstuecke-trotz-anschliessender-unentgeltlicher-uebertragung-an-die-gemeinde",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/doppelstiftung-praxisfall",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/einwurf-einschreiben",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/gmbh-anteile-unterbeteiligung",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/gesellschafterliste",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/gesellschafts-und-registerrecht",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/esg-reporting-aktuell",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/share-deals-bei-immobilien",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/aufwendung-ertragswertverfahren",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/anteil-immobilie",
+      "https://www.pkf.de/pkf-magazin/ausgaben/2026/ausgabe-11-26/editorial-11-26"
     ],
     "bansbach": [
       "https://www.bansbach-gruppe.de/bansbach-blog/finfluencer-als-rendite-falle-die-risiken-bei-den-aktien-tipps-auf-social-media/",
@@ -1417,7 +1476,12 @@
       "https://ecovis-kso.com/blog/forschungszulage-neues-bmf-schreiben/",
       "https://ecovis-kso.com/blog/e-rechnungen-was-jetzt-auf-unternehmen-in-deutschland-zukommt/",
       "https://ecovis-kso.com/blog/markthochlauf-nachhaltiger-flugkraftstoffe/",
-      "https://ecovis-kso.com/blog/phishing-in-der-arztpraxis/"
+      "https://ecovis-kso.com/blog/phishing-in-der-arztpraxis/",
+      "https://ecovis-kso.com/blog/rueckstellungen-fuer-arbeitsfreistellungen-neues-bmf-schreiben-2026/",
+      "https://ecovis-kso.com/blog/inventur-und-vorratsbewertung-best-practices/",
+      "https://ecovis-kso.com/blog/gewerbesteuerbefreiung-fuer-pflegedienste-abrechnung-ueber-dritte/",
+      "https://ecovis-kso.com/blog/wertpapiergebundene-pensionszusagen-bmf-regeln-2026/",
+      "https://ecovis-kso.com/blog/eu-reformiert-zollregeln-fuer-den-online-handel/"
     ],
     "poellath": [
       "https://www.pplaw.com/mandate/poellath-beraet-den-muenchner-kamera-und-lichthersteller-arri",
@@ -1605,7 +1669,11 @@
       "https://www.nexia.de/informationen/news/news-ansicht/schenkungsteuer-auch-negative-anteilswerte-zaehlen",
       "https://www.nexia.de/informationen/news/news-ansicht/gewerbesteuer-auf-rekordkurs",
       "https://www.nexia.de/steuer-update-koeln",
-      "https://www.nexia.de/informationen/news/news-ansicht/umsatzsteuer-bmf-aendert-regeln-fuer-die-vermietung-von-betriebsvorrichtungen"
+      "https://www.nexia.de/informationen/news/news-ansicht/umsatzsteuer-bmf-aendert-regeln-fuer-die-vermietung-von-betriebsvorrichtungen",
+      "https://www.nexia.de/informationen/news/news-ansicht/erbschaftsteuer-bfh-klaert-beschaeftigtenbegriff",
+      "https://www.nexia.de/informationen/news/news-ansicht/bundesregierung-plant-neue-vorgaben-fuer-kassensysteme",
+      "https://www.nexia.de/informationen/news/news-ansicht/eu-taxonomie-esma-und-eba-schlagen-vereinfachungen-bei-der-berichterstattung-vor",
+      "https://www.nexia.de/informationen/news/news-ansicht/steuerbescheid-trotz-steuerfahndung-verjaehrt"
     ],
     "noerr": [
       "https://www.noerr.com/de/insights/fusionskraftwerke-in-deutschland-und-der-eu",
@@ -1681,7 +1749,8 @@
       "https://www.noerr.com/de/insights/eu-fuhrt-gemeinsames-bewertungssystem-und-nachhaltigkeitskennzeichnung-fur-rechenzentren-ein",
       "https://www.noerr.com/de/insights/kabinettsbeschluss-zur-zuckergetrankesteuer-mastabe-des-bgh-bei-der-rechtfertigung-staatlicher-beschrankungen-von-eu-grundfreiheiten",
       "https://www.noerr.com/de/insights/entwurf-eines-investitionsprüfungsgesetzes,-c-,-was-investoren-wissen-müssen",
-      "https://www.noerr.com/de/insights/landgericht-muenchen-veroeffentlicht-neue-frend-leitlinien-ein-leitfaden-fuer-die-bestimmung-von-sep-lizenzgebuehren-mit-wichtigen-auswirkungen-auf-rechtsstreitigkeiten"
+      "https://www.noerr.com/de/insights/landgericht-muenchen-veroeffentlicht-neue-frend-leitlinien-ein-leitfaden-fuer-die-bestimmung-von-sep-lizenzgebuehren-mit-wichtigen-auswirkungen-auf-rechtsstreitigkeiten",
+      "https://www.noerr.com/de/insights/cyberangriff-mit-sachschaden-wer-zahlt"
     ],
     "lkc": [
       "https://lkc.de/lkc-gruppe-wird-teil-der-wirtschaftspruefungsplattform-atania/",
@@ -1728,7 +1797,10 @@
       "https://www.sonntag-partner.de/conlata-schliesst-sich-sonntag-an/",
       "https://www.sonntag-partner.de/sonntag-im-handelsblatt-ranking-das-sind-deutschlands-beste-kanzleien-2026-ausgezeichnet/",
       "https://www.sonntag-partner.de/sonderinformation-eugh-zum-widerrufsrecht-bei-ausserhalb-von-geschaeftsraeumen-geschlossenen-vertraegen/",
-      "https://www.sonntag-partner.de/sonderinformation-neue-umsatzsteuerregeln-bei-der-vermietung-von-betriebsvorrichtungen-ab-2027/"
+      "https://www.sonntag-partner.de/sonderinformation-neue-umsatzsteuerregeln-bei-der-vermietung-von-betriebsvorrichtungen-ab-2027/",
+      "https://www.sonntag-partner.de/sonderinformation-e-rechnung-2027-rueckt-naeher-neues-bmf-schreiben-bringt-klarheit-fuer-die-praxis/",
+      "https://www.sonntag-partner.de/vier-sterne-im-juve-handbuch-steuern-2026/",
+      "https://www.sonntag-partner.de/fuenf-sterne-im-juve-handbuch-wirtschaftskanzleien-2026-2027/"
     ]
   }
 }
